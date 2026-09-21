@@ -1,0 +1,14 @@
+# OS and editor junk — never commit these
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Video editing project files (keep these locally, share only finished MP4s)
+*.prproj
+*.drp
+*.capcut
+
+# Large raw footage — compress before committing, or host externally
+*.mov
+*.avi
