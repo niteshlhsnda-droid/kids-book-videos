@@ -10,6 +10,18 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ---
 
+## ⭐ Featured story
+
+**[Nia and the Sleepy Star](stories/2026-09-22-nia-and-the-sleepy-star.md)** — Nia finds a fallen star that has lost its glow, and with warmth and a lullaby helps it shine again. *Moral: Kindness gives others the strength to shine again.*
+
+🎬 [Watch the narrated video](videos/2026-09-22-nia-and-the-sleepy-star.mp4) · 📜 [Narration script](narration-scripts/2026-09-22-nia-and-the-sleepy-star-script.md) · 🎵 [Lullaby](assets/music/2026-09-22-nia-and-the-sleepy-star.mp3)
+
+A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
+---
+
 ## 📁 What's inside
 
 ```
