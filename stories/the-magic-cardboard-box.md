@@ -117,3 +117,7 @@ The end. 🌙
 ---
 
 *Moral: The best toys are the ones your imagination builds.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-magic-cardboard-box.pdf)
