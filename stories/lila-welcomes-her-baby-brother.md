@@ -119,3 +119,7 @@ The end. 🌙
 ---
 
 *Moral: A new sibling does not shrink love — love grows to fit everyone.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/lila-welcomes-her-baby-brother.pdf)
