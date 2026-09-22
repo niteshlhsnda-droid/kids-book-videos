@@ -93,3 +93,7 @@ The end. 🌙
 ---
 
 *Moral: What makes you different might be your greatest gift.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/dusty-the-donkeys-long-ears.pdf)
