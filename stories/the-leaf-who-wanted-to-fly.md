@@ -101,3 +101,7 @@ The end. 🌙
 ---
 
 *Moral: Sometimes wishes come true in their own gentle way.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-leaf-who-wanted-to-fly.pdf)
