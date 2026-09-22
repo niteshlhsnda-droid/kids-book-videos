@@ -45,3 +45,7 @@ The end. 🌙
 ---
 
 *Moral: Saying goodnight with love makes bedtime feel warm and complete.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-goodnight-zoo.pdf)
