@@ -100,3 +100,7 @@ The end. 🌙
 ---
 
 *Moral: Teamwork and sharing make sweet things even sweeter.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/bramble-the-bear-cub-and-the-high-honey.pdf)
