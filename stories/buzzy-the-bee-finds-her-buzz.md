@@ -89,3 +89,7 @@ The end. 🌙
 ---
 
 *Moral: Sometimes what feels lost is just resting inside you.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/buzzy-the-bee-finds-her-buzz.pdf)
