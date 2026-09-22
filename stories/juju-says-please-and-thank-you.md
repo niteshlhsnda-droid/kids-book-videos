@@ -123,3 +123,7 @@ The end. 🌙
 ---
 
 *Moral: Please and thank you are small words with big magic.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/juju-says-please-and-thank-you.pdf)
