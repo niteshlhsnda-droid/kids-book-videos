@@ -43,3 +43,7 @@ The end. 🌙
 ---
 
 *Moral: Everyone can join the dance in their own special way.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-firefly-dance.pdf)
