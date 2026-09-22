@@ -80,3 +80,7 @@ The end. 🌙
 ---
 
 *Moral: Listening carefully and walking slowly can guide you home.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/chira-the-chick-and-the-way-home.pdf)
