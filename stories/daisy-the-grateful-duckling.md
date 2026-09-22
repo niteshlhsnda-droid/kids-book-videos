@@ -113,3 +113,7 @@ The end. 🌙
 ---
 
 *Moral: Naming what we are thankful for turns a grumpy day bright.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/daisy-the-grateful-duckling.pdf)
