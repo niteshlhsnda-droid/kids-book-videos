@@ -76,3 +76,7 @@ The end. 🌙
 ---
 
 *Moral: There is always a gentle way to show love.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/holly-the-hedgehogs-gentle-hug.pdf)
