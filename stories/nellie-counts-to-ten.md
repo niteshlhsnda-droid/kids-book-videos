@@ -121,3 +121,7 @@ The end. 🌙
 ---
 
 *Moral: Take it one step at a time, and you will get there.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/nellie-counts-to-ten.pdf)
