@@ -68,3 +68,7 @@ The end. 🌙
 ---
 
 *Moral: Sharing what you love makes it even lovelier.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/tiko-the-turtle-who-hummed.pdf)
