@@ -137,3 +137,7 @@ The end. 🌙
 ---
 
 *Moral: Some friends are with you even when you can't see them.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/shadow-tag.pdf)
