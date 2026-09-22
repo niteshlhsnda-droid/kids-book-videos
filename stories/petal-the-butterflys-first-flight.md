@@ -90,3 +90,7 @@ The end. 🌙
 ---
 
 *Moral: Brave little tries can grow into beautiful flights.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/petal-the-butterflys-first-flight.pdf)
