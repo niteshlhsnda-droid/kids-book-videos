@@ -131,3 +131,7 @@ The end. 🌙
 ---
 
 *Moral: You don't have to sound like everyone else to make music.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/whistle-the-wind.pdf)
