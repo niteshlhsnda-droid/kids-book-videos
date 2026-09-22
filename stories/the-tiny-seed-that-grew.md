@@ -129,3 +129,7 @@ The end. 🌙
 ---
 
 *Moral: Big things start very, very small.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-tiny-seed-that-grew.pdf)
