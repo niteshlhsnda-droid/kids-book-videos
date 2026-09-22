@@ -49,3 +49,7 @@ The end. 🌙
 ---
 
 *Moral: Everyone has a special gift. Being brave means trying, even when you feel scared.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-brave-little-firefly.pdf)
