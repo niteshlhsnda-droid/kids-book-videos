@@ -127,3 +127,7 @@ The end. 🌙
 ---
 
 *Moral: Forgiving a friend heals both hearts and keeps friendship strong.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/sona-forgives-her-friend.pdf)
