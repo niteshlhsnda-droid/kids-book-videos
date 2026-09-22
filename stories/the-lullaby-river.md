@@ -37,3 +37,7 @@ The end. 🌙
 ---
 
 *Moral: You do not have to carry worries to bed; you can let them float away.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-lullaby-river.pdf)
