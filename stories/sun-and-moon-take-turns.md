@@ -111,3 +111,7 @@ The end. 🌙
 ---
 
 *Moral: Taking turns makes everyone shine.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/sun-and-moon-take-turns.pdf)
