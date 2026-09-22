@@ -41,3 +41,7 @@ The end. 🌙
 ---
 
 *Moral: Sharing what you have makes it shine even brighter.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-moon-shares-its-light.pdf)
