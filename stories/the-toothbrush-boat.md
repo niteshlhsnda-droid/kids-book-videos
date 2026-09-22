@@ -41,3 +41,7 @@ The end. 🌙
 ---
 
 *Moral: Everyday jobs become adventures when you use your imagination.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-toothbrush-boat.pdf)
