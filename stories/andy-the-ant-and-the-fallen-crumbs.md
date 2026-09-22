@@ -88,3 +88,7 @@ The end. 🌙
 ---
 
 *Moral: Friends can turn a spill into a celebration.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/andy-the-ant-and-the-fallen-crumbs.pdf)
