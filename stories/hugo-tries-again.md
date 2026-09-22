@@ -119,3 +119,7 @@ The end. 🌙
 ---
 
 *Moral: When we try again, we grow stronger every time.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/hugo-tries-again.pdf)
