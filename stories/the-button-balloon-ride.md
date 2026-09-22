@@ -107,3 +107,7 @@ The end. 🌙
 ---
 
 *Moral: The best adventures are the ones you share.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-button-balloon-ride.pdf)
