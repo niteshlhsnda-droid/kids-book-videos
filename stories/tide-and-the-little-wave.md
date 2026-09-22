@@ -97,3 +97,7 @@ The end. 🌙
 ---
 
 *Moral: Being small never stops you from doing something kind.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/tide-and-the-little-wave.pdf)
