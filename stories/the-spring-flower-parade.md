@@ -115,3 +115,7 @@ The end. 🌙
 ---
 
 *Moral: Beautiful things bloom for those who watch and wait.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-spring-flower-parade.pdf)
