@@ -37,3 +37,7 @@ The end. 🌙
 ---
 
 *Moral: Imagination can turn an ordinary bath into an extraordinary voyage.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-dream-boat.pdf)
