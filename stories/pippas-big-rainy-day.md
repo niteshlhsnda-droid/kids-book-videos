@@ -51,3 +51,7 @@ The end. 🌧️
 ---
 
 *Moral: Sharing and friendship can turn a gloomy day into a happy one.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/pippas-big-rainy-day.pdf)
