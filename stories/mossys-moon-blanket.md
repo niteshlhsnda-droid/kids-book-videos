@@ -33,3 +33,7 @@ The end. 🌙
 ---
 
 *Moral: When you care for others, your own heart feels cozy too.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/mossys-moon-blanket.pdf)
