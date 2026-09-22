@@ -131,3 +131,7 @@ The end. 🌙
 ---
 
 *Moral: Kindness comes in all sizes, even crumb-sized.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-ant-picnic.pdf)
