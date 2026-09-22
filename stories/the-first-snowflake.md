@@ -113,3 +113,7 @@ The end. 🌙
 ---
 
 *Moral: Quiet wonders are the sweetest kind to watch.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-first-snowflake.pdf)
