@@ -89,3 +89,7 @@ The end. 🌙
 ---
 
 *Moral: You are wonderful exactly as you are.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/lulu-the-ladybugs-missing-spot.pdf)
