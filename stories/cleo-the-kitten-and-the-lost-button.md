@@ -82,3 +82,7 @@ The end. 🌙
 ---
 
 *Moral: Looking with love and patience helps you find what matters.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/cleo-the-kitten-and-the-lost-button.pdf)
