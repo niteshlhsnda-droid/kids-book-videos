@@ -113,3 +113,7 @@ The end. 🌙
 ---
 
 *Moral: A little kindness can make a new friend feel at home.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/ella-is-kind-to-someone-new.pdf)
