@@ -111,3 +111,7 @@ The end. 🌙
 ---
 
 *Moral: Jealous feelings shrink when we name them and feel glad for others.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/rory-the-jealous-raccoon.pdf)
