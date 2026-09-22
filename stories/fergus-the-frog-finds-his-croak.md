@@ -85,3 +85,7 @@ The end. 🌙
 ---
 
 *Moral: Every voice, big or small, makes the song complete.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/fergus-the-frog-finds-his-croak.pdf)
