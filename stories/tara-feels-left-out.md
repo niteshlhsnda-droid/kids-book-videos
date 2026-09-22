@@ -115,3 +115,7 @@ The end. 🌙
 ---
 
 *Moral: When we feel left out, telling someone kindly can open the circle again.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/tara-feels-left-out.pdf)
