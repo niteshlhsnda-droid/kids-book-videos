@@ -87,3 +87,7 @@ The end. 🌙
 ---
 
 *Moral: There is more than one way to enjoy something beautiful.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/marnie-the-mole-hears-the-stars.pdf)
