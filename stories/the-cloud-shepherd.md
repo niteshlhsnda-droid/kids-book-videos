@@ -107,3 +107,7 @@ The end. 🌙
 ---
 
 *Moral: Going slowly is fine when someone cares about you.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-cloud-shepherd.pdf)
