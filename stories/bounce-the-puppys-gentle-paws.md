@@ -84,3 +84,7 @@ The end. 🌙
 ---
 
 *Moral: Gentle paws show friends how much you care.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/bounce-the-puppys-gentle-paws.pdf)
