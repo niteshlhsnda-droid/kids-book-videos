@@ -98,3 +98,7 @@ The end. 🌙
 ---
 
 *Moral: Listening closely is one of the kindest gifts you can give.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/koko-the-parrot-learns-to-listen.pdf)
