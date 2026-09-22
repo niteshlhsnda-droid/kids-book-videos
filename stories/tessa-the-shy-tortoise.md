@@ -121,3 +121,7 @@ The end. 🌙
 ---
 
 *Moral: Shy is okay — one small hello can grow into a friend.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/tessa-the-shy-tortoise.pdf)
