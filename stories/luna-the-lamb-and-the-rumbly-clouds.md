@@ -86,3 +86,7 @@ The end. 🌙
 ---
 
 *Moral: Understanding a scary sound can turn fear into comfort.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/luna-the-lamb-and-the-rumbly-clouds.pdf)
