@@ -117,3 +117,7 @@ The end. 🌙
 ---
 
 *Moral: Missing someone is love with nowhere to sit — so we send the love to them.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/kabir-misses-grandma.pdf)
