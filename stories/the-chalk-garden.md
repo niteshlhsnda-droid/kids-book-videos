@@ -127,3 +127,7 @@ The end. 🌙
 ---
 
 *Moral: A little kindness makes every creation happier.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-chalk-garden.pdf)
