@@ -123,3 +123,7 @@ The end. 🌙
 ---
 
 *Moral: A new place becomes home when love moves with us.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/benny-moves-to-a-new-burrow.pdf)
