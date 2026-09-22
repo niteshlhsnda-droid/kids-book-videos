@@ -109,3 +109,7 @@ The end. 🌙
 ---
 
 *Moral: Listening closely can turn a rainy day into a song.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-rain-who-sang.pdf)
