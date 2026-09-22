@@ -119,3 +119,7 @@ The end. 🌙
 ---
 
 *Moral: Being kind is better than being scary.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/sam-the-friendly-scarecrow.pdf)
