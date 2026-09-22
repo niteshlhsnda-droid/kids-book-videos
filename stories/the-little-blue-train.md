@@ -123,3 +123,7 @@ The end. 🌙
 ---
 
 *Moral: With a good friend, every journey is an adventure.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-little-blue-train.pdf)
