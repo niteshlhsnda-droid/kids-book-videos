@@ -41,3 +41,7 @@ The end. 🌙
 ---
 
 *Moral: Even helpers need rest, and it is kind to let them have it.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-sleepy-lighthouse.pdf)
