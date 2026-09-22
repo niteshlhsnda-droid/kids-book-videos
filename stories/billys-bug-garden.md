@@ -111,3 +111,7 @@ The end. 🌙
 ---
 
 *Moral: Sharing a little can make room for everyone.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/billys-bug-garden.pdf)
