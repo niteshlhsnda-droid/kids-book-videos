@@ -41,3 +41,7 @@ The end. 🌙
 ---
 
 *Moral: Scary things often turn out to be something silly and safe.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-blanket-fort.pdf)
