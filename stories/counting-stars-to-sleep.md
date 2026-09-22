@@ -37,3 +37,7 @@ The end. 🌙
 ---
 
 *Moral: Slow, gentle counting can turn a restless mind into a sleepy one.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/counting-stars-to-sleep.pdf)
