@@ -113,3 +113,7 @@ The end. 🌙
 ---
 
 *Moral: Telling the truth is brave, and it makes our hearts feel light.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/leo-tells-the-truth.pdf)
