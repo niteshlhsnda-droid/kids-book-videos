@@ -90,3 +90,7 @@ The end. 🌙
 ---
 
 *Moral: Going slowly is fine when friends help along the way.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/suki-the-snail-delivers-the-invitation.pdf)
