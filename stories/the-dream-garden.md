@@ -41,3 +41,7 @@ The end. 🌙
 ---
 
 *Moral: Worries grow smaller when you set them down before sleep.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-dream-garden.pdf)
