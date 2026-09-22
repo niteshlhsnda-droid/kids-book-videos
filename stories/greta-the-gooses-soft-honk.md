@@ -94,3 +94,7 @@ The end. 🌙
 ---
 
 *Moral: A gentle voice can be the warmest hello.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/greta-the-gooses-soft-honk.pdf)
