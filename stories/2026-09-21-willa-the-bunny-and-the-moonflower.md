@@ -15,3 +15,7 @@ That evening the sky turned the color of blackberry jam, and the first stars pee
 *💛 Tonight's gentle lesson: patience makes sweet surprises even sweeter.*
 
 *Originally shared on Instagram [@kids.stories.tales](https://www.instagram.com/p/DdjyKpCDjsX/) on September 21, 2026.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/2026-09-21-willa-the-bunny-and-the-moonflower.pdf)
