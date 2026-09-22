@@ -43,3 +43,7 @@ The end. 🌙
 ---
 
 *Moral: Rest can be a gentle journey, and it is okay to let it carry you.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-night-train.pdf)
