@@ -86,3 +86,7 @@ The end. 🌙
 ---
 
 *Moral: Dancing your own way is the most beautiful dance of all.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/faye-the-deer-fawns-firefly-dance.pdf)
