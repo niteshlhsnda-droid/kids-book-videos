@@ -123,3 +123,7 @@ The end. 🌙
 ---
 
 *Moral: Gentle hands and a gentle heart keep small creatures safe.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/zara-and-the-tiny-ladybird.pdf)
