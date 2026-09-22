@@ -41,3 +41,7 @@ The end. 🌙
 ---
 
 *Moral: Those who care for others deserve to be cared for too.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/hoots-sleepy-rounds.pdf)
