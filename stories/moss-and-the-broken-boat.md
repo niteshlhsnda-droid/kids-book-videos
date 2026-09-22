@@ -111,3 +111,7 @@ The end. 🌙
 ---
 
 *Moral: Sad feelings get softer when we share them and take our time.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/moss-and-the-broken-boat.pdf)
