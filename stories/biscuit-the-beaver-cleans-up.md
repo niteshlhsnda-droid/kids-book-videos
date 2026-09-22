@@ -115,3 +115,7 @@ The end. 🌙
 ---
 
 *Moral: Tidying up feels hard to start, but a clean space feels wonderful.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/biscuit-the-beaver-cleans-up.pdf)
