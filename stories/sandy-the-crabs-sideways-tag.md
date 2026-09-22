@@ -86,3 +86,7 @@ The end. 🌙
 ---
 
 *Moral: What makes you different can make the game better for everyone.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/sandy-the-crabs-sideways-tag.pdf)
