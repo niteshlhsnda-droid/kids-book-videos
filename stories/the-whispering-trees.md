@@ -41,3 +41,7 @@ The end. 🌙
 ---
 
 *Moral: Strange sounds become sweet once you learn they come from love.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-whispering-trees.pdf)
