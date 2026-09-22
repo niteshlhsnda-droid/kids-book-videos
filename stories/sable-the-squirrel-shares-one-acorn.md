@@ -80,3 +80,7 @@ The end. 🌙
 ---
 
 *Moral: Sharing a little can make everyone feel full.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/sable-the-squirrel-shares-one-acorn.pdf)
