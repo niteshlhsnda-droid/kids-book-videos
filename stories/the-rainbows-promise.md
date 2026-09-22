@@ -119,3 +119,7 @@ The end. 🌙
 ---
 
 *Moral: Some beautiful things are meant to be watched, not caught.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-rainbows-promise.pdf)
