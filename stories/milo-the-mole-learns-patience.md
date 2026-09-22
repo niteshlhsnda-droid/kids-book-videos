@@ -123,3 +123,7 @@ The end. 🌙
 ---
 
 *Moral: Patience means waiting kindly — good things grow slow.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/milo-the-mole-learns-patience.pdf)
