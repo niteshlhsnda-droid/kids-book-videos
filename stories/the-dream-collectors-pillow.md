@@ -41,3 +41,7 @@ The end. 🌙
 ---
 
 *Moral: Dreams are even sweeter when they are shared with love.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-dream-collectors-pillow.pdf)
