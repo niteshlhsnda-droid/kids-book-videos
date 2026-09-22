@@ -41,3 +41,7 @@ The end. 🌙
 ---
 
 *Moral: Loud things are less scary once you understand their gentle purpose.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-clock-that-sings.pdf)
