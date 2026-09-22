@@ -117,3 +117,7 @@ The end. 🌙
 ---
 
 *Moral: Saying sorry with a true heart can fix more than the mistake.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/kiki-says-sorry.pdf)
