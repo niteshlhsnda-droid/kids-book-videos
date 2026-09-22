@@ -115,3 +115,7 @@ The end. 🌙
 ---
 
 *Moral: Look closely, and ordinary things hold whole worlds.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-puddle-mirror.pdf)
