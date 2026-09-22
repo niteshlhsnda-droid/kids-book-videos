@@ -91,3 +91,7 @@ The end. 🌙
 ---
 
 *Moral: A shared nibble tastes twice as sweet.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/hazel-the-hamster-shares-a-nibble.pdf)
