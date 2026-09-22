@@ -119,3 +119,7 @@ The end. 🌙
 ---
 
 *Moral: Listening carefully helps us hear the world — and shows we care.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/bobo-learns-to-listen.pdf)
