@@ -94,3 +94,7 @@ The end. 🌙
 ---
 
 *Moral: Searching together makes finding even more joyful.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/ozzie-the-otters-lost-pebble.pdf)
