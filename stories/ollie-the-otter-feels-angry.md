@@ -135,3 +135,7 @@ The end. 🌙
 ---
 
 *Moral: When anger comes, slow breaths help it go.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/ollie-the-otter-feels-angry.pdf)
