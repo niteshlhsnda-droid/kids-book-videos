@@ -113,3 +113,7 @@ The end. 🌙
 ---
 
 *Moral: Being brave means feeling scared and staying cozy anyway.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/bruno-and-the-rumbling-sky.pdf)
