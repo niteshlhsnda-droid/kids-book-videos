@@ -113,3 +113,7 @@ The end. 🌙
 ---
 
 *Moral: Sharing turns one person's joy into two people's joy.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/chiku-shares-his-acorns.pdf)
