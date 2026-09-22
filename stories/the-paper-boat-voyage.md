@@ -113,3 +113,7 @@ The end. 🌙
 ---
 
 *Moral: Even little boats can go on big voyages.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-paper-boat-voyage.pdf)
