@@ -113,3 +113,7 @@ The end. 🌙
 ---
 
 *Moral: Feeling nervous is normal — trying anyway is what makes us brave.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/devs-first-day-of-school.pdf)
