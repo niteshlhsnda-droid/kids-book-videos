@@ -113,3 +113,7 @@ The end. 🌙
 ---
 
 *Moral: Hold on tight, and you can weather any gust.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-kite-that-danced.pdf)
