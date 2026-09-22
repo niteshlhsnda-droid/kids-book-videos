@@ -77,3 +77,7 @@ The end. 🌙
 ---
 
 *Moral: Your own small voice is just right the way it is.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/dilly-the-ducklings-soft-quack.pdf)
