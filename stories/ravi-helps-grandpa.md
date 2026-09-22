@@ -113,3 +113,7 @@ The end. 🌙
 ---
 
 *Moral: Helping someone we love makes our own heart happy too.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/ravi-helps-grandpa.pdf)
