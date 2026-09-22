@@ -43,3 +43,7 @@ The end. 🌙
 ---
 
 *Moral: Even the brightest and busiest need to rest so they can shine again.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/sunny-says-goodnight.pdf)
