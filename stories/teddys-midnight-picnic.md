@@ -39,3 +39,7 @@ The end. 🌙
 ---
 
 *Moral: A small, gentle snack and a good friend can chase midnight hunger away.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/teddys-midnight-picnic.pdf)
