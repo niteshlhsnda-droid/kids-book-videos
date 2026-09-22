@@ -119,3 +119,7 @@ The end. 🌙
 ---
 
 *Moral: Doctors are helpers, and being brave means feeling scared and going anyway.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/piku-is-brave-at-the-doctor.pdf)
