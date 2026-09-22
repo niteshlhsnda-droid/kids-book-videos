@@ -39,3 +39,7 @@ The end. 🌙
 ---
 
 *Moral: A warm bath can wash away a grumpy mood along with the day's dust.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/bobbys-bubble-bay.pdf)
