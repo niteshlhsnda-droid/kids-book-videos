@@ -127,3 +127,7 @@ The end. 🌙
 ---
 
 *Moral: Joy is brightest when it is shared.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/dancing-with-fireflies.pdf)
