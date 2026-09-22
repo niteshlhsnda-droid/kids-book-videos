@@ -90,3 +90,7 @@ The end. 🌙
 ---
 
 *Moral: A calm breath and a kind friend can bring the sleepiest sleep.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/koda-the-koala-and-the-sleepy-leaf.pdf)
