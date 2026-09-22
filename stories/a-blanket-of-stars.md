@@ -39,3 +39,7 @@ The end. 🌙
 ---
 
 *Moral: Comfort can be found in unexpected places when you wish with an open heart.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/a-blanket-of-stars.pdf)
