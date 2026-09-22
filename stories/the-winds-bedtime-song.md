@@ -41,3 +41,7 @@ The end. 🌙
 ---
 
 *Moral: A gentle song can calm even the wildest and loudest feelings.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-winds-bedtime-song.pdf)
