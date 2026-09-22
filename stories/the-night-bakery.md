@@ -43,3 +43,7 @@ The end. 🌙
 ---
 
 *Moral: Helping make something warm fills your own heart with warmth too.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-night-bakery.pdf)
