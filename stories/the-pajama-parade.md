@@ -43,3 +43,7 @@ The end. 🌙
 ---
 
 *Moral: Bedtime routines are more fun when you make them a celebration.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/the-pajama-parade.pdf)
