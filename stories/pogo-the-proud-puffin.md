@@ -127,3 +127,7 @@ The end. 🌙
 ---
 
 *Moral: Feeling proud of trying matters more than being perfect.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/pogo-the-proud-puffin.pdf)
