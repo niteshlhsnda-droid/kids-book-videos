@@ -85,3 +85,7 @@ The end. 🌙
 ---
 
 *Moral: Holding a friend's flipper makes scary things feel safe.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/pip-the-penguin-and-the-slippery-hill.pdf)
