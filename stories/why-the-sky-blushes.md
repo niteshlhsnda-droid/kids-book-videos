@@ -109,3 +109,7 @@ The end. 🌙
 ---
 
 *Moral: Bedtime is beautiful, for skies and children alike.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/why-the-sky-blushes.pdf)
