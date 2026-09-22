@@ -43,3 +43,7 @@ The end. 🌙
 ---
 
 *Moral: Things that seem scary are often just wonderful things we do not understand yet.*
+
+---
+
+📥 [Download this story as an illustrated PDF](../book/stories/moonbeam-mail.pdf)
