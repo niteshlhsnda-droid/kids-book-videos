@@ -47,7 +47,7 @@ badge on the book's own page before adapting.
 
 | Date | Story | Source |
 |------|-------|--------|
-| _(none yet)_ | | |
+| 2026-09-23 | Tilly the Tortoise and the Racing Hare | Aesop's Fables (The Tortoise and the Hare) — public domain |
 
 > Contributors: suggest new queue entries via pull request — include the source
 > URL and its license. See [CONTRIBUTING.md](../CONTRIBUTING.md).
