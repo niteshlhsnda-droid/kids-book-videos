@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Tilly the Tortoise and the Racing Hare](stories/2026-09-23-tilly-the-tortoise-and-the-racing-hare.md)** — A loving retelling of Aesop's "The Tortoise and the Hare" (public domain): Tilly the tortoise wins a race against the speedy hare by simply keeping on going. *Moral: Slow and steady, step by step, finishes the race.*
+**[Bram the Badger and the Whispering Woods](stories/2026-09-24-bram-the-badger-and-the-whispering-woods.md)** — An original bedtime tale: Bram is afraid of the dark woods, until his friend Hattie the hedgehog teaches him that saying your fear out loud makes it smaller. *Moral: Saying your fear out loud makes it smaller — and walking beside a friend makes it disappear.*
 
-🎬 [Watch the narrated video](videos/2026-09-23-tilly-the-tortoise-and-the-racing-hare.mp4) · 📜 [Narration script](narration-scripts/2026-09-23-tilly-the-tortoise-and-the-racing-hare-script.md) · 🎵 [Lullaby](assets/music/2026-09-23-tilly-the-tortoise-and-the-racing-hare.mp3)
+🎬 [Watch the narrated video](videos/2026-09-24-bram-the-badger-and-the-whispering-woods.mp4) · 📜 [Narration script](narration-scripts/2026-09-24-bram-the-badger-and-the-whispering-woods-script.md) · 🎵 [Lullaby](assets/music/2026-09-24-bram-the-badger-and-the-whispering-woods.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-09-24 | [Bram the Badger and the Whispering Woods](stories/2026-09-24-bram-the-badger-and-the-whispering-woods.md) (original) | Saying your fear out loud makes it smaller — and walking beside a friend makes it disappear. |
 | 2026-09-23 | [Tilly the Tortoise and the Racing Hare](stories/2026-09-23-tilly-the-tortoise-and-the-racing-hare.md) (adapted — Aesop's Fables, public domain) | Slow and steady, step by step, finishes the race. |
 | 2026-09-22 | [Nia and the Sleepy Star](stories/2026-09-22-nia-and-the-sleepy-star.md) (original) | Kindness gives others the strength to shine again. |
 | 2026-09-21 | [Willa the Bunny and the Moonflower](stories/2026-09-21-willa-the-bunny-and-the-moonflower.md) (original) | Patience makes sweet surprises even sweeter. |
