@@ -48,6 +48,7 @@ badge on the book's own page before adapting.
 | Date | Story | Source |
 |------|-------|--------|
 | 2026-09-23 | Tilly the Tortoise and the Racing Hare | Aesop's Fables (The Tortoise and the Hare) — public domain |
+| 2026-09-25 | Hoofy the Camel and the Helpful Hump | Rudyard Kipling, *Just So Stories* ("How the Camel Got His Hump", 1902) — public domain |
 
 > Contributors: suggest new queue entries via pull request — include the source
 > URL and its license. See [CONTRIBUTING.md](../CONTRIBUTING.md).
