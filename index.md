@@ -5,7 +5,7 @@ title: The Big Bedtime Storybook
 
 # 🌙 The Big Bedtime Storybook
 
-103 original bedtime stories for ages 4–7. Click a title to read the story.
+109 bedtime stories for ages 4–7 — 103 original tales plus 6 timeless classics. Click a title to read the story.
 
 📖 [Read the whole book in one page](book/bedtime-storybook.html)
 
@@ -116,6 +116,19 @@ title: The Big Bedtime Storybook
 - [Whistle the Wind](stories/whistle-the-wind.html)
 - [Why the Sky Blushes](stories/why-the-sky-blushes.html)
 - [Zara and the Tiny Ladybird](stories/zara-and-the-tiny-ladybird.html)
+
+---
+
+## Classic Stories
+
+Timeless tales from Aesop's fables and classic fairy tales, retold for bedtime.
+
+- [The Thirsty Crow](stories/classic-the-thirsty-crow.html)
+- [The Tortoise and the Hare](stories/classic-the-tortoise-and-the-hare.html)
+- [The Lion and the Mouse](stories/classic-the-lion-and-the-mouse.html)
+- [Cinderella](stories/classic-cinderella.html)
+- [Goldilocks and the Three Bears](stories/classic-goldilocks-and-the-three-bears.html)
+- [Little Red Riding Hood](stories/classic-little-red-riding-hood.html)
 
 ---
 
