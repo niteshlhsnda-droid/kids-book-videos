@@ -4,105 +4,47 @@
 
 ---
 
-Rory was a young raccoon.
+Rory was a young raccoon, and his best friend was Dottie the duck.
 
-His best friend was Dottie the duck.
+One day, Dottie got a new red scarf. It was soft and bright. Everyone said, "What a pretty scarf!"
 
-One day, Dottie got a new red scarf.
+Rory felt jealous. His chest felt tight. His smile felt wobbly.
 
-It was soft and bright.
+"I want a red scarf too," he thought. He did not feel happy for Dottie. He felt grumpy instead.
 
-Everyone said, "What a pretty scarf!"
+Dottie noticed. "Do you want to try it on?" she asked.
 
-Rory felt jealous.
+Rory shook his head. He sat under the bush alone.
 
-His chest felt tight.
-
-His smile felt wobbly.
-
-"I want a red scarf too," he thought.
-
-He did not feel happy for Dottie.
-
-He felt grumpy instead.
-
-Dottie noticed.
-
-"Do you want to try it on?" she asked.
-
-Rory shook his head.
-
-He sat under the bush alone.
-
-Mama Raccoon found him there.
-
-She said, "I see you feel jealous."
+Mama Raccoon found him there. "I see you feel jealous," she said.
 
 Rory nodded slowly.
 
-"It is okay to feel jealous," Mama said.
+"It is okay to feel jealous," Mama said. "Feelings are like clouds. They pass."
 
-"Feelings are like clouds. They pass."
-
-Mama sat beside him.
-
-She said, "Jealous is just wanting. It does not make you bad."
+Mama sat beside him. "Jealous is just wanting. It does not make you bad," she said.
 
 "Jealous is just wanting. It does not make you bad," she said again.
 
 "Jealous is just wanting. It does not make you bad," she said one more time.
 
-Rory breathed out.
-
-The tight feeling loosened a little.
+Rory breathed out. The tight feeling loosened a little.
 
 "What can I do?" he asked.
 
-"You can tell Dottie how you feel," Mama said.
+"You can tell Dottie how you feel," Mama said. "And you can be glad for her too."
 
-"And you can be glad for her too."
+Rory walked back to Dottie. "I felt jealous of your scarf," he said, "but I am glad you have it."
 
-Rory walked back to Dottie.
+Dottie smiled big. "Thank you for telling me," she said.
 
-"I felt jealous of your scarf," he said.
+Then she did something kind. She gave Rory her old blue scarf. "It is yours now," she said.
 
-"But I am glad you have it."
+Rory wrapped it around his neck. It was soft and warm. He felt happy — really happy.
 
-Dottie smiled big.
+That night, Rory wore his blue scarf to bed. He thought about Dottie. He felt glad in his heart — glad for his friend, glad for himself.
 
-"Thank you for telling me," she said.
-
-Then she did something kind.
-
-She gave Rory her old blue scarf.
-
-"It is yours now," she said.
-
-Rory wrapped it around his neck.
-
-It was soft and warm.
-
-He felt happy.
-
-Really happy.
-
-That night, Rory wore his blue scarf to bed.
-
-He thought about Dottie.
-
-He felt glad in his heart.
-
-Glad for his friend.
-
-Glad for himself.
-
-The moon glowed through the leaves.
-
-Rory closed his eyes.
-
-He was cozy.
-
-He was kind.
+The moon glowed through the leaves. Rory closed his eyes. He was cozy. He was kind.
 
 Goodnight, Rory.
 

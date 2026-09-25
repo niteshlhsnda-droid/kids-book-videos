@@ -4,117 +4,47 @@
 
 ---
 
-Milo was a little mole.
+Milo was a little mole who lived under the big oak tree. One spring morning, he planted a seed — a sunflower seed. He patted the soil, watered it, and then he waited.
 
-He lived under the big oak tree.
+One hour passed. Nothing happened.
 
-One spring morning, he planted a seed.
+Milo felt impatient. His paws wiggled. His nose twitched.
 
-A sunflower seed.
+"Grow, seed, grow!" he said. He dug it up to check. The seed was still just a seed.
 
-He patted the soil.
-
-He watered it.
-
-Then he waited.
-
-One hour passed.
-
-Nothing happened.
-
-Milo felt impatient.
-
-His paws wiggled.
-
-His nose twitched.
-
-"Grow, seed, grow!" he said.
-
-He dug it up to check.
-
-The seed was still just a seed.
-
-Grandpa Mole chuckled softly.
-
-He said, "I see you feel impatient."
+Grandpa Mole chuckled softly. "I see you feel impatient," he said.
 
 Milo nodded.
 
-"It is okay to feel impatient," Grandpa said.
+"It is okay to feel impatient," Grandpa said. "Waiting is hard for everyone."
 
-"Waiting is hard for everyone."
-
-Grandpa sat beside him.
-
-He said, "Good things grow slow, like love."
+Grandpa sat beside him. "Good things grow slow, like love," he said.
 
 "Good things grow slow, like love," he said again.
 
 "Good things grow slow, like love," he said one more time.
 
-Milo took a deep breath.
-
-He put the seed back in the soil.
-
-He patted it gently.
+Milo took a deep breath. He put the seed back in the soil and patted it gently.
 
 "Sorry, little seed," he whispered.
 
-Every day, Milo watered the seed.
-
-He sang it a tiny song.
-
-He did not dig it up again.
+Every day, Milo watered the seed and sang it a tiny song. He did not dig it up again.
 
 One day, a green sprout peeked out.
 
-"Hello!" said Milo.
+"Hello!" said Milo. He felt excited.
 
-He felt excited.
+Days passed, and the sprout grew taller — taller than Milo! Then one sunny morning, a big yellow flower opened. It was the biggest sunflower in the garden, its petals glowing like sunshine. Bees came to visit it. Butterflies danced around it.
 
-Days passed.
+Milo felt proud. He had waited, and waiting had worked.
 
-The sprout grew taller.
+Grandpa Mole hugged him. "You learned patience," he said.
 
-Taller than Milo!
+That night, Milo lay in his cozy burrow, thinking about his sunflower. It was sleeping too, under the stars.
 
-Then one sunny morning, a big yellow flower opened.
+Milo yawned. He felt calm. He felt patient.
 
-It was the biggest sunflower in the garden.
-
-Its petals glowed like sunshine.
-
-Bees came to visit it.
-
-Butterflies danced around it.
-
-Milo felt proud.
-
-He had waited.
-
-And waiting had worked.
-
-Grandpa Mole hugged him.
-
-"You learned patience," he said.
-
-That night, Milo lay in his cozy burrow.
-
-He thought about his sunflower.
-
-It was sleeping too, under the stars.
-
-Milo yawned.
-
-He felt calm.
-
-He felt patient.
-
-He closed his eyes.
-
-He was loved.
-
-He was cozy.
+He closed his eyes. He was loved. He was cozy.
 
 Goodnight, Milo.
 
@@ -122,7 +52,7 @@ The end. 🌙
 
 ---
 
-*Moral: Patience means waiting kindly — good things grow slow.*
+*Moral: Patience means waiting kindly — good things grow slow, like love.*
 
 ---
 

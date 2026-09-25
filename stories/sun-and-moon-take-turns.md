@@ -4,103 +4,33 @@
 
 ---
 
-Long ago, Sun and Moon argued.
+Long, long ago, the Sun and the Moon had a terrible argument.
 
-"I should shine all the time," said Sun.
+"I should shine all the time," grumbled the Sun.
 
-"No, I should," said Moon.
+"No, I should," huffed the Moon.
 
-They both felt grumpy.
+They were both very grumpy indeed, and the whole world didn't know what to do. The flowers drooped in confusion. "Is it day or night?" they whispered. And the birds fluttered about, asking, "Should we sing, or should we sleep?"
 
-The world did not know what to do.
+Little Hana looked up at the sky, her brow wrinkled with worry. "Why are the Sun and Moon fighting?" she asked her grandma.
 
-The flowers were confused.
+"They both want to be the favorite," Grandma explained. Hana grew thoughtful… and then an idea sparkled in her mind.
 
-"Is it day or night?" they asked.
+That night, Hana whispered up to the Moon. "Moon, the Sun works hard all day. He makes the flowers grow, and he warms the playground." The Moon was surprised — she had never thought about that.
 
-The birds were confused too.
+The next morning, Hana whispered up to the Sun. "Sun, the Moon works hard all night. She lights the way for the owls, and she sings lullabies with her glow." The Sun was surprised too.
 
-"Should we sing or sleep?" they asked.
+That evening, the Sun and the Moon met in the sky. "I am sorry," said the Sun quietly. "I am sorry too," said the Moon. They both felt rather shy.
 
-Little Hana looked up at the sky.
+Then they made a deal. "I will shine in the day," said the Sun. "And I will shine in the night," said the Moon. "We will take turns."
 
-She felt worried.
+"Turns, turns, turns!" they chimed together. That was three times they chimed it, with happiness bubbling up like sunrise.
 
-"Why are Sun and Moon fighting?" she asked her grandma.
+And that is how it has been ever since: the Sun shines bright all day, and the Moon glows soft all night.
 
-"They both want to be the favorite," said Grandma.
+Hana watched them that very evening. The Sun sank low, painting the sky pink, and the Moon rose up, pale and round.
 
-Hana felt thoughtful.
-
-She had an idea.
-
-That night, she whispered to the Moon.
-
-"Moon, the Sun works hard all day."
-
-"He makes the flowers grow."
-
-"He warms the playground."
-
-The Moon felt surprised.
-
-She had never thought about that.
-
-The next morning, Hana whispered to the Sun.
-
-"Sun, the Moon works hard all night."
-
-"She lights the way for owls."
-
-"She sings lullabies with her glow."
-
-The Sun felt surprised too.
-
-That evening, Sun and Moon met in the sky.
-
-"I am sorry," said Sun.
-
-"I am sorry too," said Moon.
-
-They felt shy.
-
-Then they made a deal.
-
-"I will shine in the day," said Sun.
-
-"And I will shine in the night," said Moon.
-
-"We will take turns."
-
-"Turns, turns, turns," they said together.
-
-That was three times they said it.
-
-They felt happy.
-
-And that is how it has been ever since.
-
-Sun shines bright all day.
-
-Moon glows soft all night.
-
-Hana watched them that evening.
-
-Sun sank low, painting the sky pink.
-
-Moon rose up, pale and round.
-
-"Goodnight, Sun," whispered Hana.
-
-"Good morning, Moon."
-
-She felt peaceful.
-
-She climbed into bed.
-
-The Moon peeked through her window.
-
-It glowed softly, like a nightlight.
+"Goodnight, Sun," Hana whispered. "Good morning, Moon." A peaceful feeling settled over her as she climbed into bed. The Moon peeked through her window, glowing softly like a nightlight.
 
 Sleep now, little peacemaker.
 
@@ -110,7 +40,7 @@ The end. 🌙
 
 ---
 
-*Moral: Taking turns makes everyone shine.*
+*Moral: When we take turns, everyone gets a chance to shine.*
 
 ---
 

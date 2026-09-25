@@ -6,103 +6,43 @@
 
 Little Avi had never seen snow.
 
-He lived where winter only meant cool breezes.
+He lived where winter only meant cool breezes — but tonight the air felt extra chilly.
 
-But tonight the air felt extra chilly.
-
-"Mama, will it snow?" he asked.
-
-He felt hopeful.
+"Mama, will it snow?" he asked, hopeful.
 
 "Maybe," said Mama. "Let's watch together."
 
-Avi sat by the window.
+Avi sat by the window. He waited… he watched… then he saw it — one tiny white flake floating down.
 
-He waited.
+"One," whispered Avi. "A snowflake!" Amazement fizzed through him.
 
-He watched.
+The snowflake twirled in the air and landed softly on the window ledge. Then came another. And another.
 
-Then he saw it.
+"Snow, snow, snow," Avi whispered. That was three times he whispered it, and he felt his heart go thumpity-thump.
 
-One tiny white flake floated down.
+"Each snowflake is different," said Mama. "Look closely. No two are the same."
 
-"One," whispered Avi. "A snowflake!"
+Avi looked closely. One looked like a star, one looked like a flower, and one looked like a tiny lacy doily.
 
-He felt amazed.
+"Where do they come from, Mama?" Avi asked, curious.
 
-The snowflake twirled in the air.
+"From clouds high above," said Mama. "The clouds are tucking the earth into a soft white blanket."
 
-It landed softly on the window ledge.
-
-Then came another.
-
-And another.
-
-"Snow, snow, snow," whispered Avi.
-
-That was three times he whispered it.
-
-He felt his heart go thumpity-thump.
-
-"Each snowflake is different," said Mama.
-
-"Look closely. No two are the same."
-
-Avi looked.
-
-One looked like a star.
-
-One looked like a flower.
-
-One looked like a tiny lacy doily.
-
-Avi felt curious.
-
-"Where do they come from, Mama?"
-
-"From clouds high above," said Mama.
-
-"The clouds are tucking the earth into a soft white blanket."
-
-Avi liked that.
-
-He imagined the whole town under a blanket.
-
-The trees under a blanket.
-
-The sleepy birds under a blanket.
-
-Even the grumpy old fence under a blanket.
+Avi liked that. He imagined the whole town under a blanket — the trees under a blanket, the sleepy birds under a blanket, even the grumpy old fence under a blanket.
 
 He yawned.
 
-The snowflakes kept falling, soft and slow.
+The snowflakes kept falling, soft and slow. They did not make a sound. Not a tap, not a plip, not a plop. Just soft, soft silence.
 
-They did not make a sound.
+Avi's eyes grew heavy. "Can I catch one tomorrow?" he mumbled.
 
-Not a tap, not a plip, not a plop.
-
-Just soft, soft silence.
-
-Avi's eyes grew heavy.
-
-"Can I catch one tomorrow?" he mumbled.
-
-"Tomorrow," Mama promised.
-
-She tucked Avi's own blanket up to his chin.
+"Tomorrow," Mama promised. She tucked Avi's own blanket up to his chin.
 
 "Snow, snow, snow," Avi whispered once more.
 
 Then his eyes closed.
 
-The moon rose over the rooftops.
-
-It shone on every sleepy snowflake.
-
-Outside, the snowflakes kept dancing down.
-
-They covered the world in quiet white.
+The moon rose over the rooftops and shone on every sleepy snowflake. Outside, the snowflakes kept dancing down, covering the world in quiet white.
 
 Sleep now, little watcher.
 

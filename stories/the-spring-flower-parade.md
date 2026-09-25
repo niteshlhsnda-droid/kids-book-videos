@@ -4,117 +4,39 @@
 
 ---
 
-After the long winter, the garden was brown and quiet.
+After the long winter, the garden lay brown and quiet, and little Ami's heart knotted with worry. "Will the flowers ever come back?" she asked her grandpa.
 
-Little Ami felt worried.
+"Watch and wait," Grandpa said with a wink.
 
-"Will the flowers ever come back?" she asked her grandpa.
+So Ami watched. Every morning she studied the soil — until one day she spotted a tiny green tip poking up. "Look!" she cried. "Something is coming!" Excitement bubbled up in her like spring water.
 
-"Watch and wait," said Grandpa with a wink.
+The next day the tip was taller, and the day after that a bud appeared. Then one sunny morning, the bud opened into a daffodil, yellow as sunshine. "Hooray!" Ami cheered. "The first flower!" Pride warmed her — as if she had helped it grow herself.
 
-So Ami watched.
+Then more flowers woke up: tulips in red and pink, bluebells like tiny bells, daisies white as clouds. "The flowers are having a parade," said Grandpa.
 
-She watched the soil every morning.
+"Look, look, look," Ami whispered — three times, because it felt too wonderful to say just once. Amazement shone from her like sunlight.
 
-One day, she saw a tiny green tip poking up.
+Each flower marched out in its brightest colors: the tulips wore red hats, the daffodils waved yellow flags, and the bluebells rang without a sound. Ami danced behind the parade, twirling like a petal and bowing like a stem in the wind.
 
-"Look!" she cried. "Something is coming!"
+A bee buzzed by to join the fun. Bzzz, bzzz, went the bee. "Hello, bee," Ami said. "Enjoy the parade." The bee sipped from a tulip and buzzed away happily.
 
-She felt excited.
+Then Ami had an idea. She picked one daisy — just one — and tucked it behind her ear. "Now I am in the parade too," she giggled.
 
-The next day, the tip was taller.
+Grandpa smiled. "You are the prettiest flower of all." Sunshine seemed to fill Ami's chest with warmth.
 
-The day after, a bud appeared.
+As the sun went down, the flowers closed their petals. "Time to sleep," said Grandpa. "Even flowers need rest."
 
-Then one sunny morning, the bud opened.
+Ami yawned and lay in the grass, watching the petals fold. Fold, fold, fold went the flowers.
 
-It was a daffodil, yellow as sunshine.
+Goodnight, daffodils. Goodnight, tulips. Goodnight, little white daisies.
 
-"Hooray!" cheered Ami. "The first flower!"
-
-She felt proud, as if she had helped.
-
-Then more flowers woke up.
-
-Tulips in red and pink.
-
-Bluebells like tiny bells.
-
-Daisies white as clouds.
-
-"The flowers are having a parade," said Grandpa.
-
-"Look, look, look," whispered Ami.
-
-That was three times she whispered it.
-
-She felt amazed.
-
-Each flower marched out in its brightest colors.
-
-The tulips wore red hats.
-
-The daffodils waved yellow flags.
-
-The bluebells rang without a sound.
-
-Ami danced behind the parade.
-
-She twirled like a petal.
-
-She bowed like a stem in the wind.
-
-A bee buzzed by to join the fun.
-
-Bzzz, bzzz, went the bee.
-
-"Hello, bee," said Ami. "Enjoy the parade."
-
-The bee sipped from a tulip and buzzed away happily.
-
-Then Ami had an idea.
-
-She picked one daisy.
-
-Just one.
-
-She tucked it behind her ear.
-
-"Now I am in the parade too," she giggled.
-
-Grandpa smiled.
-
-"You are the prettiest flower of all."
-
-Ami felt warm inside, like sunshine in her chest.
-
-As the sun went down, the flowers closed their petals.
-
-"Time to sleep," said Grandpa.
-
-"Even flowers need rest."
-
-Ami yawned.
-
-She lay in the grass and watched the petals fold.
-
-Fold, fold, fold went the flowers.
-
-Goodnight, daffodils.
-
-Goodnight, tulips.
-
-Goodnight, little white daisies.
-
-Sleep now, little gardener.
-
-Dream of a parade of flowers marching in the sun.
+Sleep now, little gardener. Dream of a parade of flowers marching in the sun.
 
 The end. 🌙
 
 ---
 
-*Moral: Beautiful things bloom for those who watch and wait.*
+*Moral: For those who watch and wait, beautiful things always bloom.*
 
 ---
 

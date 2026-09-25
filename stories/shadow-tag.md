@@ -4,127 +4,37 @@
 
 ---
 
-One sunny afternoon, Noor noticed her shadow.
+One sunny afternoon, Noor noticed her shadow — and once she noticed it, she couldn't stop watching it. Step, step, went Noor across the yard. Step, step, went her shadow, right behind her.
 
-It followed her everywhere.
+Noor's eyes went wide with curiosity. "Hello, shadow," she said.
 
-Step, step, went Noor.
+The shadow did not answer. It just copied her.
 
-Step, step, went her shadow.
+Noor waved, and her shadow waved. Noor jumped, and her shadow jumped. A giggle bubbled up inside her.
 
-Noor felt curious.
+"You are good at copying," she said. Then she had an idea. "Let's play tag!"
 
-"Hello, shadow," she said.
+She ran across the yard, and her shadow ran too. "You can't catch me!" Noor laughed. Joy fizzed through her like lemonade bubbles.
 
-The shadow did not answer.
+But no matter how fast she ran, her shadow stayed right with her. She zigged, and her shadow zigged. She zagged, and her shadow zagged.
 
-It just copied her.
+"Tag, tag, tag!" Noor shouted. That was three times she shouted it, and her heart thumped with excitement.
 
-Noor waved.
+Then Noor tried to lose her shadow. She hid behind the big tree, but her shadow peeked out from behind her. "Found you!" Noor giggled, feeling delightfully silly.
 
-Her shadow waved.
+She hid under the table, and her shadow squeezed under too. She hid behind Mama, and her shadow hid behind her shadow. Noor laughed and laughed.
 
-Noor jumped.
+Then the sun began to set, and Noor noticed something. Her shadow was growing long — longer and longer.
 
-Her shadow jumped.
+"Look how tall I am!" Noor cried, standing up straighter, proud as could be. Her shadow stretched across the whole yard. It touched the fence. It touched the gate.
 
-Noor felt giggly.
+Then, as the sun dipped lower, the shadow faded. It grew soft, then softer, then it was gone.
 
-"You are good at copying," she said.
+"Where did you go?" Noor asked, and a small ache bloomed in her chest.
 
-She had an idea.
+Mama smiled softly. "Your shadow is sleeping," she said. "It will wake up with the sun."
 
-"Let's play tag!"
-
-She ran across the yard.
-
-Her shadow ran too.
-
-"You can't catch me!" laughed Noor.
-
-She felt joyful.
-
-But no matter how fast she ran, her shadow stayed with her.
-
-She zigged.
-
-Her shadow zigged.
-
-She zagged.
-
-Her shadow zagged.
-
-"Tag, tag, tag!" shouted Noor.
-
-That was three times she shouted it.
-
-She felt thrilled.
-
-Then Noor tried to lose her shadow.
-
-She hid behind the big tree.
-
-But her shadow peeked out from behind her.
-
-"Found you!" giggled Noor.
-
-She felt silly.
-
-She hid under the table.
-
-Her shadow squeezed under too.
-
-She hid behind Mama.
-
-Her shadow hid behind her shadow.
-
-Noor laughed and laughed.
-
-Then the sun began to set.
-
-Noor noticed something.
-
-Her shadow was growing long.
-
-Longer and longer.
-
-"Look how tall I am!" said Noor.
-
-She felt proud.
-
-Her shadow stretched across the whole yard.
-
-It touched the fence.
-
-It touched the gate.
-
-Then, as the sun dipped lower, the shadow faded.
-
-It grew soft.
-
-Then softer.
-
-Then it was gone.
-
-"Where did you go?" asked Noor.
-
-She felt a little sad.
-
-Mama smiled.
-
-"Your shadow is sleeping," she said.
-
-"It will wake up with the sun."
-
-Noor liked that.
-
-"Goodnight, shadow," she whispered.
-
-"Goodnight, goodnight, goodnight."
-
-That was three times she whispered it.
-
-She felt sleepy too.
+Noor liked the sound of that. "Goodnight, shadow," she whispered. "Goodnight, goodnight, goodnight." That was three times she whispered it, and her own eyelids were growing heavy too.
 
 That night, Noor dreamed of long, stretchy shadows.
 
@@ -136,7 +46,7 @@ The end. 🌙
 
 ---
 
-*Moral: Some friends are with you even when you can't see them.*
+*Moral: Some friends stay with you even when you can't see them — like your shadow, waiting for the morning sun.*
 
 ---
 

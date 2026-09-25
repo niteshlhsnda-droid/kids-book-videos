@@ -4,77 +4,33 @@
 
 ---
 
-Tessa was a little tortoise.
+Tessa was a little tortoise who was very shy. New places made her tuck right into her shell.
 
-She was very shy.
-
-New places made her tuck into her shell.
-
-One day, there was a party at the pond.
-
-All the pond animals were invited.
-
-Tessa felt shy.
-
-Her feet felt slow.
-
-Her voice felt tiny.
+One day there was a party at the pond, and all the pond animals were invited. Tessa felt shy — her feet felt slow and her voice felt tiny.
 
 "What if no one talks to me?" she worried.
 
-Mama Tortoise walked with her to the pond.
-
-She said, "I see you feel shy."
+Mama Tortoise walked with her to the pond. "I see you feel shy," she said.
 
 Tessa nodded.
 
-"It is okay to feel shy," Mama said.
+"It is okay to feel shy," Mama said. "Being shy just means you warm up slowly."
 
-"Being shy just means you warm up slowly."
+Tessa liked that. Warm up slowly — like sunshine on her shell.
 
-Tessa liked that.
+At the pond, music was playing while frogs hopped and ducks danced. Tessa tucked her head in a little.
 
-Warm up slowly.
+Then she saw a small frog sitting all alone. He looked shy too.
 
-Like sunshine on her shell.
-
-At the pond, music was playing.
-
-Frogs were hopping.
-
-Ducks were dancing.
-
-Tessa tucked her head in a little.
-
-Then she saw a small frog sitting alone.
-
-The frog looked shy too.
-
-Tessa took one slow step.
-
-Then another slow step.
+Tessa took one slow step… then another slow step.
 
 "Hello," she said in her tiny voice.
 
-"Hello," said the frog.
-
-"My name is Remy."
+"Hello," said the frog. "My name is Remy."
 
 "I am Tessa," said Tessa.
 
-They sat together by the water.
-
-They watched the dancers.
-
-They shared some lettuce.
-
-Remy told a funny joke.
-
-Tessa giggled.
-
-Her shell felt warm.
-
-Her voice felt bigger.
+They sat together by the water, watching the dancers and sharing some lettuce. Remy told a funny joke, and Tessa giggled. Her shell felt warm, and her voice felt a little bigger.
 
 They played a slow game of bubbles.
 
@@ -86,33 +42,15 @@ Three bubbles.
 
 Pop!
 
-Tessa felt happy.
+Tessa felt happy. She had made a friend!
 
-She had made a friend.
+Mama Tortoise smiled from far away. She whispered, "You did it, my brave girl."
 
-Mama Tortoise smiled from far away.
+That night, Tessa snuggled into her soft moss bed, thinking about Remy and the bubbles. The shyness of the afternoon had melted into something proud and warm.
 
-She whispered, "You did it, my brave girl."
+The pond sang its night song — croak, croak, hush. Tessa closed her eyes.
 
-That night, Tessa snuggled into her soft moss bed.
-
-She thought about Remy.
-
-She thought about the bubbles.
-
-She felt shy earlier.
-
-Now she felt proud and warm.
-
-The pond sang its night song.
-
-Croak, croak, hush.
-
-Tessa closed her eyes.
-
-She was cozy.
-
-She was loved.
+She was cozy. She was loved.
 
 Goodnight, Tessa.
 

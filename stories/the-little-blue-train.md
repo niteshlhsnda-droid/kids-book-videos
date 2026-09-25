@@ -4,119 +4,27 @@
 
 ---
 
-In a toy shop window lived a little blue train.
+In a toy shop window lived a little blue train named Chug. Every day, children pressed their noses to the glass and pointed at him, but nobody ever took him home. As the evenings grew quiet, his whistle drooped — no one wanted the little blue train.
 
-His name was Chug.
+Then one evening, a small girl named Emi walked in. She had saved her coins for weeks and weeks, and now she pointed straight at the window. "That one," she said.
 
-Every day, children pointed at him.
+Chug's heart gave a happy jolt. Hopeful at last! Emi carried him all the way home in her pocket, and that night he dreamed the biggest dream of his life — that he was a real train, a great big choo-choo train.
 
-But nobody took him home.
+The next morning, Emi wound his key. Click, click, click. Chug rolled across the floor. Choo-choo! he whistled — well, he tried. Toot, toot, toot went his little whistle, three happy toots in a row.
 
-Chug felt lonely.
+Then Emi built him a railway. Tracks from books. A tunnel from a shoebox. A bridge from a ruler. "All aboard!" she called.
 
-One evening, a small girl named Emi walked in.
+Chug rolled into the tunnel. Dark, dark, dark… then out into the light! He rolled over the bridge — high, high, high — and his little wheels trembled. How brave he felt!
 
-She had saved her coins for weeks.
+But at the end of the tracks, a cushion mountain blocked the way. "Oh no," cried Emi. "A mountain!"
 
-She pointed at Chug.
+Chug's whistle wobbled. Then Emi had an idea. She stacked more books, curving the tracks up and over the mountain. Chug chugged upward — slowly, slowly, slowly — until he reached the very top. Then whoosh, down the other side! "We did it!" cheered Emi.
 
-"That one," she said.
+That night, Emi tucked Chug into her toy box. "Best train ever," she whispered. Chug nestled in, cozy and warm. He was not lonely anymore — he had a friend, and tracks and tunnels and mountains all his own.
 
-Chug felt hopeful.
+Outside, a real train whistled far away. Toot, toot. Chug answered softly. Toot.
 
-Emi carried him home in her pocket.
-
-That night, Chug had a dream.
-
-He dreamed he was a real train.
-
-A big, real, choo-choo train.
-
-The next morning, Emi wound his key.
-
-Click, click, click.
-
-Chug rolled across the floor.
-
-Choo-choo! he whistled.
-
-Well, he tried.
-
-Toot, toot, toot, went his little whistle.
-
-That was three times he tooted it.
-
-He felt happy.
-
-Emi built tracks from books.
-
-She built a tunnel from a shoebox.
-
-She built a bridge from a ruler.
-
-"All aboard!" said Emi.
-
-Chug rolled through the tunnel.
-
-Dark, dark, dark.
-
-Then out into the light!
-
-He rolled over the bridge.
-
-High, high, high.
-
-He felt brave.
-
-Then Chug reached the end of the tracks.
-
-A big cushion mountain blocked the way.
-
-"Oh no," said Emi. "A mountain!"
-
-Chug felt worried.
-
-But Emi had an idea.
-
-She stacked more books.
-
-She made the tracks climb up and over.
-
-Chug chugged up the mountain.
-
-Slowly, slowly, slowly.
-
-He made it to the top!
-
-Then whoosh, down the other side.
-
-"We did it!" cheered Emi.
-
-Chug felt proud.
-
-That night, Emi tucked Chug into her toy box.
-
-"Best train ever," she whispered.
-
-Chug felt cozy.
-
-He was not lonely anymore.
-
-He had a friend.
-
-He had tracks and tunnels and mountains.
-
-Outside, a real train whistled far away.
-
-Toot, toot.
-
-Chug answered softly.
-
-Toot.
-
-Sleep now, little train.
-
-Dream of tunnels and bridges and cushion mountains.
+Sleep now, little train. Dream of tunnels and bridges and cushion mountains.
 
 The end. 🌙
 

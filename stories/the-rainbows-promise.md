@@ -4,121 +4,39 @@
 
 ---
 
-One afternoon, the rain stopped all at once.
+One afternoon, the rain stopped all at once, and little Rafi raced to the window with hope fluttering in his chest. And there it was — a rainbow stretched across the sky: red, orange, yellow, green, blue, and purple.
 
-Little Rafi ran to the window.
-
-He felt hopeful.
-
-And there it was.
-
-A rainbow stretched across the sky.
-
-Red, orange, yellow, green, blue, and purple.
-
-"Wow," breathed Rafi.
-
-He felt amazed.
-
-He counted the colors.
-
-Can you count them with him?
-
-One, two, three, four, five, six.
-
-Six colors!
-
-Rafi had a question.
+"Wow," Rafi breathed, amazement sparkling in his eyes. He counted the colors — can you count them with him? One, two, three, four, five, six. Six colors!
 
 "Where does the rainbow end?" he asked his dad.
 
 "Let's find out," said Dad.
 
-They walked to the park.
+They walked to the park, where the rainbow seemed to touch the big hill. "There!" Rafi cried. "The end of the rainbow!" Excitement quickened his steps.
 
-The rainbow seemed to touch the big hill.
+They climbed the hill — but the rainbow had moved. Now it touched the tall trees. "Come back!" Rafi laughed, giggles dancing through him.
 
-"There!" said Rafi. "The end of the rainbow!"
+They walked to the trees, but the rainbow moved again. Now it touched the clouds. "Why can't we reach it, Dad?" Rafi asked, his brow wrinkling in puzzlement.
 
-He felt excited.
+Dad smiled. "A rainbow is made of sunlight and rain," he said. "You cannot touch it, but you can always see it. It is a promise that the storm is over."
 
-They climbed the hill.
+Rafi thought about that, and he liked the idea of a promise hanging in the sky. "A promise, a promise, a promise," he whispered — three soft whispers, because promises are too lovely to say just once. Calm settled over him like warm honey.
 
-But the rainbow had moved.
+They sat on the grass and watched. The colors glowed softly: red like apples, yellow like the sun, blue like the sea.
 
-Now it touched the tall trees.
+Slowly, the rainbow began to fade. The colors grew paler. And paler. And paler.
 
-"Come back!" laughed Rafi.
+"Goodbye, rainbow," said Rafi. "Thank you for the promise." Peace filled his heart.
 
-He felt giggly.
+That night, Rafi drew a rainbow in his notebook — six colors in a perfect arch — and set it beside his bed.
 
-They walked to the trees.
-
-But the rainbow moved again.
-
-Now it touched the clouds.
-
-Rafi felt puzzled.
-
-"Why can't we reach it, Dad?"
-
-Dad smiled.
-
-"A rainbow is made of sunlight and rain," he said.
-
-"You cannot touch it, but you can always see it."
-
-"It is a promise that the storm is over."
-
-Rafi thought about that.
-
-He liked the idea of a promise in the sky.
-
-"A promise, a promise, a promise," he whispered.
-
-That was three times he whispered it.
-
-He felt calm.
-
-They sat on the grass and watched.
-
-The colors glowed softly.
-
-Red like apples.
-
-Yellow like the sun.
-
-Blue like the sea.
-
-Slowly, the rainbow began to fade.
-
-The colors grew paler.
-
-And paler.
-
-And paler.
-
-"Goodbye, rainbow," said Rafi.
-
-"Thank you for the promise."
-
-He felt peaceful.
-
-That night, Rafi drew a rainbow in his notebook.
-
-Six colors, in a perfect arch.
-
-He put it by his bed.
-
-Sleep now, little color-counter.
-
-Dream of rainbows arched over green hills.
+Sleep now, little color-counter. Dream of rainbows arched over green hills.
 
 The end. 🌙
 
 ---
 
-*Moral: Some beautiful things are meant to be watched, not caught.*
+*Moral: The most beautiful things are meant to be watched, not caught.*
 
 ---
 

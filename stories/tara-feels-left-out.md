@@ -4,109 +4,41 @@
 
 ---
 
-Tara was a little tiger cub.
+Tara was a little tiger cub who loved playing with her friends.
 
-She loved playing with her friends.
+One afternoon, the others started a game without calling her name — and ran off without her.
 
-One afternoon, the others started a game.
+Tara felt left out. Her heart shrank small, and her eyes began to sting. "They do not want me," she thought, sinking down behind the big rock. She wanted to cry.
 
-They did not call her name.
+Mama Tiger found her there. "I see you feel left out," she said softly.
 
-They ran off without her.
+Tara nodded. Tears rolled down her cheeks.
 
-Tara felt left out.
+"It is okay to feel left out," Mama said. "That feeling hurts, and it matters."
 
-Her heart felt small.
-
-Her eyes felt stingy.
-
-"They do not want me," she thought.
-
-She sat behind the big rock.
-
-She wanted to cry.
-
-Mama Tiger found her there.
-
-She said, "I see you feel left out."
-
-Tara nodded.
-
-Tears rolled down her cheeks.
-
-"It is okay to feel left out," Mama said.
-
-"That feeling hurts, and it matters."
-
-She wrapped Tara in a warm hug.
-
-Then she said something gentle.
+She wrapped Tara in a warm hug, then said something gentle.
 
 "Feelings want to be told, not hidden."
 
-"Feelings want to be told, not hidden," she said again.
+She said it again, even softer. "Feelings want to be told, not hidden."
 
-"Feelings want to be told, not hidden," she said one more time.
+And once more, like a lullaby. "Feelings want to be told, not hidden."
 
-Tara wiped her tears.
+Tara wiped her tears and walked to her friends on shaky paws. "I felt left out," she said quietly. "I wanted to play too."
 
-She walked to her friends.
+Zed looked surprised. "We did not see you!" he exclaimed. "We thought you went home. We are sorry, Tara."
 
-Her paws felt shaky.
+They made room in the circle. "Come play!" they cheered.
 
-"I felt left out," she said quietly.
+Tara joined the game, and they played tag until sunset. She ran fast and laughed loud, feeling included and happy right to her whiskers.
 
-"I wanted to play too."
+That night, Tara told Mama everything. "I told them how I felt," she said proudly. "And they listened!"
 
-Her friend Zed looked surprised.
+Mama smiled. "You were brave with your feelings," she said.
 
-"We did not see you!" he said.
+Tara snuggled into her warm den. The left-out feeling of the afternoon had melted into something warm and loved. The jungle sang its night song — hush, hush, little one. Tara closed her eyes.
 
-"We thought you went home."
-
-"We are sorry, Tara."
-
-They made room in the circle.
-
-"Come play!" they said.
-
-Tara joined the game.
-
-They played tag until sunset.
-
-Tara ran fast.
-
-She laughed loud.
-
-She felt included.
-
-She felt happy.
-
-That night, Tara told Mama everything.
-
-"I told them how I felt," she said.
-
-"And they listened!"
-
-Mama smiled.
-
-"You were brave with your feelings," she said.
-
-Tara snuggled into her warm den.
-
-She felt left out earlier.
-
-Now she felt loved.
-
-The jungle sang its night song.
-
-Hush, hush, little one.
-
-Tara closed her eyes.
-
-She belonged.
-
-She was loved.
+She belonged. She was loved.
 
 Goodnight, Tara.
 
@@ -114,7 +46,7 @@ The end. 🌙
 
 ---
 
-*Moral: When we feel left out, telling someone kindly can open the circle again.*
+*Moral: When you feel left out, telling someone kindly can open the circle right back up.*
 
 ---
 

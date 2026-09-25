@@ -4,23 +4,27 @@
 
 ---
 
-Mossy the hedgehog was ready for bed. His burrow was cozy and warm. His blanket was soft and blue. But Mossy could not fall asleep. He felt worried about something, and he did not know what.
+Mossy the hedgehog was ready for bed. His burrow was cozy and warm, and his blanket was soft and blue. But Mossy could not fall asleep — he felt worried about something, and he did not know what.
 
-He peeked out of his burrow door. The moon was big and round tonight. But the moon had no blanket at all. It looked cold up there all alone. "Oh dear," whispered Mossy. "The moon must feel so chilly."
+He peeked out of his burrow door. The moon was big and round tonight, but it had no blanket at all. It looked cold up there, all alone.
 
-Mossy felt sorry for the moon. He wanted to help his friend in the sky. He tiptoed out into the night grass. The grass felt cool under his little feet. The stars blinked hello to him as he walked.
+"Oh dear," whispered Mossy. "The moon must feel so chilly."
 
-Soft clouds floated slowly across the sky. They looked fluffy and warm. Mossy had a wonderful idea. "Clouds," he called softly, "will you help me, please? The moon needs a blanket tonight."
+Mossy felt sorry for the moon. He wanted to help his friend in the sky, so he tiptoed out into the night grass. The grass felt cool under his little feet. The stars blinked hello to him as he walked.
 
-One little cloud drifted down low. Then another cloud joined it. Then one more, soft as cotton candy. They piled up white and fluffy. Mossy pushed them gently toward the moon. The clouds floated higher and higher. They settled around the moon like a warm quilt.
+Soft clouds floated slowly across the sky. They looked fluffy and warm. Mossy had a wonderful idea.
+
+"Clouds," he called softly, "will you help me, please? The moon needs a blanket tonight."
+
+One little cloud drifted down low. Then another cloud joined it. Then one more, soft as cotton candy. They piled up white and fluffy. Mossy pushed them gently toward the moon. The clouds floated higher and higher, settling around the moon like a warm quilt.
 
 "Tucked in tight, all snug and right," sang Mossy.
 
-The moon glowed a little brighter. It already looked warmer and happier. Mossy felt happy too. But one corner of the moon still peeked out. That spot looked chilly and bare. Mossy patted another cloud into place.
+The moon glowed a little brighter. It already looked warmer and happier, and Mossy felt happy too. But one corner of the moon still peeked out — that spot looked chilly and bare. Mossy patted another cloud into place.
 
 "Tucked in tight, all snug and right," he sang again.
 
-The moon's light turned soft and golden. It became a nightlight for the whole meadow. A cricket chirped a sleepy thank-you. Mossy felt proud of his kind work. He scurried back to his burrow. He crawled under his blue blanket. It felt extra cozy tonight.
+The moon's light turned soft and golden, becoming a nightlight for the whole meadow. A cricket chirped a sleepy thank-you. Mossy felt proud of his kind work. He scurried back to his burrow and crawled under his blue blanket. It felt extra cozy tonight.
 
 "Tucked in tight, all snug and right," he whispered one last time.
 

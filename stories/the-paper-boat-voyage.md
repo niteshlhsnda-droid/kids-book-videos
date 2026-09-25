@@ -4,115 +4,33 @@
 
 ---
 
-On a rainy afternoon, Isha folded a paper boat.
+On a rainy afternoon, Isha folded a paper boat. She folded it from a page of old newspaper — crease, crease, crease — and her chest puffed up with pride.
 
-She folded it from a page of old newspaper.
+"Now you need a voyage," she told the boat. She named the boat Squeak and carried it to the little stream behind her house, which was full from the rain.
 
-Crease, crease, crease.
+"Ready, Captain Squeak?" asked Isha. She set the boat on the water. Squeak bobbed. Then Squeak sailed!
 
-She felt proud.
+"Go, go, go!" cheered Isha — three times she cheered it — hopping with excitement.
 
-"Now you need a voyage," she said to the boat.
+Squeak sailed past a pebble. It sailed under a twig bridge. It sailed around a leaf island. "Ahoy!" called Isha in her captain voice, feeling brave as any sea captain.
 
-She named the boat Squeak.
+Then Squeak got stuck. A fallen branch blocked the stream. Squeak bumped into it. Bump. Isha's tummy tightened with worry.
 
-She carried Squeak to the little stream behind her house.
+"Don't worry, Captain," she said. She found a long stick and — gently, gently — nudged the branch aside. Squeak floated free! "Hooray!" cheered Isha, flooded with relief.
 
-The stream was full from the rain.
+Squeak sailed on. It passed a duck feather floating like a sail. It passed a frog sitting on a stone. Ribbit, said the frog, as if to say hello. Isha walked along the bank, following her boat.
 
-"Ready, Captain Squeak?" asked Isha.
+Then the stream grew wide and joined the big pond. Squeak floated out onto the open water, bobbing on the little waves. Her heart tugged a little as she watched it drift. "Goodbye, Squeak," she whispered. "Have a big adventure." But her heart was happy too — her boat had sailed so far.
 
-She set the boat on the water.
+That evening, Isha folded another boat. This one she kept on her shelf. "For tomorrow's voyage," she said. She yawned. The rain tapped softly on her window.
 
-Squeak bobbed.
-
-Then Squeak sailed!
-
-"Go, go, go!" cheered Isha.
-
-That was three times she cheered it.
-
-She felt excited.
-
-Squeak sailed past a pebble.
-
-It sailed under a twig bridge.
-
-It sailed around a leaf island.
-
-"Ahoy!" said Isha in her captain voice.
-
-She felt brave.
-
-Then Squeak got stuck.
-
-A fallen branch blocked the stream.
-
-Squeak bumped into it.
-
-Bump.
-
-Isha felt worried.
-
-"Don't worry, Captain," she said.
-
-She found a long stick.
-
-Gently, gently, she nudged the branch aside.
-
-Squeak floated free!
-
-"Hooray!" said Isha.
-
-She felt relieved.
-
-Squeak sailed on.
-
-It passed a duck feather floating like a sail.
-
-It passed a frog sitting on a stone.
-
-Ribbit, said the frog, as if to say hello.
-
-Isha walked along the bank, following her boat.
-
-Then the stream grew wide.
-
-It joined the big pond.
-
-Squeak floated out onto the open water.
-
-It bobbed on the little waves.
-
-Isha felt a little sad.
-
-"Goodbye, Squeak," she whispered.
-
-"Have a big adventure."
-
-But she felt happy too.
-
-Her boat had sailed so far.
-
-That evening, Isha folded another boat.
-
-This one she kept on her shelf.
-
-"For tomorrow's voyage," she said.
-
-She yawned.
-
-The rain tapped softly on her window.
-
-Sleep now, little captain.
-
-Dream of paper boats on silver streams.
+Sleep now, little captain. Dream of paper boats on silver streams.
 
 The end. 🌙
 
 ---
 
-*Moral: Even little boats can go on big voyages.*
+*Moral: Even little boats, little one, can go on big voyages.*
 
 ---
 

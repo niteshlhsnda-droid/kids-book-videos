@@ -4,39 +4,17 @@
 
 ---
 
-Biscuit was a little beaver.
+Biscuit was a little beaver, but his room was very messy — sticks everywhere, leaves everywhere, pebbles everywhere. He could not find his favorite toy boat.
 
-His room was very messy.
+"Time to tidy up, Biscuit," said Mama Beaver.
 
-Sticks everywhere.
+Biscuit felt grumpy. His arms felt heavy, and his feet felt stuck. "Cleaning is boring," he mumbled.
 
-Leaves everywhere.
-
-Pebbles everywhere.
-
-He could not find his favorite toy boat.
-
-Mama Beaver said, "Time to tidy up, Biscuit."
-
-Biscuit felt grumpy.
-
-His arms felt heavy.
-
-His feet felt stuck.
-
-"Cleaning is boring," he mumbled.
-
-Mama smiled.
-
-She said, "I see you feel grumpy."
+Mama smiled. "I see you feel grumpy," she said.
 
 Biscuit nodded.
 
-"It is okay to feel grumpy," Mama said.
-
-"But let us make it fun."
-
-She sang a little song.
+"It is okay to feel grumpy," Mama said. "But let us make it fun." And she sang a little song:
 
 "Tidy, tidy, one, two, three, everything has a home, you see!"
 
@@ -44,69 +22,23 @@ She sang a little song.
 
 "Tidy, tidy, one, two, three, everything has a home, you see!" she sang one more time.
 
-Biscuit giggled.
-
-He picked up one stick.
-
-Then two sticks.
-
-Then three sticks.
-
-He put the sticks in the stick corner.
-
-He put the leaves in the leaf pile.
-
-He put the pebbles in the pebble box.
+Biscuit giggled. He picked up one stick, then two sticks, then three sticks. He put the sticks in the stick corner, the leaves in the leaf pile, and the pebbles in the pebble box.
 
 Tidy, tidy, one, two, three!
 
-The room got clearer.
+The room got clearer. Biscuit could see the floor — and there it was! His favorite toy boat, under a pile of leaves.
 
-Biscuit could see the floor.
+"I found it!" he cheered. He felt proud, and his room looked cozy. Everything had a home.
 
-And there it was!
+Mama hugged him. "You did a wonderful job," she said.
 
-His favorite toy boat.
+That evening, Biscuit sailed his boat in the bathtub. Splish, splash, splish. It was the best bath ever.
 
-Under a pile of leaves.
+At bedtime, his room was neat and his boat sat on the shelf. Biscuit snuggled into his warm bed of wood shavings.
 
-"I found it!" he cheered.
+He had felt grumpy earlier. Now he felt calm and proud. The river hummed outside — hush, hush, little beaver.
 
-Biscuit felt proud.
-
-His room looked cozy.
-
-Everything had a home.
-
-Mama hugged him.
-
-"You did a wonderful job," she said.
-
-That evening, Biscuit sailed his boat in the bathtub.
-
-Splish, splash, splish.
-
-It was the best bath ever.
-
-At bedtime, his room was neat.
-
-His boat sat on the shelf.
-
-Biscuit snuggled into his warm bed of wood shavings.
-
-He felt grumpy earlier.
-
-Now he felt calm and proud.
-
-The river hummed outside.
-
-Hush, hush, little beaver.
-
-Biscuit closed his eyes.
-
-He was tidy.
-
-He was loved.
+Biscuit closed his eyes. He was tidy. He was loved.
 
 Goodnight, Biscuit.
 
@@ -114,7 +46,7 @@ The end. 🌙
 
 ---
 
-*Moral: Tidying up feels hard to start, but a clean space feels wonderful.*
+*Moral: Tidying up feels hard to start, but oh, how wonderful a clean space feels.*
 
 ---
 

@@ -4,121 +4,33 @@
 
 ---
 
-On a sunny Saturday, Ayaan had a picnic in the park.
+On a sunny Saturday, Ayaan had a picnic in the park. He spread his blanket and opened his lunchbox — sandwiches, apples, and cookies. Yum! He felt happy.
 
-He spread his blanket.
+Then he saw them — a line of tiny ants marching across the blanket. March, march, march.
 
-He opened his lunchbox.
+Ayaan felt a jolt of surprise. "Oh no, ants!" he cried. He almost brushed them away — but then he looked closer.
 
-Sandwiches, apples, and cookies.
+The ants were carrying crumbs — crumbs bigger than their heads! "Wow," breathed Ayaan, curiosity bubbling up.
 
-Yum.
+He watched the first ant carry a bread crumb, the second ant carry a cookie crumb, and the third ant carry an apple bit.
 
-He felt happy.
+"They are having a picnic too!" Ayaan giggled. "Picnic, picnic, picnic!" he chanted. That was three times he chanted it, and he felt delighted.
 
-Then he saw them.
-
-A line of tiny ants marched across the blanket.
-
-March, march, march.
-
-Ayaan felt surprised.
-
-"Oh no, ants!" he said.
-
-He almost brushed them away.
-
-But then he looked closer.
-
-The ants were carrying crumbs.
-
-Crumbs bigger than their heads!
-
-"Wow," said Ayaan.
-
-He felt curious.
-
-He watched the first ant.
-
-It carried a bread crumb.
-
-He watched the second ant.
-
-It carried a cookie crumb.
-
-He watched the third ant.
-
-It carried an apple bit.
-
-"They are having a picnic too," giggled Ayaan.
-
-"Picnic, picnic, picnic," he said.
-
-That was three times he said it.
-
-He felt delighted.
-
-Ayaan had an idea.
-
-He was kind, not scared.
-
-He placed three tiny crumbs at the edge of the blanket.
-
-One for the bread ant.
-
-One for the cookie ant.
-
-One for the apple ant.
+Ayaan had an idea. He was kind, not scared. He placed three tiny crumbs at the edge of the blanket — one for the bread ant, one for the cookie ant, and one for the apple ant.
 
 "Here you go," he said softly.
 
-The ants found the crumbs.
+The ants found the crumbs and wiggled their antennae — wiggle, wiggle — as if they were saying thank you.
 
-They wiggled their antennae.
+A warm feeling spread through Ayaan. He ate his sandwich while the ants ate their crumbs. Everyone picnicked together.
 
-Wiggle, wiggle.
+Then the littlest ant got lost, wandering in circles — round and round. Worry prickled Ayaan.
 
-It looked like they were saying thank you.
+"Are you lost, little one?" he whispered, and laid a trail of tiny crumbs. The little ant followed the trail — crumb, crumb, crumb — right back to its friends!
 
-Ayaan felt warm inside.
+Ayaan felt proud. He had helped.
 
-He ate his sandwich.
-
-The ants ate their crumbs.
-
-Everyone picnicked together.
-
-Then the littlest ant got lost.
-
-It wandered in circles.
-
-Round and round.
-
-Ayaan felt worried.
-
-"Are you lost, little one?" he whispered.
-
-He laid a trail of tiny crumbs.
-
-The little ant followed the trail.
-
-Crumb, crumb, crumb.
-
-Back to its friends!
-
-Ayaan felt proud.
-
-He had helped.
-
-As the sun grew low, Ayaan packed up.
-
-"Goodbye, ants," he said.
-
-"Goodbye, goodbye, goodbye."
-
-That was three times he said it.
-
-He felt peaceful.
+As the sun grew low, Ayaan packed up. "Goodbye, ants," he said. "Goodbye, goodbye, goodbye." That was three times he said it, and a peaceful feeling settled over him.
 
 That night, Ayaan dreamed of marching ants.
 
@@ -130,7 +42,7 @@ The end. 🌙
 
 ---
 
-*Moral: Kindness comes in all sizes, even crumb-sized.*
+*Moral: Kindness comes in all sizes — even crumb-sized.*
 
 ---
 

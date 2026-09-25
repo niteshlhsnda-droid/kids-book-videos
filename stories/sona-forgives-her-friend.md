@@ -4,121 +4,45 @@
 
 ---
 
-Sona was a little sparrow.
+Sona was a little sparrow with a pretty blue ribbon — a gift from her grandma, and her most treasured thing in the whole world.
 
-She had a pretty blue ribbon.
+One day she lent it to her friend Tuli. "Please be careful with it," Sona chirped.
 
-It was a gift from her grandma.
+The next day, Tuli came back with her head hung low and her voice coming out small. "Sona, I lost your ribbon," she whispered. "The wind took it."
 
-One day, she lent it to her friend Tuli.
+Sona's chest went tight. Her eyes burned hot. "That was my favorite ribbon!" she cried.
 
-"Please be careful with it," Sona said.
+Tuli looked very sorry. "I am really sorry," she whispered.
 
-The next day, Tuli came back.
+Sona flew to her nest and sat alone, with anger and sadness tangled up inside her. Mama Sparrow fluttered down beside her.
 
-Her head was low.
+"I can see you're upset," Mama said gently. Sona nodded.
 
-Her voice was small.
+"It is okay to feel upset," Mama said. "Losing something special hurts."
 
-"Sona, I lost your ribbon," she said.
+Then Mama told her something wise. "Forgiving sets two hearts free."
 
-"The wind took it."
+She said it again, softer. "Forgiving sets two hearts free."
 
-Sona felt upset.
+And once more, like a lullaby. "Forgiving sets two hearts free."
 
-Her chest felt tight.
+Sona thought about Tuli. Her friend had said sorry — and she felt bad too.
 
-Her eyes felt hot.
+Sona took a deep breath and flew back to Tuli. "I forgive you," she said softly. "It was an accident."
 
-"That was my favorite ribbon!" she chirped.
+Tuli's eyes shone. "Thank you, Sona," she said. "You are the best friend."
 
-Tuli looked very sorry.
+They hugged with their little wings. Sona felt the tight knot in her chest melt away. Her heart felt light and warm. Forgiving felt good.
 
-"I am really sorry," she whispered.
+That evening, they played together. They chased falling leaves and sang little songs. They were friends again — true friends.
 
-Sona flew to her nest.
-
-She sat alone.
-
-She felt angry and sad.
-
-Mama Sparrow came to her.
-
-She said, "I see you feel upset."
-
-Sona nodded.
-
-"It is okay to feel upset," Mama said.
-
-"Losing something special hurts."
-
-Then Mama said something wise.
-
-"Forgiving sets two hearts free."
-
-"Forgiving sets two hearts free," she said again.
-
-"Forgiving sets two hearts free," she said one more time.
-
-Sona thought about Tuli.
-
-Tuli had said sorry.
-
-Tuli felt bad too.
-
-Sona took a deep breath.
-
-She flew back to Tuli.
-
-"I forgive you," she said softly.
-
-"It was an accident."
-
-Tuli's eyes shone.
-
-"Thank you, Sona," she said.
-
-"You are the best friend."
-
-They hugged with their little wings.
-
-Sona felt the tight feeling melt.
-
-Her chest felt light.
-
-Her heart felt warm.
-
-Forgiving felt good.
-
-That evening, they played together.
-
-They chased falling leaves.
-
-They sang little songs.
-
-They were friends again.
-
-True friends.
-
-At bedtime, Sona snuggled into her nest.
-
-She felt upset earlier.
-
-Now she felt peaceful.
-
-Mama kissed her head.
+At bedtime, Sona snuggled into her nest. The upset of the afternoon had melted into something soft and peaceful. Mama kissed her head.
 
 "Forgiving was very brave," she said.
 
-The night breeze rocked the tree.
+The night breeze rocked the tree. Sway, sway, hush. Sona closed her eyes.
 
-Sway, sway, hush.
-
-Sona closed her eyes.
-
-She was kind.
-
-She was loved.
+She was kind, and she was loved.
 
 Goodnight, Sona.
 
@@ -126,7 +50,7 @@ The end. 🌙
 
 ---
 
-*Moral: Forgiving a friend heals both hearts and keeps friendship strong.*
+*Moral: When you forgive a friend, both hearts heal — and the friendship grows stronger than before.*
 
 ---
 

@@ -4,99 +4,31 @@
 
 ---
 
-Tide was the littlest wave in the whole wide ocean.
+Tide was the littlest wave in the whole wide ocean. All the big waves rolled in tall and foamy — Crash! — while Tide could only go lap, lap, lap. She felt terribly small.
 
-All the big waves rolled in tall and foamy.
+"When will I be big?" she asked her mama, the sea. "Soon enough, little one," Mama Sea murmured. "For now, just be you."
 
-Crash! went the big waves.
+One morning, a tiny crab was stuck on a rock as the tide went out. "Oh no," cried the crab. "I cannot get back to the water!" His little claws trembled with fear.
 
-Tide only went lap, lap, lap.
-
-She felt small.
-
-"When will I be big?" she asked her mama, the sea.
-
-"Soon enough, little one," said Mama Sea.
-
-"For now, just be you."
-
-One morning, a tiny crab was stuck on a rock.
-
-The tide was going out.
-
-"Oh no," said the crab. "I cannot get back to the water!"
-
-He felt scared.
-
-Tide heard him.
-
-She felt brave.
-
-She gathered all her littleness together.
-
-She rolled forward, lap, lap, lap.
-
-She reached the rock.
-
-She lifted the little crab gently.
+Tide heard him, and something brave rose up inside her. She gathered all her littleness together and rolled forward — lap, lap, lap — until she reached the rock. Then she lifted the little crab gently.
 
 "Hold on," she whispered.
 
-She carried him back to the deep water.
+She carried him back to the deep water, and Plip! went the crab as he splashed in. "Thank you, little wave!" cheered the crab. "You saved me! You saved me! You saved me!" — three times he said it, clapping his claws.
 
-Plip went the crab as he splashed in.
+Tide glowed with pride. She felt big inside, even though she was small outside. From that day on, she was never sad about being little, for little waves could do kind things too. She lapped at the sandy shore, tickled the toes of a giggling child, and rocked a sleepy seashell. Lap, lap, lap.
 
-"Thank you, little wave!" said the crab.
+As the sun went down, the ocean grew calm, and Mama Sea sang a slow, slow song. Hush, little waves, hush. Tide's rolling grew slower, and slower, and slower.
 
-"You saved me! You saved me! You saved me!"
+The stars came out and twinkled on the water — twinkle, twinkle, twinkle. Tide yawned a salty yawn and curled into Mama Sea's arms.
 
-That was three times he said it.
-
-Tide felt proud.
-
-She felt big inside, even though she was small outside.
-
-After that, Tide was not sad about being little.
-
-Little waves could do kind things too.
-
-She lapped at the sandy shore.
-
-She tickled the toes of a giggling child.
-
-She rocked a sleepy seashell.
-
-Lap, lap, lap.
-
-As the sun went down, the ocean grew calm.
-
-Mama Sea sang a slow, slow song.
-
-Hush, little waves, hush.
-
-Tide's rolling grew slower.
-
-And slower.
-
-And slower.
-
-The stars came out and twinkled on the water.
-
-Twinkle, twinkle, twinkle.
-
-Tide yawned a salty yawn.
-
-She curled into Mama Sea's arms.
-
-Sleep now, little wave.
-
-Dream of gentle lapping on soft, warm sand.
+Sleep now, little wave. Dream of gentle lapping on soft, warm sand.
 
 The end. 🌙
 
 ---
 
-*Moral: Being small never stops you from doing something kind.*
+*Moral: Being small never stops a kind heart from doing something wonderful.*
 
 ---
 

@@ -4,111 +4,41 @@
 
 ---
 
-Tiana loved rainy mornings.
+Tiana loved rainy mornings. She sat by the window with her chin in her hands, curiosity tickling her like a feather.
 
-She sat by the window with her chin on her hands.
+The rain tapped on the glass. "Tap, tap, tap," sang the rain.
 
-She felt curious.
+Tiana tilted her head. "Why do you tap, rain?" she asked.
 
-The rain tapped on the glass.
+"Tap, tap, tap," the rain answered.
 
-"Tap, tap, tap," said the rain.
+That only deepened the mystery, so Tiana trotted to her mama. "Mama, why does the rain tap?"
 
-Tiana tilted her head.
+Mama smiled. "The rain is saying hello to the world," she said. "It is washing the leaves and waking the flowers."
 
-"Why do you tap, rain?" she asked.
+Tiana liked that idea very much. She pressed her ear to the window, and the rain tapped again. "Tap, tap, tap," said the rain.
 
-"Tap, tap, tap," said the rain.
+This time Tiana tapped back — tap, tap, tap went her fingers — and giggles bubbled up inside her. The rain seemed to tap faster then, as if it were laughing along.
 
-Tiana felt puzzled.
+"Can you sing, rain?" Tiana asked. She hummed a soft little tune. Hmm, hmm, hmm. And the rain pattered in time with her hum. Pitter-patter, pitter-patter. Happiness warmed Tiana all the way down to her toes.
 
-She asked her mama.
+She had wanted to play outside, but this was a game too — the listening game. Tiana listened for the loud drops, and the quiet drops, and the drops that went plip, and the drops that went plop.
 
-"Mama, why does the rain tap?"
+Then the tapping grew softer. And softer. And softer. The rain was getting sleepy.
 
-Mama smiled.
+"The rain is finishing its song," Mama whispered.
 
-"The rain is saying hello to the world," said Mama.
+Tiana nodded, her own eyelids growing heavy. The clouds began to open, and a small sunbeam peeked through like a shy smile.
 
-"It is washing the leaves and waking the flowers."
+Tiana yawned a big, soft yawn and curled up on the cushions. The last drops went plip, plip, plip. Then everything was still and clean and quiet.
 
-Tiana liked that idea.
-
-She pressed her ear to the window.
-
-The rain tapped again.
-
-"Tap, tap, tap," said the rain.
-
-This time Tiana tapped back.
-
-Tap, tap, tap went her fingers.
-
-She felt giggly.
-
-The rain seemed to tap faster, like it was laughing.
-
-"Can you sing, rain?" asked Tiana.
-
-She hummed a soft little tune.
-
-Hmm, hmm, hmm.
-
-The rain pattered in time with her hum.
-
-Pitter-patter, pitter-patter.
-
-Tiana felt happy all the way down to her toes.
-
-She had wanted to play outside.
-
-But this was a game too.
-
-It was the listening game.
-
-Tiana listened for the loud drops.
-
-She listened for the quiet drops.
-
-She listened for the drops that went plip and the drops that went plop.
-
-Then the tapping grew softer.
-
-And softer.
-
-And softer.
-
-The rain was getting sleepy.
-
-"The rain is finishing its song," whispered Mama.
-
-Tiana nodded.
-
-She felt sleepy too.
-
-The clouds began to open.
-
-A small sunbeam peeked through like a shy smile.
-
-Tiana yawned a big, soft yawn.
-
-She curled up on the cushions.
-
-The last drops went plip, plip, plip.
-
-Then everything was still and clean and quiet.
-
-Sleep now, little listener.
-
-Let the rain's song rock you gently.
-
-Close your eyes and dream of soft, tapping rain.
+Sleep now, little listener. Let the rain's song rock you gently. Close your eyes and dream of soft, tapping rain.
 
 The end. 🌙
 
 ---
 
-*Moral: Listening closely can turn a rainy day into a song.*
+*Moral: Listen closely, and a rainy day will sing you a song.*
 
 ---
 

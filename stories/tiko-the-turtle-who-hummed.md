@@ -4,70 +4,25 @@
 
 ---
 
-Tiko was a small green turtle.
-He lived in a pond with round lily pads.
-Every morning, Tiko loved to hum.
-He hummed while he swam.
-He hummed while he munched watercress.
-His hum sounded like this: hum hum, all is well.
-Hum hum, all is well.
-Tiko hummed it three times every day.
-It was his happy song.
+Tiko was a small green turtle who lived in a pond with round lily pads. Every morning he loved to hum — while he swam, while he munched watercress — and his hum sounded like this: hum hum, all is well. Hum hum, all is well. He hummed it three times every day. It was his happy song.
 
-One morning, his friend Dolly the duckling swam by.
-Dolly heard the humming.
-"That is a lovely song," said Dolly.
-Tiko felt shy.
-His cheeks turned pink under his shell.
-"No one has ever heard my hum before," said Tiko.
-"I only hum when I am alone."
-Tiko felt nervous.
-What if his hum was too wobbly?
-What if his hum was too slow?
+One morning his friend Dolly the duckling swam by and heard the humming. "That is a lovely song," she said. Tiko's cheeks turned pink under his shell — no one had ever heard his hum before. "I only hum when I am alone," he murmured. He felt nervous. What if his hum was too wobbly? What if it was too slow?
 
-Dolly smiled a soft duckling smile.
-"Hum for me, please," said Dolly.
-"Just one little hum."
-Tiko took a deep breath.
-He hummed very quietly.
-Hum hum, all is well.
-Dolly clapped her wings.
-"That was beautiful!" she said.
-"Hum it again!"
-Tiko hummed a little louder.
-Hum hum, all is well.
-A frog on a lily pad joined in.
-"Ribbit!" he sang along.
-Tiko laughed.
-He was not shy anymore.
-He hummed his happiest hum of all.
-Hum hum, all is well.
+But Dolly smiled her soft duckling smile. "Hum for me, please," she asked. "Just one little hum." Tiko took a deep breath and hummed very quietly. Hum hum, all is well.
 
-Can you hum along with Tiko?
-Try it softly: hum hum, all is well.
-Tiko and Dolly hummed together all afternoon.
-They hummed by the tall reeds.
-They hummed under the willow tree.
-Soon the whole pond was humming.
-Tiko felt proud.
-He felt warm inside.
-His happy song was for sharing after all.
+Dolly clapped her wings. "That was beautiful!" she cried. "Hum it again!" So Tiko hummed a little louder. Hum hum, all is well. A frog on a lily pad joined in — "Ribbit!" — and Tiko laughed. He wasn't shy anymore. He hummed his happiest hum of all. Hum hum, all is well.
 
-That evening, the sun went low and golden.
-Tiko tucked his head into his shell.
-Dolly floated beside him on the still water.
-"Hum our song once more," whispered Dolly.
-So Tiko hummed, soft and slow.
-Hum hum, all is well.
-The lily pads bobbed gently.
-The stars began to blink awake.
-And Tiko drifted into the sleepiest, sweetest sleep.
+Can you hum along with Tiko? Try it softly: hum hum, all is well.
+
+Tiko and Dolly hummed together all afternoon — by the tall reeds, under the willow tree — until soon the whole pond was humming. Tiko felt proud and warm inside. His happy song had been for sharing after all.
+
+That evening the sun went low and golden. Tiko tucked his head into his shell, and Dolly floated beside him on the still water. "Hum our song once more," she whispered. So Tiko hummed, soft and slow. Hum hum, all is well. The lily pads bobbed gently, the stars began to blink awake, and Tiko drifted into the sleepiest, sweetest sleep.
 
 The end. 🌙
 
 ---
 
-*Moral: Sharing what you love makes it even lovelier.*
+*Moral: Sharing what you love makes it lovelier still.*
 
 ---
 

@@ -4,7 +4,7 @@
 
 ---
 
-Polo the puppy was in his cozy basket. His blanket smelled like sunshine. But just as he closed his eyes, he heard a sound. Creak. Creak went the stairs. Polo felt nervous. What was that noise?
+Polo the puppy was in his cozy basket, and his blanket smelled like sunshine. But just as he closed his eyes, he heard a sound. Creak. Creak went the stairs. Polo felt nervous. What was that noise?
 
 Then he heard another sound. Hoo-hoo went something outside. Polo's ears stood straight up. He felt scared. The night was full of strange sounds.
 
@@ -12,7 +12,7 @@ His mother came and sat beside him. She nuzzled his ear. "Those sounds are frien
 
 "First, the crickets." She lifted her nose. Chirp-chirp-chirp sang the crickets in the grass. "The crickets sing lullabies," she said. "They sing all night so babies can sleep."
 
-Polo listened. The cricket song did sound like a lullaby. He felt a little calmer.
+Polo listened. The cricket song did sound like a lullaby, and he felt a little calmer.
 
 "Now the owl." Hoo-hoo called the owl from the old oak tree. "The owl is the night guard," said Mother. "She watches over everyone while they dream."
 
@@ -22,7 +22,7 @@ Polo felt safer. A guard owl was a good thing to have.
 
 Mother smiled. "That is just the house stretching," she said. "Houses get sleepy too. They creak when they yawn."
 
-Polo giggled. A yawning house was a funny thought. He did not feel scared anymore. He felt curious instead.
+Polo giggled. A yawning house was a funny thought. He did not feel scared anymore — he felt curious instead.
 
 "Hush, little sounds, hush," Mother sang softly.
 
@@ -30,7 +30,7 @@ Polo closed his eyes and listened. The crickets sang their lullaby. The owl kept
 
 "Hush, little sounds, hush," Mother sang again.
 
-Polo's breathing grew slow. His paws stopped twitching. The night sounds wrapped around him like a blanket. He felt drowsy and warm.
+Polo's breathing grew slow. His paws stopped twitching. The night sounds wrapped around him like a blanket, and he felt drowsy and warm.
 
 "Hush, little sounds, hush," Mother sang one last time.
 
@@ -42,7 +42,7 @@ The end. 🌙
 
 ---
 
-*Moral: Night sounds are not scary when you know their gentle jobs.*
+*Moral: Night sounds are not scary once you know their gentle jobs.*
 
 ---
 

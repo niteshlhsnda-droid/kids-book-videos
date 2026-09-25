@@ -4,117 +4,33 @@
 
 ---
 
-Lily loved drawing with chalk on the sidewalk.
+Lily loved drawing with chalk on the sidewalk. One sunny morning, she drew a garden — flowers, a butterfly, and a little bird. She felt happy.
 
-One sunny morning, she drew a garden.
-
-She drew flowers.
-
-She drew a butterfly.
-
-She drew a little bird.
-
-She felt happy.
-
-Then something strange happened.
-
-The chalk butterfly fluttered its wings.
-
-Flap, flap.
-
-Lily felt amazed.
+Then something strange happened: the chalk butterfly fluttered its wings. Flap, flap. Lily felt amazed.
 
 "Did you just move?" she whispered.
 
-The butterfly lifted off the sidewalk.
+The butterfly lifted off the sidewalk, flew one small loop, and landed right back on its chalk flower.
 
-It flew one small loop.
+Delighted, Lily drew a chalk sun, and it glowed warmly. She drew chalk raindrops, and they fell softly on the chalk flowers — plip, plip, plip — making them sway.
 
-Then it landed back on its chalk flower.
+"My garden is alive," breathed Lily. "Alive, alive, alive," she whispered. That was three times she whispered it, and she felt joyful.
 
-Lily felt delighted.
+She drew a chalk rabbit, and it hopped twice — hop, hop. She drew a chalk turtle, and it took one slow step. Step. Lily giggled.
 
-She drew a chalk sun.
+Then she noticed something: the chalk bird looked sad, its chalk beak drooping.
 
-It glowed warmly.
+"What's wrong, little bird?" asked Lily, worried.
 
-She drew chalk raindrops.
+The bird hopped toward the edge of the sidewalk and looked at the real sky.
 
-They fell softly on the chalk flowers.
+"Oh," said Lily softly. "You want a friend."
 
-Plip, plip, plip.
+She drew another bird beside it — a friend bird. The two chalk birds chirped — chirp, chirp — and hopped together, happy now. A warm feeling spread through Lily. She had helped.
 
-The chalk flowers swayed.
+As the sun went down, the chalk animals grew still. The butterfly folded its wings, the rabbit curled up, and the two birds tucked their heads.
 
-"My garden is alive," breathed Lily.
-
-"Alive, alive, alive," she whispered.
-
-That was three times she whispered it.
-
-She felt joyful.
-
-She drew a chalk rabbit.
-
-It hopped twice.
-
-Hop, hop.
-
-She drew a chalk turtle.
-
-It took one slow step.
-
-Step.
-
-Lily giggled.
-
-Then she noticed something.
-
-The chalk bird looked sad.
-
-Its chalk beak drooped.
-
-"What's wrong, little bird?" asked Lily.
-
-She felt worried.
-
-The bird hopped toward the edge of the sidewalk.
-
-It looked at the real sky.
-
-"Oh," said Lily softly.
-
-"You want a friend."
-
-She drew another bird beside it.
-
-A friend bird.
-
-The two chalk birds chirped.
-
-Chirp, chirp.
-
-They hopped together, happy now.
-
-Lily felt warm inside.
-
-She had helped.
-
-As the sun went down, the chalk animals grew still.
-
-The butterfly folded its wings.
-
-The rabbit curled up.
-
-The two birds tucked their heads.
-
-"Goodnight, garden," whispered Lily.
-
-"Goodnight, goodnight, goodnight."
-
-That was three times she whispered it.
-
-She felt sleepy.
+"Goodnight, garden," Lily whispered. "Goodnight, goodnight, goodnight." That was three times she whispered it, and she felt sleepy.
 
 The chalk glowed softly in the moonlight.
 

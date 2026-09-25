@@ -4,13 +4,13 @@
 
 ---
 
-Cora the cricket could not fall asleep. She tossed in her grass bed. She turned this way and that. She felt restless and fidgety.
+Cora the cricket could not fall asleep. She tossed in her grass bed, turning this way and that, feeling restless and fidgety.
 
-She hopped to her doorway. The meadow glowed with tiny lights. Dozens of fireflies floated in the dark. They blinked on and off, on and off. It looked like a dance.
+She hopped to her doorway. The meadow glowed with tiny lights — dozens of fireflies floating in the dark, blinking on and off, on and off. It looked like a dance.
 
-Cora felt curious. She sat very still and watched. The fireflies moved in patterns. First they made a circle. Blink, blink, blink. Then they made a wavy line. Blink, blink, blink.
+Curious, Cora sat very still and watched. The fireflies moved in patterns — first a circle (blink, blink, blink), then a wavy line (blink, blink, blink).
 
-"It is a light dance!" whispered Cora. She felt delighted.
+"It is a light dance!" Cora whispered, delighted.
 
 One firefly drifted close to her. "Would you like to join?" it blinked. Fireflies talk in blinks, you know.
 
@@ -18,19 +18,19 @@ One firefly drifted close to her. "Would you like to join?" it blinked. Fireflie
 
 "You can tap," blinked the firefly. "Tap your feet to our rhythm. Every dancer is welcome."
 
-Cora felt happy. She tapped her tiny feet. Tap-tap-tap. The fireflies blinked around her. Blink and twirl, twirl and blink.
+Happiness bubbled up in Cora. She tapped her tiny feet — tap-tap-tap — while the fireflies blinked around her. Blink and twirl, twirl and blink.
 
 "Blink and twirl, twirl and blink," hummed the night.
 
-Cora tapped faster. The fireflies spun in a spiral. Their lights made golden swirls in the dark. Cora laughed. Dancing was the most fun ever.
+Cora tapped faster, and the fireflies spun in a spiral, their lights making golden swirls in the dark. Cora laughed — dancing was the most fun ever.
 
 "Blink and twirl, twirl and blink," hummed the night again.
 
-But soon Cora's feet felt tired. Her tapping grew slower. Tap... tap... tap. The fireflies slowed too. Their dance became gentle and dreamy.
+But soon Cora's feet felt tired, and her tapping grew slower. Tap... tap... tap. The fireflies slowed too, and their dance became gentle and dreamy.
 
 "Blink and twirl, twirl and blink," hummed the night one last time.
 
-Cora yawned. Dancing had tired her out in the best way. She curled up in her grass bed. The fireflies kept dancing softly outside. Their blinks were slow now, like sleepy eyes closing.
+Cora yawned — dancing had tired her out in the best way. She curled up in her grass bed while the fireflies kept dancing softly outside, their blinks slow now, like sleepy eyes closing.
 
 Blink... blink... blink. Cora's own eyes blinked the same way. Open... closed... open... closed. She felt drowsy and peaceful.
 

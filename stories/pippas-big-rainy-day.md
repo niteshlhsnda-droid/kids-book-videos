@@ -28,11 +28,11 @@ Pippa opened the door. "There is nothing to do," he sighed.
 
 Tia smiled. "Then let us make something to do!"
 
-First, they built a blanket fort. A big, cozy, wobbly blanket fort.
+First, they built a blanket fort — a big, cozy, wobbly blanket fort.
 
 Then, they told each other silly stories. Pippa told a story about a dancing mango. Tia told a story about a sleepy cloud. Ha-ha-ha! Hee-hee-hee!
 
-Then, Pippa remembered the mango muffins his mama had baked. Warm, yummy, sweet-smelling mango muffins.
+Then, Pippa remembered the mango muffins his mama had baked — warm, yummy, sweet-smelling mango muffins.
 
 "One for you," said Pippa, "and one for me."
 

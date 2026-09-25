@@ -4,35 +4,35 @@
 
 ---
 
-The wind was too loud tonight. WHOOSH went the wind. It rattled the windows. It shook the trees. Wren the little bird felt scared in her nest.
+The wind was too loud tonight. WHOOSH went the wind — rattling the windows, shaking the trees — and little Wren huddled in her nest, her heart pounding with fright.
 
-"Wind, please be quiet!" she chirped. But the wind did not listen. WHOOSH. It blew even harder. Wren felt frightened. Her twig nest trembled.
+"Wind, please be quiet!" she chirped. But the wind did not listen. WHOOSH, it blew even harder, until her twig nest trembled and shook.
 
-Then she heard a soft voice. It was Old Oak, the biggest tree. "The wind is not angry, little wren," he rumbled. "The wind is restless. It does not know how to fall asleep."
+Then a soft voice rumbled through the branches. It was Old Oak, the biggest tree of all. "The wind is not angry, little wren," he rumbled. "The wind is restless. It does not know how to fall asleep."
 
-Wren felt curious. "The wind cannot sleep?" she asked.
+Wren tilted her head, curious. "The wind cannot sleep?" she asked.
 
 "No one ever taught it a bedtime song," said Old Oak. "Would you teach it one? Your singing is lovely."
 
-Wren felt nervous. She was only a tiny bird. But she took a deep breath. She sang the song her mother sang to her.
+Wren's wings fluttered with nerves — she was only a tiny bird, after all. But she took a deep breath and sang the song her mother used to sing to her.
 
 "Hush-a-bye, windy sky, time to rest your wings and sigh," she sang.
 
-The wind paused. It seemed to listen. WHOOSH became whoosh. A little softer now.
+The wind paused, as if listening. WHOOSH became whoosh — a little softer now.
 
 "Hush-a-bye, windy sky, time to rest your wings and sigh," Wren sang again.
 
-The wind grew gentler still. It rocked the treetops softly. It was like a giant rocking a cradle. Wren felt braver. Her song was working!
+The wind grew gentler still, rocking the treetops softly, like a giant rocking a cradle. Wren's heart lifted — her song was working!
 
 "Hush-a-bye, windy sky, time to rest your wings and sigh," she sang one last time.
 
-The wind became a whisper. Shhh. It brushed the leaves tenderly. Old Oak's branches swayed in a slow dance. Wren's nest stopped trembling.
+The wind became a whisper. Shhh. It brushed the leaves tenderly, and Old Oak's branches swayed in a slow dance. Wren's nest stopped trembling.
 
-"Thank you, little wren," sighed the wind. Its voice was soft now. "No one ever sang me to sleep before."
+"Thank you, little wren," sighed the wind, its voice soft now. "No one ever sang me to sleep before."
 
-Wren felt proud and happy. She had helped the great big wind. She snuggled into her nest. The wind hummed her song back to her. Shhh, hush-a-bye.
+Wren glowed with pride. She, a tiny bird, had helped the great big wind! She snuggled deep into her nest as the wind hummed her song back to her. Shhh, hush-a-bye.
 
-Her eyes grew heavy. The whispering wind was the perfect lullaby. It rocked her gently, like a feather in a breeze.
+Her eyes grew heavy. The whispering wind was the perfect lullaby, rocking her gently like a feather in a breeze.
 
 Sleep now, little wren. Sleep now, sleepy wind. You sang each other into the softest dreams.
 
@@ -40,7 +40,7 @@ The end. 🌙
 
 ---
 
-*Moral: A gentle song can calm even the wildest and loudest feelings.*
+*Moral: With a gentle song, even the wildest, loudest feelings can be calmed to sleep.*
 
 ---
 
