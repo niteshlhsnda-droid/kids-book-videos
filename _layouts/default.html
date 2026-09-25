@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title | escape }} — The Big Bedtime Storybook</title>
+<meta name="description" content="Cozy illustrated bedtime stories for ages 4–7.">
+{% include head-custom.html %}
+<link rel="stylesheet" href="{{ '/assets/css/storybook.css' | relative_url }}">
+</head>
+<body class="storybook">
+{{ content }}
+<footer class="site-foot">
+  <div class="hearts">🌙 📚 ✨</div>
+  <p>The Big Bedtime Storybook — cozy tales for ages 4–7.<br>New stories added daily.</p>
+</footer>
+</body>
+</html>
