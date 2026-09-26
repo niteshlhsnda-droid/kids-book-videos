@@ -4,7 +4,7 @@
 
 ---
 
-Andy was a tiny red ant who lived in a hill under the old oak tree. Every day he carried crumbs home — big crumbs, small crumbs, and sweet cake crumbs, which were the very best.
+Andy was a tiny red ant who lived in a hill under the old oak tree in Willowmere Wood. Every day he carried crumbs home — big crumbs, small crumbs, and sweet cake crumbs, which were the very best.
 
 One afternoon, Andy found a giant cookie crumb. It was the biggest crumb ever! He lifted it onto his back and marched toward home. Step step step.
 
@@ -55,12 +55,8 @@ At bedtime, Andy curled into his cozy tunnel while Bella rested in the moss near
 
 He dreamed of cookie crumb parades. Step step step. The earth was soft and dark, and the hill hummed a quiet song. And Andy slept, snug and happy.
 
+Sleep now, little Andy.
+
 The end. 🌙
-
----
-
-*Moral: With good friends beside you, even a spill can turn into a celebration.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/andy-the-ant-and-the-fallen-crumbs.pdf)

@@ -4,7 +4,7 @@
 
 ---
 
-Faye was a small deer fawn who lived at the edge of the whispering woods. She had white spots on her back and long, wobbly legs. Every evening, the fireflies held a dance — they twirled over the meadow, glowing and spinning. Glow, twirl, glow! All the young animals danced: the rabbits hopped, the mice twirled. But Faye only watched.
+Faye was a small deer fawn who lived at the edge of the Whispering Pines, in Willowmere Wood. She had white spots on her back and long, wobbly legs. Every evening, the fireflies held a dance — they twirled over Firefly Meadow, glowing and spinning. Glow, twirl, glow! All the young animals danced: the rabbits hopped, the mice twirled. But Faye only watched.
 
 She wanted to dance too, but her legs felt too wobbly. What if she tripped? What if everyone laughed? Her ears drooped with shyness. "I will just watch," she whispered.
 
@@ -26,12 +26,8 @@ Soon the rabbits joined her sway, and the mice tried her wobbly twirl — everyo
 
 When the moon rose high, the dance slowed down. Faye curled in the soft grass while Lumo rested on a leaf nearby. "Best dance ever," glowed Lumo. "Thank you," whispered Faye. She closed her eyes and felt the fireflies' gentle light. Glow, sway, sleep. The crickets played a lullaby, and Faye drifted into a dreamy, dancy sleep.
 
+Sleep now, little Faye.
+
 The end. 🌙
-
----
-
-*Moral: The most beautiful dance of all is the one that is truly yours.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/faye-the-deer-fawns-firefly-dance.pdf)

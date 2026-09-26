@@ -4,7 +4,7 @@
 
 ---
 
-Greta was a big white goose who lived by the reedy lake, and she had a very loud honk. HONK HONK HONK! She honked at sunrise, she honked at her friends, she honked when she was happy. Hers was the loudest honk on the lake.
+Greta was a big white goose who lived by the reedy shore of Bubble Bay, in Willowmere Wood, and she had a very loud honk. HONK HONK HONK! She honked at sunrise, she honked at her friends, she honked when she was happy. Hers was the loudest honk on the lake.
 
 One afternoon, Greta honked hello to her friend Wren the water vole. HONK! Wren jumped a mile and dropped her berry basket, and berries rolled everywhere. "Oh!" cried Wren. "That scared me!"
 
@@ -20,16 +20,12 @@ Greta practiced by the reeds. First, her big honk. HONK! Too loud. Then a medium
 
 Can you honk like Greta? First loud: HONK! Now medium: Honk. Now soft, like a hug: honk.
 
-Greta swam around the lake greeting everyone softly. honk, she said to the ducks. honk, she said to the frogs. Nobody jumped. Nobody dropped anything. Everyone smiled. "What a sweet honk!" they said. Greta felt proud and gentle — her soft honk made friends happy.
+Greta swam around the bay greeting everyone softly. honk, she said to the ducks. honk, she said to the frogs. Nobody jumped. Nobody dropped anything. Everyone smiled. "What a sweet honk!" they said. Greta felt proud and gentle — her soft honk made friends happy.
 
-When the sun set, the lake turned pink. Greta tucked her beak under her wing while Wren curled in the reeds nearby. "Goodnight, soft honker," whispered Wren. "honk," yawned Greta, very softly. It was the gentlest goodnight. The water lapped quietly, the stars reflected on the lake, and Greta slept, soft and sound.
+When the sun set, the lake turned pink. Greta tucked her beak under her wing while Wren curled in the reeds nearby. "Goodnight, soft honker," whispered Wren. "honk," yawned Greta, very softly. It was the gentlest goodnight. The water lapped quietly, the stars reflected on Bubble Bay, and Greta slept, soft and sound.
+
+Sleep now, little Greta.
 
 The end. 🌙
-
----
-
-*Moral: Sometimes the gentlest voice gives the warmest hello.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/greta-the-gooses-soft-honk.pdf)

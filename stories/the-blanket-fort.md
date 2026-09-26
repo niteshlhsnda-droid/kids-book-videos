@@ -4,7 +4,7 @@
 
 ---
 
-Coco the kitten loved building forts, and tonight she built her biggest one yet. She draped blankets over chairs, lined the floor with pillows, and hung a flashlight from the top like a tiny sun.
+Coco the kitten, who lived in a cozy house at the edge of Willowmere Wood, loved building forts, and tonight she built her biggest one yet. She draped blankets over chairs, lined the floor with pillows, and hung a flashlight from the top like a tiny sun.
 
 She crawled inside with her teddy bear, Button. "This is our fort," she whispered. "Nothing can bother us here."
 
@@ -34,14 +34,8 @@ Button's button eyes seemed to smile at her. Coco yawned a tiny kitten yawn, her
 
 Her eyes closed slowly. The flashlight glowed like a sleepy sun above her while the rain sang a soft song outside, and Coco dreamed she lived in a castle made of blankets.
 
-Sleep now, little kitten. Your fort will keep you safe all night long. Nothing scary can reach you here.
+Sleep now, little Coco.
 
 The end. 🌙
-
----
-
-*Moral: Scary things often turn out to be something silly — and perfectly safe.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-blanket-fort.pdf)

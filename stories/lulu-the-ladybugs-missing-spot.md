@@ -4,7 +4,7 @@
 
 ---
 
-Lulu was a tiny red ladybug who lived on a daisy in the flower garden. She had seven black spots, and she counted them every morning. One, two, three, four, five, six, seven. Her spots were her pride.
+Lulu was a tiny red ladybug who lived on a daisy in the Dream Garden. She had seven black spots, and she counted them every morning. One, two, three, four, five, six, seven. Her spots were her pride.
 
 One rainy morning, Lulu woke up and counted her spots. One, two, three, four, five, six. Six! One spot was missing! Lulu gasped and looked all over the daisy. No spot. Her wings trembled. "I am not a proper ladybug!" she cried, hiding under a petal, feeling sad.
 
@@ -24,12 +24,8 @@ Then it started to rain again. Pitter patter. Oh no! The berry-juice spot began 
 
 When the rain stopped, a rainbow appeared. Lulu rested on the daisy while Roly curled under a leaf. "Goodnight, perfect ladybug," whispered Roly. "Goodnight," yawned Lulu. She counted her spots one last time. Six, and that was fine. The garden smelled fresh and sweet, the petals rocked gently, and Lulu slept, perfect, spots and all.
 
+Sleep now, little Lulu.
+
 The end. 🌙
-
----
-
-*Moral: You are wonderful exactly as you are — no changes needed.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/lulu-the-ladybugs-missing-spot.pdf)

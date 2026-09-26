@@ -30,16 +30,10 @@ Then the tapping grew softer. And softer. And softer. The rain was getting sleep
 
 Tiana nodded, her own eyelids growing heavy. The clouds began to open, and a small sunbeam peeked through like a shy smile.
 
-Tiana yawned a big, soft yawn and curled up on the cushions. The last drops went plip, plip, plip. Then everything was still and clean and quiet.
+Tiana yawned a big, soft yawn and curled up on the cushions. The last drops went plip, plip, plip. Then everything was still and clean and quiet, and she dreamed of soft, tapping rain falling over Willowmere Wood.
 
-Sleep now, little listener. Let the rain's song rock you gently. Close your eyes and dream of soft, tapping rain.
+Sleep now, little Tiana.
 
 The end. 🌙
-
----
-
-*Moral: Listen closely, and a rainy day will sing you a song.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-rain-who-sang.pdf)

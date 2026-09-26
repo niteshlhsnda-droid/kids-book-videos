@@ -4,7 +4,7 @@
 
 ---
 
-On a rocky cliff by the sea stood a tall lighthouse. Her name was Luma, and every night she shone her bright beam across the waves, helping the boats find their way home.
+On a rocky cliff at Bubble Bay stood a tall lighthouse. Her name was Luma, and every night she shone her bright beam across the waves, helping the boats find their way home.
 
 Pela the little puffin lived in a nest nearby, and she loved watching Luma's light sweep the sea. But tonight something looked different. Luma's beam drooped low, moving very, very slowly.
 
@@ -34,14 +34,8 @@ Luma's eye closed a little more. Her light was now a warm glow, like a candle, a
 
 Luma's eye closed all the way. Her glow was faint and cozy, and the whole cliff felt peaceful. Pela's own eyes grew heavy. She had kept her promise, and now she could rest too.
 
-Sleep now, little lighthouse. Sleep now, little puffin. Even the brightest lights need to close their eyes sometimes.
+Sleep now, little Luma.
 
 The end. 🌙
-
----
-
-*Moral: Even the kindest helpers need their rest — and the kindest thing is to let them have it.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-sleepy-lighthouse.pdf)

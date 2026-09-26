@@ -4,7 +4,7 @@
 
 ---
 
-Daisy was a little duckling who lived by the blue pond. One morning, she woke up grumpy. The water was too cold, her breakfast seeds were too small, and her feathers felt too fluffy.
+Daisy was a little duckling who lived by Bluebell Pond in Willowmere Wood. One morning, she woke up grumpy. The water was too cold, her breakfast seeds were too small, and her feathers felt too fluffy.
 
 "Nothing is good today," she quacked.
 
@@ -26,9 +26,9 @@ Daisy thought hard. "One," she said. "The sun is warm on my back. Two. The water
 
 Mama Duck smiled.
 
-Daisy felt something shift. The grumpy feeling got smaller, and the thankful feeling got bigger. She looked around with new eyes. The pond sparkled like diamonds. A butterfly danced over the reeds. Her friend splashed and laughed. The clouds looked soft like cotton, and the breeze smelled sweet and fresh.
+Daisy felt something shift. The grumpy feeling got smaller, and the thankful feeling got bigger. She looked around with new eyes. Bluebell Pond sparkled like diamonds. A butterfly danced over the reeds. Her friend splashed and laughed. The clouds looked soft like cotton, and the breeze smelled sweet and fresh.
 
-"Thank you, pond," Daisy whispered. "Thank you, sun. Thank you, Mama."
+"Thank you, Bluebell Pond," Daisy whispered. "Thank you, sun. Thank you, Mama."
 
 That afternoon, Daisy played happily. She dived and splashed and chased shiny ripples. Every splash felt like a giggle.
 
@@ -36,18 +36,12 @@ At bedtime, Mama tucked Daisy under her wing. "What are you thankful for tonight
 
 "My warm nest," said Daisy. "Your soft wing. And this whole day."
 
-Mama kissed her head. Daisy felt grateful and light as a feather. The pond sang its sleepy song — lap, lap, hush.
+Mama kissed her head. Daisy felt grateful and light as a feather. Bluebell Pond sang its sleepy song — lap, lap, hush.
 
 Daisy closed her eyes. She was thankful. She was loved.
 
-Goodnight, Daisy.
+Sleep now, little Daisy.
 
 The end. 🌙
-
----
-
-*Moral: Naming what we are thankful for can turn a grumpy day bright.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/daisy-the-grateful-duckling.pdf)

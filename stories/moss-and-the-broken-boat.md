@@ -1,10 +1,10 @@
-# Moss and the Broken Boat
+# Mimi and the Broken Boat
 
 *An original bedtime story for ages 4–7. Reading time: about 4 minutes.*
 
 ---
 
-Moss was a tiny mouse with a little wooden boat — his favorite toy in the whole world. Every day, he sailed it in the puddle by the oak tree.
+Mimi was a tiny mouse with a little wooden boat — her favorite toy in the whole world. Every day, she sailed it on Bluebell Pond.
 
 One windy day, the boat bumped a rock.
 
@@ -12,29 +12,29 @@ CRACK!
 
 The boat split in two.
 
-Moss felt sad. His heart felt heavy. Tears filled his eyes.
+Mimi felt sad. Her heart felt heavy. Tears filled her eyes.
 
-"My boat," he whispered. "It is broken."
+"My boat," she whispered. "It is broken."
 
-Grandma Mouse came to sit with him. She put her arm around him.
+Grandma Mouse came to sit with her. She put her arm around her.
 
 "I see you feel sad," she said.
 
-Moss nodded.
+Mimi nodded.
 
 "It is okay to feel sad," she said. "It was your favorite boat."
 
-Moss cried a little. Grandma waited. She did not rush him — she just stayed close.
+Mimi cried a little. Grandma waited. She did not rush her — she just stayed close.
 
 Then she said, "Sad feelings need soft time."
 
-"Sad feelings need soft time," she said again, stroking his ear.
+"Sad feelings need soft time," she said again, stroking her ear.
 
 "Sad feelings need soft time," she said one more time.
 
-Moss breathed slowly. He felt a little lighter.
+Mimi breathed slowly. She felt a little lighter.
 
-"What can we do?" he asked.
+"What can we do?" she asked.
 
 Grandma smiled. "We can fix it together," she said.
 
@@ -42,24 +42,18 @@ They found some sticky pine sap. They pressed the two halves together. They tied
 
 The boat had a crack line now — but it floated again.
 
-Moss put it in the puddle. It sailed in little circles. Moss smiled his first smile of the day.
+Mimi put it in Bluebell Pond. It sailed in little circles. Mimi smiled her first smile of the day.
 
-"Thank you, Grandma," he said.
+"Thank you, Grandma," she said.
 
-That night, Moss put his boat by his bed. The crack showed in the moonlight, but Moss did not mind anymore. The boat was still his boat.
+That night, Mimi put her boat by her bed. The crack showed in the moonlight, but Mimi did not mind anymore. The boat was still her boat.
 
-Moss snuggled under his leaf blanket while Grandma sang a soft song. He had felt sad earlier. Now he felt peaceful.
+Mimi snuggled under her leaf blanket while Grandma sang a soft song. She had felt sad earlier. Now she felt peaceful.
 
-He closed his eyes. He was loved. He was cozy.
+She closed her eyes. She was loved. She was cozy.
 
-Goodnight, Moss.
+Sleep now, little Mimi.
 
 The end. 🌙
-
----
-
-*Moral: Sad feelings get softer when we share them and take our time.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/moss-and-the-broken-boat.pdf)

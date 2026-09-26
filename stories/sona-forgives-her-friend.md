@@ -14,7 +14,7 @@ Sona's chest went tight. Her eyes burned hot. "That was my favorite ribbon!" she
 
 Tuli looked very sorry. "I am really sorry," she whispered.
 
-Sona flew to her nest and sat alone, with anger and sadness tangled up inside her. Mama Sparrow fluttered down beside her.
+Sona flew to her nest in the Old Apple Tree of Willowmere Wood and sat alone, with anger and sadness tangled up inside her. Mama Sparrow fluttered down beside her.
 
 "I can see you're upset," Mama said gently. Sona nodded.
 
@@ -40,18 +40,12 @@ At bedtime, Sona snuggled into her nest. The upset of the afternoon had melted i
 
 "Forgiving was very brave," she said.
 
-The night breeze rocked the tree. Sway, sway, hush. Sona closed her eyes.
+The night breeze rocked the Old Apple Tree. Sway, sway, hush. Sona closed her eyes.
 
 She was kind, and she was loved.
 
-Goodnight, Sona.
+Sleep now, little Sona.
 
 The end. 🌙
-
----
-
-*Moral: When you forgive a friend, both hearts heal — and the friendship grows stronger than before.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/sona-forgives-her-friend.pdf)

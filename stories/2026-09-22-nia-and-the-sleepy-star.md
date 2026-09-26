@@ -1,6 +1,6 @@
 # Nia and the Sleepy Star
 
-Every evening, just after dinner, Nia tiptoed onto the porch with her warm milk. The moon hung big and round in the sky, and the stars blinked at her like old friends. Nia always waved back. "Good night, moon," she whispered. "Good night, stars."
+Every evening, just after dinner, Nia tiptoed onto the porch of her little cottage at the edge of Willowmere Wood with her warm milk. The moon hung big and round in the sky, and the stars blinked at her like old friends. Nia always waved back. "Good night, moon," she whispered. "Good night, stars."
 
 ![Nia on the porch with her warm milk, waving at the moon](../assets/illustrations/2026-09-22-nia-and-the-sleepy-star-scene1.jpg)
 
@@ -40,4 +40,6 @@ And the star twinkled down at her, the happiest twinkle of all.
 
 From that night on, whenever Nia waved at the sky, one little star always twinkled back first — the one that remembered how kindness had helped it rest.
 
-**Kindness gives others the strength to shine again.**
+Sleep now, little Nia.
+
+The end. 🌙

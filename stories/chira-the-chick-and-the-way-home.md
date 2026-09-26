@@ -4,7 +4,7 @@
 
 ---
 
-Chira was a tiny yellow chick who lived in a nest under the rose bush. One morning, she chased a butterfly. Flap flap flutter! She chased it past the fence, past the pond, and into the tall grass.
+Chira was a tiny yellow chick who lived in a nest under the rose bush in Willowmere Wood. One morning, she chased a butterfly. Flap flap flutter! She chased it past the fence, past Bluebell Pond, and into the tall grass.
 
 Then the butterfly flew away. Chira looked around. Nothing looked familiar. Oh no! She was lost.
 
@@ -40,7 +40,7 @@ Can you listen like Chira?
 Close your eyes. What do you hear?
 Pretend you hear: cluck cluck cluck!
 
-They passed the pond. They passed the fence. The rose bush came into view.
+They passed Bluebell Pond. They passed the fence. The rose bush came into view.
 
 "Mama!" peeped Chira. She ran the last few steps, and her mama wrapped her in warm wings.
 
@@ -56,12 +56,8 @@ That night, Chira snuggled in the nest with her mama's wing warm over her.
 
 Chira closed her eyes and heard the night sounds, soft and friendly — crickets, breeze, and Mama's breathing. Cluck, breathe, sleep. And Chira drifted into the coziest sleep.
 
+Sleep now, little Chira.
+
 The end. 🌙
-
----
-
-*Moral: Listening carefully and walking slowly can guide you home.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/chira-the-chick-and-the-way-home.pdf)

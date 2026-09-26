@@ -8,7 +8,7 @@ High above the clouds lived Sunny the sun. Every morning she woke up bright and 
 
 But when evening came, Sunny did not want to set. "I am not tired!" she declared, feeling bouncy and wide awake, and she kept on shining and shining.
 
-Down below, the world needed nighttime — baby birds needed to sleep, flowers needed to close their petals, and little children needed the dark to dream. But Sunny would not dim.
+Down below in Willowmere Wood, the world needed nighttime — baby birds needed to sleep, flowers needed to close their petals, and little children needed the dark to dream. But Sunny would not dim.
 
 Mother Moon floated up beside her. "Sunny," she said gently, "even suns need sleep. Let me show you the goodnight stretch."
 
@@ -36,14 +36,8 @@ Sunny slipped below the horizon, and the stars came out to take her place. Mothe
 
 Down in the world, a little child looked out the window. "Goodnight, Sunny," she whispered. "Sleep well."
 
-Sleep now, bright sun. You shone beautifully today. Rest now, and tomorrow you can shine again.
+Sleep now, little Sunny.
 
 The end. 🌙
-
----
-
-*Moral: Even the brightest and busiest need their rest — that's how they shine again tomorrow.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/sunny-says-goodnight.pdf)

@@ -26,7 +26,9 @@ Taro grinned up at Willow. "Willow sang us home. Her song may be small, but it l
 
 That night, the great whales gathered around Willow. "Teach us your song," they rumbled kindly. And under the round white moon, the whole ocean sang Willow's gentle hum, soft as a lullaby, until every little creature drifted off to sleep.
 
-**Moral:** Even the smallest voice can light the way home.
+Sleep now, little Willow.
+
+The end. 🌙
 
 ---
 

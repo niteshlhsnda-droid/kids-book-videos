@@ -4,7 +4,7 @@
 
 ---
 
-Fable the fox kit had a problem: last night she forgot to dream. She just slept dark and empty, and she felt disappointed. Dreams were her favorite part of night.
+Fable the fox kit had a problem: last night, in her cozy den at the edge of Willowmere Wood, she forgot to dream. She just slept dark and empty, and she felt disappointed. Dreams were her favorite part of night.
 
 She told her grandmother about it. Grandma smiled a wise smile. "Then tonight," she said, "we will visit the Dream Collector's pillow."
 
@@ -34,14 +34,8 @@ Fable's eyes grew heavy as the golden mist wrapped around her. She dreamed of th
 
 When she woke up, she remembered everything — the best dream ever. And she knew just what to do: that night, she would share a piece of her dream back with the pillow.
 
-Sleep now, little fox. The Dream Collector is watching over you. May your dreams be golden and sweet.
+Sleep now, little Fable.
 
 The end. 🌙
-
----
-
-*Moral: Dreams are even sweeter when they are shared with love.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-dream-collectors-pillow.pdf)

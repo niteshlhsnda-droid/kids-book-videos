@@ -4,7 +4,7 @@
 
 ---
 
-In the middle of a wheat field stood a scarecrow named Sam. He had a straw hat, a patchwork coat, and a painted smile.
+In the middle of a wheat field at the edge of Willowmere Wood stood a scarecrow named Sam. He had a straw hat, a patchwork coat, and a painted smile.
 
 But Sam felt lonely. All day he stood with his arms out, and the crows flew far away from him.
 
@@ -42,14 +42,8 @@ As evening fell, the birds settled in. The sparrow tucked into Sam's hat. The ro
 
 Sam felt peaceful.
 
-Sleep now, little birds. Dream of a scarecrow who is a friend.
+Sleep now, little Sam.
 
 The end. 🌙
-
----
-
-*Moral: Being kind is better than being scary.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/sam-the-friendly-scarecrow.pdf)

@@ -18,16 +18,10 @@ Then their mama joined in. She cut a door in the box. "It is a cozy house," she 
 
 One box had been three things. A rocket. A race car. A cozy house. "What will it be tomorrow?" asked Dara. "Anything," said Zoya. "Anything, anything, anything," she sang — three times she sang it. Dara's jaw dropped. A box could be anything!
 
-As evening came, Dara curled up in the box house. It was small and warm, and it smelled like cardboard and crayons. He yawned. Zoya yawned too. Mama covered them with a blanket.
+As evening came, Dara curled up in the box house. It was small and warm, and it smelled like cardboard and crayons. He yawned, dreaming of boxes that could become anything at all. Zoya yawned too. Mama covered them with a blanket.
 
-Sleep now, little dreamers. Dream of boxes that become anything at all.
+Sleep now, little Dara.
 
 The end. 🌙
-
----
-
-*Moral: The best toys, little one, are the ones your imagination builds.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-magic-cardboard-box.pdf)

@@ -8,7 +8,7 @@ Dev was a small boy, four years old, and tomorrow was his first day of school. H
 
 "What if I do not know anyone?" he asked. "What if I miss Mama?"
 
-Mama sat with him on the bed. "I see you feel nervous," she said.
+Mama sat with him on the bed in their cozy home at the edge of Willowmere Wood. "I see you feel nervous," she said.
 
 Dev nodded.
 
@@ -42,14 +42,8 @@ He had felt nervous yesterday. Now he felt brave. He snuggled under his blanket 
 
 Dev closed his eyes. He was brave. He was loved.
 
-Goodnight, Dev.
+Sleep now, little Dev.
 
 The end. 🌙
-
----
-
-*Moral: Feeling nervous is normal — trying anyway is what makes us brave.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/devs-first-day-of-school.pdf)

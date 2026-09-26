@@ -10,7 +10,7 @@ On Saturday, the wind was just right.
 
 "Let's fly it!" said his big brother, Arjun.
 
-They ran to the top of the hill.
+They ran to the top of the hill at the edge of Willowmere Wood.
 
 "Hold the string tight," said Arjun.
 
@@ -46,16 +46,10 @@ Jai hugged his kite. "Best dance ever," he whispered.
 
 That night, Jai dreamed of flying. He soared over hills with butterfly wings.
 
-Sleep now, little flyer.
-
 Dream of dancing kites in a breezy blue sky.
 
+Sleep now, little Jai.
+
 The end. 🌙
-
----
-
-*Moral: Hold on tight, and you can weather any gust.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-kite-that-danced.pdf)

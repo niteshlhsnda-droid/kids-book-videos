@@ -4,7 +4,7 @@
 
 ---
 
-Leo was a little lion cub with a big, bouncy ball. One afternoon, he kicked it too hard. BONK! The ball hit Mama's clay pot. CRASH! The pot broke into pieces.
+Leo was a little lion cub with a big, bouncy ball, and he lived at the edge of Willowmere Wood. One afternoon, he kicked it too hard. BONK! The ball hit Mama's clay pot. CRASH! The pot broke into pieces.
 
 Leo's heart thumped fast, and his ears felt hot with fear. "What if Mama is angry?" he thought. He wanted to say the wind did it. He wanted to hide the pieces. But then he remembered something. Papa Lion always said, "Truth is brave, even when it shakes."
 
@@ -18,14 +18,10 @@ Surprise and relief washed over Leo, and the shaky feeling melted away. "Can we 
 
 "Yes," said Mama. They glued the pieces together, and the pot had golden cracks now. "It looks special," said Leo. "It tells our story," said Mama.
 
-That evening, Leo played with his ball more carefully, kicking it softly, away from the pots. At bedtime, Papa Lion nuzzled him. "You were brave today," Papa said. Leo smiled. He had felt scared earlier — now he felt honest and light. The savanna wind sang softly as he closed his eyes. He was truthful. He was loved. Goodnight, Leo.
+That evening, Leo played with his ball more carefully, kicking it softly, away from the pots. At bedtime, Papa Lion nuzzled him. "You were brave today," Papa said. Leo smiled. He had felt scared earlier — now he felt honest and light. The Willowmere breeze sang softly as he closed his eyes. He was truthful. He was loved.
+
+Sleep now, little Leo.
 
 The end. 🌙
-
----
-
-*Moral: Telling the truth takes courage — and it leaves our hearts feeling light.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/leo-tells-the-truth.pdf)

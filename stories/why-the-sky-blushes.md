@@ -10,7 +10,7 @@ Long ago, the sky was always blue — blue in the morning, blue at noon, blue at
 
 Cara loved this story, but she had another question. "Why does it blush only at bedtime?" she asked. "Because the sun is saying goodnight," said Mama. "It paints the sky so we know it is time to rest."
 
-That evening Cara watched the sky. The sun dipped lower, and the clouds turned pink at the edges, then peachy, then soft purple. Cara felt calm all over. The whole world seemed to slow down — the birds flew home, the flowers closed up, and the shadows grew long and soft.
+That evening Cara watched the sky from Firefly Meadow. The sun dipped lower, and the clouds turned pink at the edges, then peachy, then soft purple. Cara felt calm all over. The whole world seemed to slow down — the birds flew home, the flowers closed up, and the shadows grew long and soft.
 
 "Goodnight, sun," whispered Cara. "Goodnight, goodnight, goodnight," she whispered — three times again. She felt sleepy.
 
@@ -18,16 +18,10 @@ The pink faded to lavender, and the lavender faded to deep blue. One by one, the
 
 Mama tucked Cara into bed. "Did the sky blush tonight?" asked Cara, yawning. "The prettiest blush yet," said Mama.
 
-Cara closed her eyes and dreamed of a sky painted pink and gold.
+Cara closed her eyes and dreamed of a sky painted pink and gold, blushing just for her.
 
-Sleep now, little watcher. Dream of sunsets that blush just for you.
+Sleep now, little Cara.
 
 The end. 🌙
-
----
-
-*Moral: Bedtime is beautiful — for skies and children alike.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/why-the-sky-blushes.pdf)

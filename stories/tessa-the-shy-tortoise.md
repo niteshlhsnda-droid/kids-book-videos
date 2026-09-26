@@ -6,7 +6,7 @@
 
 Tessa was a little tortoise who was very shy. New places made her tuck right into her shell.
 
-One day there was a party at the pond, and all the pond animals were invited. Tessa felt shy — her feet felt slow and her voice felt tiny.
+One day there was a party at Bluebell Pond in Willowmere Wood, and all the pond animals were invited. Tessa felt shy — her feet felt slow and her voice felt tiny.
 
 "What if no one talks to me?" she worried.
 
@@ -48,18 +48,12 @@ Mama Tortoise smiled from far away. She whispered, "You did it, my brave girl."
 
 That night, Tessa snuggled into her soft moss bed, thinking about Remy and the bubbles. The shyness of the afternoon had melted into something proud and warm.
 
-The pond sang its night song — croak, croak, hush. Tessa closed her eyes.
+Bluebell Pond sang its night song — croak, croak, hush. Tessa closed her eyes.
 
 She was cozy. She was loved.
 
-Goodnight, Tessa.
+Sleep now, little Tessa.
 
 The end. 🌙
-
----
-
-*Moral: Shy is okay — one small hello can grow into a friend.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/tessa-the-shy-tortoise.pdf)

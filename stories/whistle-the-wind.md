@@ -8,7 +8,7 @@ The wind had a problem. He could whoosh and he could howl, but he could not whis
 
 He tried to whistle through the trees. Whoosh. He tried to whistle through the grass. Whoosh. He tried to whistle through the laundry on the line. Flap, flap, flap. No whistle.
 
-"Why can't I whistle?" he asked the old oak tree. "Maybe you whistle differently," the oak rumbled. Little Wind's curiosity stirred. He blew softly through a hollow reed — toot. He blew through the chimes on the porch — ting, ting, ting. He blew across the top of an empty bottle — hoo. His spirits lifted. Those were sounds! Were they whistles?
+"Why can't I whistle?" he asked the old oak tree of Willowmere Wood. "Maybe you whistle differently," the oak rumbled. Little Wind's curiosity stirred. He blew softly through a hollow reed — toot. He blew through the chimes on the porch — ting, ting, ting. He blew across the top of an empty bottle — hoo. His spirits lifted. Those were sounds! Were they whistles?
 
 A little girl named Gia heard them and clapped her hands. "The wind is making music!" she cried. "Music, music, music," she sang — three times she sang it. Little Wind swelled with pride. He wasn't whistling like the other winds. He was making his own music!
 
@@ -18,16 +18,10 @@ Gia danced to the wind's music, twirling and twirling. Then evening came, and Li
 
 Gia yawned and waved at the sky. "Goodnight, wind," she whispered. "Goodnight, goodnight, goodnight" — three times she whispered it.
 
-Little Wind curled up behind the hills.
+Little Wind curled up behind the hills, dreaming of reeds and chimes and bottles.
 
-Sleep now, little wind. Dream of reeds and chimes and bottles.
+Sleep now, little Wind.
 
 The end. 🌙
-
----
-
-*Moral: You don't have to sound like everyone else to make your own beautiful music.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/whistle-the-wind.pdf)

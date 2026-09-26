@@ -4,7 +4,7 @@
 
 ---
 
-After the long winter, the garden lay brown and quiet, and little Ami's heart knotted with worry. "Will the flowers ever come back?" she asked her grandpa.
+After the long winter, the Dream Garden of Willowmere Wood lay brown and quiet, and little Ami's heart knotted with worry. "Will the flowers ever come back?" she asked her grandpa.
 
 "Watch and wait," Grandpa said with a wink.
 
@@ -26,18 +26,12 @@ Grandpa smiled. "You are the prettiest flower of all." Sunshine seemed to fill A
 
 As the sun went down, the flowers closed their petals. "Time to sleep," said Grandpa. "Even flowers need rest."
 
-Ami yawned and lay in the grass, watching the petals fold. Fold, fold, fold went the flowers.
+Ami yawned and lay in the grass, watching the petals fold, dreaming of a parade of flowers marching in the sun. Fold, fold, fold went the flowers.
 
 Goodnight, daffodils. Goodnight, tulips. Goodnight, little white daisies.
 
-Sleep now, little gardener. Dream of a parade of flowers marching in the sun.
+Sleep now, little Ami.
 
 The end. 🌙
-
----
-
-*Moral: For those who watch and wait, beautiful things always bloom.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-spring-flower-parade.pdf)

@@ -4,7 +4,7 @@
 
 ---
 
-Pogo was a little puffin chick who lived on a rocky cliff by the sea. All the grown-up puffins could dive. Swoosh! Into the water.
+Pogo was a little puffin chick who lived on a rocky cliff above Bubble Bay. All the grown-up puffins could dive. Swoosh! Into the water.
 
 Pogo had never dived before. He felt nervous. His wings felt wobbly. His tummy felt fluttery.
 
@@ -52,14 +52,8 @@ Papa tucked him in. "You are my brave little diver," he whispered.
 
 Pogo closed his eyes. He was proud. He was loved.
 
-Goodnight, Pogo.
+Sleep now, little Pogo.
 
 The end. 🌙
-
----
-
-*Moral: Being proud of trying matters more than being perfect.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/pogo-the-proud-puffin.pdf)

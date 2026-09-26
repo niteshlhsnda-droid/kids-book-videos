@@ -4,7 +4,7 @@
 
 ---
 
-Kabir was a small boy, five years old. His grandma lived far, far away, across the big sea. He used to see her every day — now he saw her on a little screen.
+Kabir was a small boy, five years old, and he lived at the edge of Willowmere Wood. His grandma lived far, far away, across the big sea. He used to see her every day — now he saw her on a little screen.
 
 One evening, sadness washed over Kabir. He missed Grandma's hugs. He missed her stories. He missed her warm lap. "I miss Grandma," he said, tears filling his eyes.
 
@@ -18,14 +18,10 @@ Kabir thought about that. Farther than any road. "What can I do?" he asked.
 
 Then they called her. Grandma's face appeared on the screen, smiling so big. "Kabir!" she said. "I miss you too, my darling." Kabir showed her the card, and Grandma clapped. "It is beautiful," she said. "I will keep it by my bed." They talked and laughed, and Kabir felt the sad feeling shrink while the love feeling grew. Love really could travel far.
 
-That night, Kabir put the card by the door, to post in the morning. He had felt sad earlier — now he felt close to Grandma, even across the sea. Mama kissed his forehead. "Grandma loves you very much," she said. The night was soft. Kabir closed his eyes. He was loved. Near and far. Goodnight, Kabir.
+That night, Kabir put the card by the door, to post in the morning. He had felt sad earlier — now he felt close to Grandma, even across the sea. Mama kissed his forehead. "Grandma loves you very much," she said. The night was soft. Kabir closed his eyes. He was loved. Near and far.
+
+Sleep now, little Kabir.
 
 The end. 🌙
-
----
-
-*Moral: When we miss someone, that is love looking for a way out — so we send the love to them.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/kabir-misses-grandma.pdf)

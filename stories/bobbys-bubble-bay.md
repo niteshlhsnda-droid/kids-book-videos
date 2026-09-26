@@ -4,7 +4,7 @@
 
 ---
 
-Bobby the beaver did not want a bath. "Baths are boring," he said, crossing his arms with a stubborn pout.
+Bobby the beaver lived in a cozy lodge at the edge of Willowmere Wood, and he did not want a bath. "Baths are boring," he said, crossing his arms with a stubborn pout.
 
 His father smiled. "Then let us not take a bath," he said. "Let us sail to Bubble Bay instead."
 
@@ -32,14 +32,8 @@ Father wrapped Bobby in a fluffy towel, warm from the dryer. Bobby felt like a c
 
 He put on his pajamas — extra soft on clean skin — and climbed into bed, his body warm and tingly.
 
-Sleep now, little beaver. Bubble Bay has washed your day away. Dream of sailing warm and foamy seas.
+Sleep now, little Bobby.
 
 The end. 🌙
-
----
-
-*Moral: A warm bath can wash a grumpy mood away, along with the day's dust.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/bobbys-bubble-bay.pdf)

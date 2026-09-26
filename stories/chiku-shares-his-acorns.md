@@ -4,11 +4,11 @@
 
 ---
 
-Chiku was a little chipmunk with a pile of shiny acorns. Ten acorns. He counted them every day — one, two, three, four, five, six, seven, eight, nine, ten. They were all his.
+Chiku was a little chipmunk who lived in Willowmere Wood, with a pile of shiny acorns. Ten acorns. He counted them every day — one, two, three, four, five, six, seven, eight, nine, ten. They were all his.
 
-One chilly morning, his friend Gigi the squirrel came by, looking hungry.
+One chilly morning, his friend Suri the squirrel came by, looking hungry.
 
-"I lost my acorns," Gigi said softly. "My store is empty."
+"I lost my acorns," Suri said softly. "My store is empty."
 
 Chiku felt unsure, his tummy tight. He loved his acorns. He did not want to share.
 
@@ -22,30 +22,24 @@ Chiku nodded.
 
 "Shared joy grows, kept joy just sits," she said one more time.
 
-Chiku looked at his ten acorns. He looked at hungry Gigi. He picked up one acorn. Then another. Then one more.
+Chiku looked at his ten acorns. He looked at hungry Suri. He picked up one acorn. Then another. Then one more.
 
 "Here," he said. "Three for you."
 
-Gigi's eyes went wide. "Thank you, Chiku!" she said.
+Suri's eyes went wide. "Thank you, Chiku!" she said.
 
 They cracked the acorns together. Crunch, crunch, crunch. They tasted extra yummy.
 
 Chiku felt something warm in his chest — a happy, glowy feeling. Sharing felt good. Better than counting alone.
 
-That afternoon, they played together. They raced around the oak tree, laughing and laughing. Chiku still had seven acorns, but he had something better: a happy friend.
+That afternoon, they played together. They raced around the Old Apple Tree, laughing and laughing. Chiku still had seven acorns, but he had something better: a happy friend.
 
-That night, Chiku snuggled into his warm nest and thought about Gigi's smile. He felt the glowy feeling again. He was kind. He was loved.
+That night, Chiku snuggled into his warm nest and thought about Suri's smile. He felt the glowy feeling again. He was kind. He was loved.
 
 The moon peeked through the leaves. Chiku closed his eyes.
 
-Goodnight, Chiku.
+Sleep now, little Chiku.
 
 The end. 🌙
-
----
-
-*Moral: Sharing turns one person's joy into two people's joy.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/chiku-shares-his-acorns.pdf)

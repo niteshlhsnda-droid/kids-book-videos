@@ -18,14 +18,10 @@ Beni looked at her. His ears lifted a little. "Thank you for saying sorry," he s
 
 "Yes!" said Kiki. They built it together this time — Kiki carried the sand slowly while Beni shaped the towers. They made four towers now, even taller than before, and put the shell flag on top. It was the best castle ever.
 
-That evening, Kiki told Mama Cat everything. "I said sorry," she said proudly. Mama Cat hugged her close. "Saying sorry takes courage," she said. Kiki purred softly. She had felt sorry earlier — now she felt light and happy. The moon rose over the garden. Kiki curled into her warm basket and closed her eyes. She was forgiven. She was loved. Goodnight, Kiki.
+That evening, Kiki told Mama Cat everything. "I said sorry," she said proudly. Mama Cat hugged her close. "Saying sorry takes courage," she said. Kiki purred softly. She had felt sorry earlier — now she felt light and happy. The moon rose over the Dream Garden. Kiki curled into her warm basket at the edge of Willowmere Wood and closed her eyes. She was forgiven. She was loved.
+
+Sleep now, little Kiki.
 
 The end. 🌙
-
----
-
-*Moral: A sorry said with a true heart can mend more than the mistake.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/kiki-says-sorry.pdf)

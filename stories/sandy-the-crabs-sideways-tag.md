@@ -4,7 +4,7 @@
 
 ---
 
-Sandy was a small orange crab who lived on a sunny beach. She loved playing tag — her friends played every afternoon. Wally the whelk and Perla the prawn. They ran across the sand. "Tag! You are it!"
+Sandy was a small orange crab who lived at Bubble Bay, on the shore of Willowmere Wood. She loved playing tag — her friends played every afternoon. Wally the whelk and Perla the prawn. They ran across the sand. "Tag! You are it!"
 
 But Sandy had a problem. Crabs cannot run straight — they can only walk sideways. Scuttle scuttle scuttle.
 
@@ -50,14 +50,8 @@ Sandy smiled sleepily. "Sideways is a super way," she yawned.
 
 The waves rocked her gently. Shhh, shhh, shhh.
 
-And Sandy slept, safe in her pool.
+Sleep now, little Sandy.
 
 The end. 🌙
-
----
-
-*Moral: What makes you different can make the game better for everyone.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/sandy-the-crabs-sideways-tag.pdf)

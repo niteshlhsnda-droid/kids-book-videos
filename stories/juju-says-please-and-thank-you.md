@@ -16,14 +16,10 @@ Juju wanted to try. She walked back to Zebra. "Please, may I have some water?" s
 
 She tried them everywhere. "Please, may I join the game?" she asked the monkeys. "Yes!" they said. "Thank you for the yummy leaves," she told Grandpa Giraffe. "You are so polite," he said proudly. Everyone smiled at Juju now. Being polite felt wonderful — it made others happy, and it made Juju happy too.
 
-That night, Juju snuggled under the acacia tree with the stars twinkling above, thinking about her day. She had felt confused earlier — now she felt proud. Mama kissed her long neck. "Your manners are beautiful," she whispered. The savanna breeze rocked the leaves. Sway, sway, hush. Juju closed her eyes. She was polite. She was loved. Goodnight, Juju.
+That night, Juju snuggled under the acacia tree at the edge of Willowmere Wood, with the stars twinkling above, thinking about her day. She had felt confused earlier — now she felt proud. Mama kissed her long neck. "Your manners are beautiful," she whispered. The savanna breeze rocked the leaves. Sway, sway, hush. Juju closed her eyes. She was polite. She was loved.
+
+Sleep now, little Juju.
 
 The end. 🌙
-
----
-
-*Moral: Please and thank you may be small words, but they hold big magic.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/juju-says-please-and-thank-you.pdf)

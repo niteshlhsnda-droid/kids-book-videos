@@ -4,9 +4,9 @@
 
 ---
 
-Marnie was a small velvet mole who lived in tunnels under the meadow. She had tiny eyes and could barely see at all, so she felt the world with her nose — sniff sniff — and with her whiskers — tickle tickle.
+Marnie was a small velvet mole who lived in tunnels under the meadow in Willowmere Wood. She had tiny eyes and could barely see at all, so she felt the world with her nose — sniff sniff — and with her whiskers — tickle tickle.
 
-One evening, Marnie popped out of her tunnel. Her friend Junie the junco bird was singing on a branch.
+One evening, Marnie popped out of her tunnel at the edge of Firefly Meadow. Her friend Junie the junco bird was singing on a branch.
 
 "Oh, the stars are beautiful tonight!" chirped Junie.
 
@@ -54,14 +54,8 @@ When the moon was high, Marnie felt sleepy. She curled in the soft grass while J
 
 "Goodnight," yawned Marnie. She heard the crickets one last time. Chirp... chirp... chirp. The stars sang her to sleep. Twinkle, shhh, twinkle.
 
-And Marnie slept under the singing sky.
+Sleep now, little Marnie.
 
 The end. 🌙
-
----
-
-*Moral: There is more than one way to enjoy something beautiful — and every way counts.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/marnie-the-mole-hears-the-stars.pdf)

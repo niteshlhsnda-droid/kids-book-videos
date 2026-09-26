@@ -4,7 +4,7 @@
 
 ---
 
-Bramble was a small brown bear cub who lived in a den under the pine trees. Bramble loved honey — on berries, on toast, by the spoonful. Yum yum yum!
+Bramble was a small brown bear cub who lived in a den under the Whispering Pines in Willowmere Wood. Bramble loved honey — on berries, on toast, by the spoonful. Yum yum yum!
 
 One sunny morning, Bramble smelled something sweet and followed his nose. Sniff sniff sniff. High in an old oak tree hung a honeycomb, golden and dripping.
 
@@ -40,7 +40,7 @@ Can you reach up high like Bramble?
 Stretch your arms up, up, up!
 Now pretend to taste honey: mmm!
 
-That afternoon, Bramble and Poppy played by the stream. They splashed and laughed and told stories. Bramble shared his berries with Poppy, and Poppy shared her pinecones with Bramble. Sharing made everything sweeter. The sun warmed their fur, and the bees buzzed a lazy song.
+That afternoon, Bramble and Poppy played by Bluebell Pond. They splashed and laughed and told stories. Bramble shared his berries with Poppy, and Poppy shared her pinecones with Bramble. Sharing made everything sweeter. The sun warmed their fur, and the bees buzzed a lazy song.
 
 At dusk, Bramble curled into his den with a full tummy and a full heart. Poppy nestled in the moss nearby.
 
@@ -50,12 +50,8 @@ At dusk, Bramble curled into his den with a full tummy and a full heart. Poppy n
 
 Bramble closed his eyes and dreamed of golden honey and kind friends. Drip, drop, yum. And he slept soundly all night.
 
+Sleep now, little Bramble.
+
 The end. 🌙
-
----
-
-*Moral: Teamwork and sharing make sweet things even sweeter.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/bramble-the-bear-cub-and-the-high-honey.pdf)

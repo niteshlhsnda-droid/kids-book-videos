@@ -4,7 +4,7 @@
 
 ---
 
-Tide was the littlest wave in the whole wide ocean. All the big waves rolled in tall and foamy — Crash! — while Tide could only go lap, lap, lap. She felt terribly small.
+Tide was the littlest wave in Bubble Bay, the whole wide ocean of Willowmere Wood. All the big waves rolled in tall and foamy — Crash! — while Tide could only go lap, lap, lap. She felt terribly small.
 
 "When will I be big?" she asked her mama, the sea. "Soon enough, little one," Mama Sea murmured. "For now, just be you."
 
@@ -20,16 +20,10 @@ Tide glowed with pride. She felt big inside, even though she was small outside. 
 
 As the sun went down, the ocean grew calm, and Mama Sea sang a slow, slow song. Hush, little waves, hush. Tide's rolling grew slower, and slower, and slower.
 
-The stars came out and twinkled on the water — twinkle, twinkle, twinkle. Tide yawned a salty yawn and curled into Mama Sea's arms.
+The stars came out and twinkled on the water — twinkle, twinkle, twinkle. Tide yawned a salty yawn and curled into Mama Sea's arms, dreaming of gentle lapping on soft, warm sand.
 
-Sleep now, little wave. Dream of gentle lapping on soft, warm sand.
+Sleep now, little Tide.
 
 The end. 🌙
-
----
-
-*Moral: Being small never stops a kind heart from doing something wonderful.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/tide-and-the-little-wave.pdf)

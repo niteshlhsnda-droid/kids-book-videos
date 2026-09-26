@@ -4,7 +4,7 @@
 
 ---
 
-On a sunny Saturday, Ayaan had a picnic in the park. He spread his blanket and opened his lunchbox — sandwiches, apples, and cookies. Yum! He felt happy.
+On a sunny Saturday, Ayaan had a picnic in Firefly Meadow. He spread his blanket and opened his lunchbox — sandwiches, apples, and cookies. Yum! He felt happy.
 
 Then he saw them — a line of tiny ants marching across the blanket. March, march, march.
 
@@ -32,18 +32,10 @@ Ayaan felt proud. He had helped.
 
 As the sun grew low, Ayaan packed up. "Goodbye, ants," he said. "Goodbye, goodbye, goodbye." That was three times he said it, and a peaceful feeling settled over him.
 
-That night, Ayaan dreamed of marching ants.
+That night, back home at the edge of Willowmere Wood, Ayaan dreamed of marching ants.
 
-Sleep now, little picnicker.
-
-Dream of tiny parades on green grass.
+Sleep now, little Ayaan.
 
 The end. 🌙
-
----
-
-*Moral: Kindness comes in all sizes — even crumb-sized.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-ant-picnic.pdf)

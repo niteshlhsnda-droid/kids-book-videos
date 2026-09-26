@@ -8,9 +8,9 @@ At dusk, when the sky turned purple, the fireflies woke up. Their leader was a f
 
 "Time to dance!" she called.
 
-The fireflies stretched their tiny wings, excited. One by one, they lit their lanterns. Blink. Blink, blink. The meadow sparkled.
+The fireflies stretched their tiny wings, excited. One by one, they lit their lanterns. Blink. Blink, blink. Firefly Meadow sparkled.
 
-Little Tia watched from her porch, amazed. "They are dancing!" she whispered.
+Little Tia watched from her porch at the edge of Willowmere Wood, amazed. "They are dancing!" she whispered.
 
 Glow twirled in the air and drew a loop of light — a loop-de-loop. Then another firefly joined. Then another. Soon fifty fireflies were dancing.
 
@@ -42,16 +42,10 @@ Slowly, the dance grew slower. And slower. And slower. One by one, the lanterns 
 
 That was three times she whispered it. She felt sleepy.
 
-Glow gave one last blink. Then the meadow was dark and quiet.
+Glow gave one last blink. Then Firefly Meadow was dark and quiet.
 
-Sleep now, little watcher. Dream of dancing lights in a purple dusk.
+Sleep now, little Tia.
 
 The end. 🌙
-
----
-
-*Moral: Joy is brightest when it is shared.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/dancing-with-fireflies.pdf)

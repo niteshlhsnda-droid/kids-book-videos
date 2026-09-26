@@ -4,7 +4,7 @@
 
 ---
 
-Buzzy was a small honeybee who lived in a hive in the old apple tree. Every morning, the bees flew out together. Bzzzz! Bzzzz! Bzzzz! Their buzzing filled the air.
+Buzzy was a small honeybee who lived in a hive in the Old Apple Tree in Willowmere Wood. Every morning, the bees flew out together. Bzzzz! Bzzzz! Bzzzz! Their buzzing filled the air.
 
 But one morning, Buzzy woke up quiet. She flapped her wings. No buzz. She flapped harder. Still no buzz.
 
@@ -53,14 +53,10 @@ That evening, the hive glowed golden. Buzzy curled into her honeycomb cell while
 
 "Goodnight," buzzed Buzzy, soft and sleepy. Her buzz grew quieter. Bzz... bzz... bzz.
 
-The apple tree swayed gently. The stars came out to listen. And Buzzy slept, buzzing softly in her dreams.
+The Old Apple Tree swayed gently. The stars came out to listen. And Buzzy slept, buzzing softly in her dreams.
+
+Sleep now, little Buzzy.
 
 The end. 🌙
-
----
-
-*Moral: Sometimes what feels lost is only resting inside you.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/buzzy-the-bee-finds-her-buzz.pdf)

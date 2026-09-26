@@ -6,7 +6,7 @@
 
 Miko the meerkat could not sleep. His burrow was too quiet, and he missed the sounds of the zoo — and his animal friends.
 
-He tiptoed out of his burrow into the zoo, silver with moonlight. "I will say goodnight to everyone," he decided. "Then I will feel sleepy."
+He tiptoed out of his burrow into the little zoo at the edge of Willowmere Wood, silver with moonlight. "I will say goodnight to everyone," he decided. "Then I will feel sleepy."
 
 First he visited Gina the giraffe, who was already lying down — which looked very funny — with her long neck curled like a slide. "Goodnight, Gina," Miko whispered.
 
@@ -36,16 +36,10 @@ His mother tucked the blanket around him. "Did you say goodnight to everyone?" s
 
 "Goodnight, sleep tight," his mother whispered one last time.
 
-The zoo was silent now. Gina dreamed of tall trees. Lenny dreamed of soft clouds. Penny dreamed of snowflakes. And Miko dreamed he was the goodnight keeper of the whole zoo.
+The zoo was silent now. Gina dreamed of tall trees. Lenny dreamed of soft clouds. Penny dreamed of snowflakes. And Miko dreamed he was the goodnight keeper of the whole zoo — he had said goodnight to every friend, and now it was his turn to dream.
 
-Sleep now, little meerkat. You said goodnight to every friend. Now it is your turn to dream.
+Sleep now, little Miko.
 
 The end. 🌙
-
----
-
-*Moral: Saying goodnight with love makes bedtime feel warm and complete.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-goodnight-zoo.pdf)

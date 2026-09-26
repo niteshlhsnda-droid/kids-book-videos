@@ -4,7 +4,7 @@
 
 ---
 
-Fergus was a tiny green frog who lived on a lily pad in Bluebell Pond. Every evening, the frogs sang a pond song — big frogs croaked deep, medium frogs croaked round. "Brum brum! Brum brum!" But when Fergus tried, only a squeak came out.
+Fergus was a tiny green frog who lived on a lily pad in Bluebell Pond, in Willowmere Wood. Every evening, the frogs sang a pond song — big frogs croaked deep, medium frogs croaked round. "Brum brum! Brum brum!" But when Fergus tried, only a squeak came out.
 
 "Meep," said Fergus. He tried again. "Meep."
 
@@ -28,12 +28,8 @@ That evening, the pond choir gathered. The big frogs began — "Brum brum! Brum 
 
 When the moon rose, the song grew soft. Fergus rested on his lily pad while Lottie snuggled under a petal. "You were the best twinkle," she whispered. Fergus smiled. "Meep," he yawned softly. The pond water rocked gently, the stars hummed a quiet tune, and Fergus fell into a sweet, musical sleep.
 
+Sleep now, little Fergus.
+
 The end. 🌙
-
----
-
-*Moral: Every voice, big or small, helps make the song complete.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/fergus-the-frog-finds-his-croak.pdf)

@@ -4,7 +4,7 @@
 
 ---
 
-Polo the puppy was in his cozy basket, and his blanket smelled like sunshine. But just as he closed his eyes, he heard a sound. Creak. Creak went the stairs. Polo felt nervous. What was that noise?
+Polo the puppy was in his cozy basket in their home at the edge of Willowmere Wood, and his blanket smelled like sunshine. But just as he closed his eyes, he heard a sound. Creak. Creak went the stairs. Polo felt nervous. What was that noise?
 
 Then he heard another sound. Hoo-hoo went something outside. Polo's ears stood straight up. He felt scared. The night was full of strange sounds.
 
@@ -14,7 +14,7 @@ His mother came and sat beside him. She nuzzled his ear. "Those sounds are frien
 
 Polo listened. The cricket song did sound like a lullaby, and he felt a little calmer.
 
-"Now the owl." Hoo-hoo called the owl from the old oak tree. "The owl is the night guard," said Mother. "She watches over everyone while they dream."
+"Now the owl." Hoo-hoo called the owl from the Old Apple Tree. "The owl is the night guard," said Mother. "She watches over everyone while they dream."
 
 Polo felt safer. A guard owl was a good thing to have.
 
@@ -36,14 +36,8 @@ Polo's breathing grew slow. His paws stopped twitching. The night sounds wrapped
 
 Polo drifted off to sleep. The crickets kept singing. The owl kept watching. The house kept stretching. And Polo dreamed of a world made of soft music.
 
-Sleep now, little puppy. The night sounds are singing just for you. They will watch over you until morning.
+Sleep now, little Polo.
 
 The end. 🌙
-
----
-
-*Moral: Night sounds are not scary once you know their gentle jobs.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/night-sounds-lullaby.pdf)

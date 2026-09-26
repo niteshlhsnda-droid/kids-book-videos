@@ -4,7 +4,7 @@
 
 ---
 
-Buttons the bear cub woke up at midnight with moonlight streaming through his window. He felt hungry — his tummy rumbled like a tiny drum.
+Buttons the bear cub woke up at midnight in his cozy den at the edge of Willowmere Wood, with moonlight streaming through his window. He felt hungry — his tummy rumbled like a tiny drum.
 
 Then he heard a small voice. "I am hungry too," it squeaked. It was Teddy, his stuffed bear — and Teddy's tummy rumbled just like Buttons's!
 
@@ -32,14 +32,8 @@ His voice was very quiet now, and his eyes felt heavy. The moon watched over the
 
 Buttons's breathing grew slow and deep, and Teddy's head rested on his paw. They had shared a secret picnic — now they could share secret dreams.
 
-Sleep now, little bear. Sleep now, little teddy. Full tummies and happy hearts make the sweetest dreams.
+Sleep now, little Buttons.
 
 The end. 🌙
-
----
-
-*Moral: A small, gentle snack and a good friend can chase midnight hunger away.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/teddys-midnight-picnic.pdf)

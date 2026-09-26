@@ -24,7 +24,7 @@ Grandpa Shell nodded. "Then learn this," he said. "Listening is a gift too."
 
 "Listening is a gift too." Koko repeated it softly. "Listening is a gift too." It became her quiet lesson. "Listening is a gift too."
 
-Koko flew after Taro and found him by the stream. This time, she closed her beak and opened her ears instead. "Tell me about your blanket," she said softly. And she listened.
+Koko flew after Taro and found him at Bluebell Pond. This time, she closed her beak and opened her ears instead. "Tell me about your blanket," she said softly. And she listened.
 
 Taro talked about the red leaf. He talked about the gold leaf. He talked about how cozy it was. Koko did not repeat a single word. She just listened. Taro felt heard, and he felt better, and a small smile came back. "Thank you for listening," said Taro. Warmth spread through Koko — listening was a gift too.
 
@@ -32,14 +32,10 @@ Can you listen like Koko? Close your mouth. Open your ears. Listen for three qui
 
 Then Koko had an idea. "Let us make you a new blanket," she said. They gathered red leaves and gold leaves and wove them together. Pat pat pat. Taro wrapped up cozy. "Perfect!" he said. Koko smiled — she had listened, and then she had helped.
 
-That night, the jungle grew quiet. Koko perched on her branch while Taro slept below, wrapped in his new blanket. "Goodnight, good listener," whispered Taro. "Goodnight," said Koko softly. She did not repeat it. She just meant it. The leaves rustled gently, the moon peeked through the trees, and Koko slept, peaceful and quiet.
+That night, Willowmere Wood grew quiet. Koko perched on her branch while Taro slept below, wrapped in his new blanket. "Goodnight, good listener," whispered Taro. "Goodnight," said Koko softly. She did not repeat it. She just meant it. The leaves rustled gently, the moon peeked through the trees, and Koko slept, peaceful and quiet.
+
+Sleep now, little Koko.
 
 The end. 🌙
-
----
-
-*Moral: Listening closely is one of the very kindest gifts you can give.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/koko-the-parrot-learns-to-listen.pdf)

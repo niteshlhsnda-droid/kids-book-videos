@@ -4,7 +4,7 @@
 
 ---
 
-Zara was a small girl, six years old, who loved playing in the garden. One morning she spotted a ladybird — tiny and red with black dots — crawling along a green leaf. Zara felt a rush of excitement and reached out fast to pick it up. The ladybird tumbled off the leaf.
+Zara was a small girl, six years old, who loved playing in the Dream Garden of Willowmere Wood. One morning she spotted a ladybird — tiny and red with black dots — crawling along a green leaf. Zara felt a rush of excitement and reached out fast to pick it up. The ladybird tumbled off the leaf.
 
 Her heart beat fast with worry. "Did I hurt it?" she whispered.
 
@@ -22,14 +22,8 @@ At bedtime, Zara snuggled under her blanket and thought about the ladybird, flyi
 
 Zara closed her eyes. She was gentle. She was loved.
 
-Goodnight, Zara.
+Sleep now, little Zara.
 
 The end. 🌙
-
----
-
-*Moral: Gentle hands and a gentle heart keep small creatures safe.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/zara-and-the-tiny-ladybird.pdf)

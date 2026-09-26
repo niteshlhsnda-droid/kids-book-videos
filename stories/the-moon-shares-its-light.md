@@ -22,22 +22,16 @@ Tilda glowed softly, and now she could see the path. She gave a happy, relieved 
 
 So the moon broke off another beam and gave it to Bodhi the bunny. Bodhi's ears glowed pink, and he hopped home safely. "Share a little light, and it shines twice as bright," sang the firefly again.
 
-The moon felt wonderful — sharing was fun! It gave a beam to the sleepy owl, and another to the tiny mice. Soon the whole meadow glowed gently. "Share a little light, and it shines twice as bright," sang the firefly one last time.
+The moon felt wonderful — sharing was fun! It gave a beam to the sleepy owl, and another to the tiny mice. Soon the whole of Firefly Meadow glowed gently. "Share a little light, and it shines twice as bright," sang the firefly one last time.
 
-The moon looked down. The meadow was beautiful, every animal with its own little glow. And the moon? It shone brighter than ever. The firefly was right — sharing had made its light grow.
+The moon looked down. Firefly Meadow was beautiful, every animal with its own little glow. And the moon? It shone brighter than ever. The firefly was right — sharing had made its light grow.
 
 The animals looked up. "Thank you, Moon!" they called. The moon felt warm inside. It had never felt this happy alone.
 
-One by one, the animals fell asleep in the gentle glow. The moon watched over them proudly. It was no longer just bright. It was kind.
+One by one, the animals fell asleep in the gentle glow. High above Firefly Meadow, the moon watched over them proudly. It was no longer just bright. It was kind.
 
-Sleep now, little moon. You shared your light beautifully. Rest knowing the meadow dreams in your gentle glow.
+Sleep now, little Moon.
 
 The end. 🌙
-
----
-
-*Moral: When you share what you have, little one, it shines even brighter.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-moon-shares-its-light.pdf)

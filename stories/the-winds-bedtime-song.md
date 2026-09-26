@@ -8,7 +8,7 @@ The wind was too loud tonight. WHOOSH went the wind — rattling the windows, sh
 
 "Wind, please be quiet!" she chirped. But the wind did not listen. WHOOSH, it blew even harder, until her twig nest trembled and shook.
 
-Then a soft voice rumbled through the branches. It was Old Oak, the biggest tree of all. "The wind is not angry, little wren," he rumbled. "The wind is restless. It does not know how to fall asleep."
+Then a soft voice rumbled through the branches. It was Old Oak, the biggest tree of Willowmere Wood. "The wind is not angry, little wren," he rumbled. "The wind is restless. It does not know how to fall asleep."
 
 Wren tilted her head, curious. "The wind cannot sleep?" she asked.
 
@@ -32,16 +32,10 @@ The wind became a whisper. Shhh. It brushed the leaves tenderly, and Old Oak's b
 
 Wren glowed with pride. She, a tiny bird, had helped the great big wind! She snuggled deep into her nest as the wind hummed her song back to her. Shhh, hush-a-bye.
 
-Her eyes grew heavy. The whispering wind was the perfect lullaby, rocking her gently like a feather in a breeze.
+Her eyes grew heavy. The whispering wind was the perfect lullaby, rocking her gently like a feather in a breeze, and they sang each other into the softest dreams.
 
-Sleep now, little wren. Sleep now, sleepy wind. You sang each other into the softest dreams.
+Sleep now, little Wren.
 
 The end. 🌙
-
----
-
-*Moral: With a gentle song, even the wildest, loudest feelings can be calmed to sleep.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-winds-bedtime-song.pdf)

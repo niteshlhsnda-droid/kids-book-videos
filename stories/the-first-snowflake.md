@@ -28,7 +28,7 @@ Avi looked closely. One looked like a star, one looked like a flower, and one lo
 
 "From clouds high above," said Mama. "The clouds are tucking the earth into a soft white blanket."
 
-Avi liked that. He imagined the whole town under a blanket — the trees under a blanket, the sleepy birds under a blanket, even the grumpy old fence under a blanket.
+Avi liked that. He imagined Willowmere Wood under a blanket — the trees under a blanket, the sleepy birds under a blanket, even the grumpy old fence under a blanket.
 
 He yawned.
 
@@ -44,16 +44,10 @@ Then his eyes closed.
 
 The moon rose over the rooftops and shone on every sleepy snowflake. Outside, the snowflakes kept dancing down, covering the world in quiet white.
 
-Sleep now, little watcher.
-
 Dream of twirling snowflakes, soft and slow.
 
+Sleep now, little Avi.
+
 The end. 🌙
-
----
-
-*Moral: Quiet wonders are the sweetest kind to watch.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-first-snowflake.pdf)

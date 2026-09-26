@@ -4,7 +4,7 @@
 
 ---
 
-Billy had a small garden behind his house. One morning he found tiny holes in his lettuce leaves.
+Billy had a small garden behind his house at the edge of Willowmere Wood — his own little corner of the Dream Garden. One morning he found tiny holes in his lettuce leaves.
 
 "Oh no!" he said. "Something is eating my garden!" His heart sank.
 
@@ -42,14 +42,8 @@ Billy watched the ladybug fly to a leaf. He watched the bee visit every flower. 
 
 That was three times again. He felt peaceful, and the garden hummed softly in the evening air.
 
-Sleep now, little gardener. Dream of ladybugs with polka-dot wings.
+Sleep now, little Billy.
 
 The end. 🌙
-
----
-
-*Moral: Sharing a little can make room for everyone.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/billys-bug-garden.pdf)

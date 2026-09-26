@@ -4,7 +4,7 @@
 
 ---
 
-Koda was a fluffy gray koala who lived in a tall eucalyptus tree. Every night, he sniffed a special leaf — soft and silvery, smelling like sweet dreams. Sniff sniff. Then he would fall asleep. It was his bedtime habit.
+Koda was a fluffy gray koala who lived in a tall eucalyptus tree at the edge of Willowmere Wood. Every night, he sniffed a special leaf — soft and silvery, smelling like sweet dreams. Sniff sniff. Then he would fall asleep. It was his bedtime habit.
 
 One evening, Koda reached for his leaf. It was gone! The wind had carried it away. He searched the branches. No leaf. He searched the fork of the tree. No leaf. His nose twitched with worry. "I cannot sleep without my sleepy leaf," he said, tossing and turning, restless.
 
@@ -26,12 +26,8 @@ Koda breathed in. Breathe in, breathe out, sleep is near. The tree swayed gently
 
 The moon peeked through the leaves as Koda's breathing grew slow and deep. Breathe in... breathe out. His new leaf smelled like sweet dreams. Wattle smiled up at him. "Sleep tight," she whispered. The stars twinkled above the treetops, the world was quiet and calm, and Koda slept the whole night through.
 
+Sleep now, little Koda.
+
 The end. 🌙
-
----
-
-*Moral: A calm breath and a kind friend can bring the very sleepiest sleep.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/koda-the-koala-and-the-sleepy-leaf.pdf)

@@ -1,34 +1,34 @@
-# Luna the Lamb and the Rumbly Clouds
+# Lolo the Lamb and the Rumbly Clouds
 
 *An original bedtime story for ages 4–7. Reading time: about 4 minutes.*
 
 ---
 
-Luna was a fluffy white lamb who lived in a green meadow. She loved sunny days — munching clover, and skipping with her friends. Skip skip skip!
+Lolo was a fluffy white lamb who lived in a green meadow in Willowmere Wood. She loved sunny days — munching clover, and skipping with her friends. Skip skip skip!
 
-But Luna did not love stormy days. When the clouds turned gray, her heart beat fast, and when the thunder rumbled, she trembled.
+But Lolo did not love stormy days. When the clouds turned gray, her heart beat fast, and when the thunder rumbled, she trembled.
 
 RUMBLE!
 
-"Oh no," whispered Luna. She ran under the big oak tree, feeling scared and very, very small.
+"Oh no," whispered Lolo. She ran under the Old Apple Tree, feeling scared and very, very small.
 
 "I do not like the rumbly clouds," she said.
 
 Her friend Gus the goat trotted over. He was not scared at all — he was munching grass, calm as could be.
 
-"Why are you hiding, Luna?" asked Gus.
+"Why are you hiding, Lolo?" asked Gus.
 
-"The clouds are grumbling," said Luna. "They sound angry."
+"The clouds are grumbling," said Lolo. "They sound angry."
 
 Gus shook his head and smiled. "They are not angry," he said. "They are only talking to each other."
 
 "Clouds are only talking to each other."
 
-Luna repeated it softly. "Clouds are only talking to each other."
+Lolo repeated it softly. "Clouds are only talking to each other."
 
 It became her calming words. "Clouds are only talking to each other."
 
-Gus sat beside Luna. "Listen with me," he said.
+Gus sat beside Lolo. "Listen with me," he said.
 
 RUMBLE!
 
@@ -38,40 +38,34 @@ RUMBLE RUMBLE!
 
 "That one said, how are you?"
 
-Luna giggled. "Really?" she asked.
+Lolo giggled. "Really?" she asked.
 
 "Really," said Gus.
 
 "Clouds are only talking to each other."
 
-Luna listened again. Rumble. This time it sounded friendly, like a giant's soft tummy grumble. She felt calmer — and braver too. The clouds were just chatting.
+Lolo listened again. Rumble. This time it sounded friendly, like a giant's soft tummy grumble. She felt calmer — and braver too. The clouds were just chatting.
 
 Can you rumble like a friendly cloud? Take a breath and say: rumble rumble. Now softer: rumble. See? Just clouds talking!
 
-Luna and Gus watched the clouds together, finding shapes in the gray puffs.
+Lolo and Gus watched the clouds together, finding shapes in the gray puffs.
 
-"That one looks like a sheep!" said Luna.
+"That one looks like a sheep!" said Lolo.
 
 "That one looks like a boat!" said Gus.
 
-The rain began to patter. Pitter patter pitter patter. It sounded like a lullaby. Luna did not hide anymore — she stood beside her friend.
+The rain began to patter. Pitter patter pitter patter. It sounded like a lullaby. Lolo did not hide anymore — she stood beside her friend.
 
-When the storm passed, the sky turned pink, and a rainbow arched over the meadow. Luna skipped through the wet grass. Splash splash splash! Gus skipped beside her.
+When the storm passed, the sky turned pink, and a rainbow arched over the meadow. Lolo skipped through the wet grass. Splash splash splash! Gus skipped beside her.
 
-That night, Luna curled in the warm barn while Gus slept in the straw nearby.
+That night, Lolo curled in the warm barn while Gus slept in the straw nearby.
 
 "Goodnight, cloud listener," whispered Gus.
 
-"Goodnight," yawned Luna. She heard a soft rumble far away. Just clouds saying goodnight.
+"Goodnight," yawned Lolo. She heard a soft rumble far away. Just clouds saying goodnight.
 
-And Luna slept safe and sound.
+Sleep now, little Lolo.
 
 The end. 🌙
-
----
-
-*Moral: Once you understand a scary sound, it can turn into something comforting.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/luna-the-lamb-and-the-rumbly-clouds.pdf)

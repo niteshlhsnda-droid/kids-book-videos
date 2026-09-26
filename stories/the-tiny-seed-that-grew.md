@@ -4,7 +4,7 @@
 
 ---
 
-Deep in the dark soil slept a tiny seed. Her name was Sprout, and she was no bigger than a freckle.
+Deep in the dark soil of Firefly Meadow in Willowmere Wood slept a tiny seed. Her name was Sprout, and she was no bigger than a freckle.
 
 One day, warm rain seeped down. Drip, drip, drip. Sprout woke up, curiosity fluttering in her like a moth. "What is happening?" she asked.
 
@@ -28,16 +28,10 @@ A bee came to visit. Bzzz, went the bee, sipping sweet nectar. "Thank you," said
 
 Joy bubbled up in Sprout. She was not just a seed anymore — she was a flower. She swayed in the breeze and glowed in the sun.
 
-As evening came, she folded her petals. Just a little. Time to rest.
+As evening came, she folded her petals. Just a little. Time to rest, and to dream of sunshine and rain and growing tall.
 
-Sleep now, little sprout. Dream of sunshine and rain and growing tall.
+Sleep now, little Sprout.
 
 The end. 🌙
-
----
-
-*Moral: The biggest things begin very, very small.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-tiny-seed-that-grew.pdf)

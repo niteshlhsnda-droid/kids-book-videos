@@ -6,7 +6,7 @@
 
 Cora the cricket could not fall asleep. She tossed in her grass bed, turning this way and that, feeling restless and fidgety.
 
-She hopped to her doorway. The meadow glowed with tiny lights — dozens of fireflies floating in the dark, blinking on and off, on and off. It looked like a dance.
+She hopped to her doorway. Firefly Meadow in Willowmere Wood glowed with tiny lights — dozens of fireflies floating in the dark, blinking on and off, on and off. It looked like a dance.
 
 Curious, Cora sat very still and watched. The fireflies moved in patterns — first a circle (blink, blink, blink), then a wavy line (blink, blink, blink).
 
@@ -34,16 +34,12 @@ Cora yawned — dancing had tired her out in the best way. She curled up in her 
 
 Blink... blink... blink. Cora's own eyes blinked the same way. Open... closed... open... closed. She felt drowsy and peaceful.
 
-The firefly dance became her lullaby. She dreamed she was dancing on beams of moonlight, twirling with a thousand tiny stars.
+The firefly dance became her lullaby. She dreamed she was dancing on beams of moonlight, twirling with a thousand tiny stars — she had danced beautifully tonight.
 
-Sleep now, little cricket. You danced beautifully tonight. Rest your tired feet and dream of golden light.
+Dream of golden light, and rest your tired feet.
+
+Sleep now, little Cora.
 
 The end. 🌙
-
----
-
-*Moral: Everyone can join the dance in their own special way.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-firefly-dance.pdf)

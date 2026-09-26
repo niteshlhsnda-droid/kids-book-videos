@@ -22,7 +22,7 @@ Benny nodded.
 
 Benny packed his favorite things — his soft blanket, his wooden pinecone, and a picture of his old burrow.
 
-They walked to the new burrow. It smelled different. It looked different. Benny felt shy as he peeked inside.
+They walked to the new burrow at the edge of Willowmere Wood. It smelled different. It looked different. Benny felt shy as he peeked inside.
 
 But it was cozy. There was a warm sleeping nook and a little window to the sky. Mama put his blanket in the nook.
 
@@ -30,7 +30,7 @@ But it was cozy. There was a warm sleeping nook and a little window to the sky. 
 
 Benny placed his pinecone by the bed and hung the picture on the wall. Slowly, it began to feel a little like home.
 
-That afternoon, Benny explored. He found a tunnel to the meadow, and he found a neighbor mole.
+That afternoon, Benny explored. He found a tunnel to Firefly Meadow, and he found a neighbor mole.
 
 "Hello!" said the mole. "I am new too."
 
@@ -42,14 +42,8 @@ He had felt scared earlier. Now he felt safe. Home was here — because love was
 
 The earth hummed softly around them. Benny closed his eyes. He was brave. He was loved.
 
-Goodnight, Benny.
+Sleep now, little Benny.
 
 The end. 🌙
-
----
-
-*Moral: A new place becomes home when love moves with us.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/benny-moves-to-a-new-burrow.pdf)

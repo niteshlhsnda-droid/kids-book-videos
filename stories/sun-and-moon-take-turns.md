@@ -12,7 +12,7 @@ Long, long ago, the Sun and the Moon had a terrible argument.
 
 They were both very grumpy indeed, and the whole world didn't know what to do. The flowers drooped in confusion. "Is it day or night?" they whispered. And the birds fluttered about, asking, "Should we sing, or should we sleep?"
 
-Little Hana looked up at the sky, her brow wrinkled with worry. "Why are the Sun and Moon fighting?" she asked her grandma.
+Little Hana looked up at the sky over Willowmere Wood, her brow wrinkled with worry. "Why are the Sun and Moon fighting?" she asked her grandma.
 
 "They both want to be the favorite," Grandma explained. Hana grew thoughtful… and then an idea sparkled in her mind.
 
@@ -32,16 +32,8 @@ Hana watched them that very evening. The Sun sank low, painting the sky pink, an
 
 "Goodnight, Sun," Hana whispered. "Good morning, Moon." A peaceful feeling settled over her as she climbed into bed. The Moon peeked through her window, glowing softly like a nightlight.
 
-Sleep now, little peacemaker.
-
-Dream of suns and moons taking gentle turns.
+Sleep now, little Hana.
 
 The end. 🌙
-
----
-
-*Moral: When we take turns, everyone gets a chance to shine.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/sun-and-moon-take-turns.pdf)

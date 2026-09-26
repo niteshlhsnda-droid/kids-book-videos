@@ -1,67 +1,61 @@
-# Nellie Counts to Ten
+# Hugo Counts to Ten
 
 *An original bedtime story for ages 4–7. Reading time: about 4 minutes.*
 
 ---
 
-Nellie the hedgehog was learning to count. She could count to three — one, two, three — but ten felt very far away.
+Hugo the hedgehog was learning to count. He could count to three — one, two, three — but ten felt very far away.
 
-"I want to count to ten," she told her grandma.
+"I want to count to ten," he told his grandma.
 
 "You will," said Grandma. "Let's find ten acorns."
 
-Nellie felt excited. They walked into the autumn woods.
+Hugo felt excited. They walked into the Whispering Pines.
 
 "Look for acorns," said Grandma.
 
-Nellie found the first acorn under an oak tree. "One," she said.
+Hugo found the first acorn under the Old Apple Tree. "One," he said.
 
-She found the second near a mossy stone. "Two," she said.
+He found the second near a mossy stone. "Two," he said.
 
-She found the third by a twisted root. "Three," she said.
+He found the third by a twisted root. "Three," he said.
 
-She felt proud.
+He felt proud.
 
-Then she found a fourth, a fifth, and a sixth. "Four, five, six," she counted. Her basket was getting heavy, and she felt strong.
+Then he found a fourth, a fifth, and a sixth. "Four, five, six," he counted. His basket was getting heavy, and he felt strong.
 
-Then she spotted a seventh under a leaf. "Seven," she said.
+Then he spotted a seventh under a leaf. "Seven," he said.
 
-An eighth sat by the stream. "Eight," she said.
+An eighth sat by the stream. "Eight," he said.
 
-A ninth hid behind a mushroom. "Nine," she said.
+A ninth hid behind a mushroom. "Nine," he said.
 
-She felt so close. But where was number ten?
+He felt so close. But where was number ten?
 
-Nellie looked everywhere — under leaves, behind stones, inside a hollow log. No tenth acorn.
+Hugo looked everywhere — under leaves, behind stones, inside a hollow log. No tenth acorn.
 
-She felt worried. "What if there are only nine?" she asked.
+He felt worried. "What if there are only nine?" he asked.
 
 Grandma smiled. "Count your basket again," she said. "Slowly."
 
-Nellie counted. One, two, three, four, five, six, seven, eight, nine. Still nine.
+Hugo counted. One, two, three, four, five, six, seven, eight, nine. Still nine.
 
-Then Grandma pointed up. A tenth acorn was stuck in Nellie's own spiky back! It had hitched a ride.
+Then Grandma pointed up. A tenth acorn was stuck in Hugo's own spiky back! It had hitched a ride.
 
-"Ten!" laughed Nellie. "Ten, ten, ten!"
+"Ten!" laughed Hugo. "Ten, ten, ten!"
 
-That was three times she said it.
+That was three times he said it.
 
-She felt joyful. She had counted all the way to ten.
+He felt joyful. He had counted all the way to ten.
 
-Grandma clapped. "You did it, Nellie."
+Grandma clapped. "You did it, Hugo."
 
-That night, Nellie lined up her ten acorns by her bed. One, two, three, four, five. Six, seven, eight, nine, ten.
+That night, Hugo lined up his ten acorns by his bed. One, two, three, four, five. Six, seven, eight, nine, ten.
 
-She yawned a tiny hedgehog yawn. Her eyes grew heavy.
+He yawned a tiny hedgehog yawn. His eyes grew heavy.
 
-Sleep now, little counter. Dream of acorns lined up in a row.
+Sleep now, little Hugo.
 
 The end. 🌙
-
----
-
-*Moral: Take it one step at a time, and you will get there.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/nellie-counts-to-ten.pdf)

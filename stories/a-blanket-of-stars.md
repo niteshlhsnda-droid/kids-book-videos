@@ -8,7 +8,7 @@ Lolo the lamb had left her blanket at Grandma's house — her favorite one, soft
 
 Her mother tucked her in with a spare blanket. It was warm enough, but it was not the same. Lolo tossed and turned, missing her blanket.
 
-She looked out the window. The night sky was full of stars, twinkling and shimmering, soft as tiny lights on velvet.
+She looked out the window at Willowmere Wood. The night sky above it was full of stars, twinkling and shimmering, soft as tiny lights on velvet.
 
 "I wish I had a blanket made of stars," whispered Lolo, feeling wistful.
 
@@ -32,14 +32,8 @@ In the morning, the star blanket was gone, and sunlight streamed through the win
 
 And guess what? Grandma brought her yellow blanket back that very day. But Lolo would never forget her blanket of stars.
 
-Sleep now, little lamb. The stars are watching over you. They will keep you warm until morning.
+Sleep now, little Lolo.
 
 The end. 🌙
-
----
-
-*Moral: When you wish with an open heart, comfort can be found in the most unexpected places.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/a-blanket-of-stars.pdf)

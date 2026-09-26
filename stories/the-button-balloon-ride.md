@@ -4,7 +4,7 @@
 
 ---
 
-Kavi found a big red button in his grandpa's sewing box.
+Kavi found a big red button in his grandpa's sewing box, in their little cottage at the edge of Willowmere Wood.
 
 "What's this for?" he asked.
 
@@ -46,16 +46,10 @@ Kavi held the button tight. "Best ride ever," he said, feeling sleepy.
 
 That night, Kavi put the button under his pillow. He dreamed of floating over rivers of silver.
 
-Sleep now, little flyer.
-
 Dream of red and yellow balloons in a pink sky.
 
+Sleep now, little Kavi.
+
 The end. 🌙
-
----
-
-*Moral: The best adventures are the ones you share.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-button-balloon-ride.pdf)

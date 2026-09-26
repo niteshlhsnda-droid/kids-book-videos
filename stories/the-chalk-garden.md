@@ -4,7 +4,7 @@
 
 ---
 
-Lily loved drawing with chalk on the sidewalk. One sunny morning, she drew a garden — flowers, a butterfly, and a little bird. She felt happy.
+Lily loved drawing with chalk on the sidewalk outside her cottage at the edge of Willowmere Wood. One sunny morning, she drew a garden — flowers, a butterfly, and a little bird. She felt happy.
 
 Then something strange happened: the chalk butterfly fluttered its wings. Flap, flap. Lily felt amazed.
 
@@ -34,16 +34,10 @@ As the sun went down, the chalk animals grew still. The butterfly folded its win
 
 The chalk glowed softly in the moonlight.
 
-Sleep now, little artist.
-
 Dream of gardens that wake when you draw them.
 
+Sleep now, little Lily.
+
 The end. 🌙
-
----
-
-*Moral: A little kindness makes every creation happier.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-chalk-garden.pdf)

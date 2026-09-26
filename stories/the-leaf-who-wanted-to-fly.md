@@ -4,7 +4,7 @@
 
 ---
 
-In autumn, a little leaf named Lola lived on a tall maple tree.
+In autumn, a little leaf named Lola lived on a tall maple tree in Willowmere Wood.
 
 She was bright orange with a pointy tip.
 
@@ -42,16 +42,10 @@ Lola felt cozy. She was done flying for one day. The wind hummed a lullaby throu
 
 Lola closed her eyes in the scrapbook.
 
-Sleep now, little leaf.
-
 Dream of twirling through the autumn sky.
 
+Sleep now, little Lola.
+
 The end. 🌙
-
----
-
-*Moral: Sometimes wishes come true in their own gentle way.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-leaf-who-wanted-to-fly.pdf)

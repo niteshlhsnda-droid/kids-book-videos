@@ -4,7 +4,7 @@
 
 ---
 
-Fia the fawn heard whispering outside her window. Shh-shh-shh went the trees. It sounded like secrets, and fear prickled down her spine. What were the trees saying?
+Fia the fawn heard whispering outside her window. Shh-shh-shh went the Whispering Pines of Willowmere Wood. It sounded like secrets, and fear prickled down her spine. What were the trees saying?
 
 She hid under her blanket. The whispering continued. Shh-shh-shh. It would not stop. Fia's heart thumped like a little drum.
 
@@ -22,7 +22,7 @@ Fia listened closer. The whispering had a pattern; it rose and fell like a voice
 
 "Trees whisper, leaves listen, bedtime stories softly glisten," Father sang again.
 
-"The trees are telling bedtime stories," Fia said, wonder lighting up her face. "To their leaves! The leaves are their babies."
+"The Whispering Pines are telling bedtime stories," Fia said, wonder lighting up her face. "To their leaves! The leaves are their babies."
 
 "Exactly," said Father. "Every night, the trees tell stories. About the sun. About the rain. About growing tall and strong."
 
@@ -30,18 +30,12 @@ Fear had melted away, and a deep peace settled over Fia. She imagined the trees 
 
 "Trees whisper, leaves listen, bedtime stories softly glisten," Father sang one last time.
 
-Fia snuggled into her bed. The whispering trees sang her to sleep. Shh-shh-shh. It was the gentlest sound in the world.
+Fia snuggled into her bed. The Whispering Pines sang her to sleep. Shh-shh-shh. It was the gentlest sound in the world.
 
-Her eyes grew heavy. She dreamed she was a little leaf, and a kind tree told her stories and rocked her in the breeze.
+Her eyes grew heavy. She dreamed she was a little leaf, and a kind pine told her stories and rocked her in the breeze.
 
-Sleep now, little fawn. The trees are telling their stories. Listen, and let their whispers carry you to sleep.
+Sleep now, little Fia.
 
 The end. 🌙
-
----
-
-*Moral: Once you learn a strange sound comes from love, it turns sweet.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-whispering-trees.pdf)

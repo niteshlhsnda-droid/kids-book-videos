@@ -4,7 +4,7 @@
 
 ---
 
-Ollie was a little otter who loved building towers with smooth pebbles. One sunny morning, he built his tallest tower ever.
+Ollie was a little otter who lived by the sparkling river in Willowmere Wood. He loved building towers with smooth pebbles. One sunny morning, he built his tallest tower ever.
 
 One pebble. Two pebbles. Three pebbles. Four pebbles. Five!
 
@@ -52,14 +52,8 @@ That evening, the river was calm. Ollie floated on his back, holding Mama's paw.
 
 Ollie closed his eyes. He was calm. He was loved.
 
-Goodnight, Ollie.
+Sleep now, little Ollie.
 
 The end. 🌙
-
----
-
-*Moral: When anger comes, slow breaths help it drift away.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/ollie-the-otter-feels-angry.pdf)

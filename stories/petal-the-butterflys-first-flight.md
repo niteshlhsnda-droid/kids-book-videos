@@ -4,7 +4,7 @@
 
 ---
 
-Petal was a young butterfly who had just come out of her chrysalis. Her wings were orange and black — soft and new, shimmering in the sun.
+Petal was a young butterfly who had just come out of her chrysalis in Willowmere Wood. Her wings were orange and black — soft and new, shimmering in the sun.
 
 Petal sat on a milkweed leaf and watched the other butterflies. They looped through the air. They danced over the flowers. Whee! Flip! Glide!
 
@@ -44,7 +44,7 @@ The wind held her gently. The sun warmed her wings. Petal felt amazed. She felt 
 
 Can you flap like Petal? Open your arms wide like wings. Flap flap flap! Now float, nice and slow.
 
-Petal flew to the flower garden. She sipped nectar from a pink blossom. Sweet! She danced with the other butterflies. Loop, glide, twirl.
+Petal flew to the Dream Garden. She sipped nectar from a pink blossom. Sweet! She danced with the other butterflies. Loop, glide, twirl.
 
 Cricket chirped below. "Chirp chirp! Beautiful!"
 
@@ -62,12 +62,8 @@ The leaf rocked gently. The night flowers opened.
 
 And Petal slept, dreaming of sky dances.
 
+Sleep now, little Petal.
+
 The end. 🌙
-
----
-
-*Moral: Brave little tries can grow into beautiful flights.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/petal-the-butterflys-first-flight.pdf)

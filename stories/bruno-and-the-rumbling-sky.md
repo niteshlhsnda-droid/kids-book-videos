@@ -4,7 +4,7 @@
 
 ---
 
-Bruno was a small bear cub who lived in a cozy den with his mama. One evening, the sky turned gray. Then came a big sound. RUMBLE!
+Bruno was a small bear cub who lived in a cozy den with his mama at the edge of Willowmere Wood. One evening, the sky turned gray. Then came a big sound. RUMBLE!
 
 Bruno felt scared. His tummy went tight, and his ears went flat. "Mama!" he squeaked.
 
@@ -44,14 +44,8 @@ Bruno closed his eyes. He was safe and warm. He was brave and loved.
 
 Mama stayed close all night. She hummed until the rain stopped.
 
-Goodnight, Bruno.
+Sleep now, little Bruno.
 
 The end. 🌙
-
----
-
-*Moral: Being brave means feeling scared — and staying cozy anyway.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/bruno-and-the-rumbling-sky.pdf)

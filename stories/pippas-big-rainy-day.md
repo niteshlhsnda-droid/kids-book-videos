@@ -6,7 +6,7 @@
 
 Pippa was a little green parrot with a very loud laugh. Ha-ha-ha! Hee-hee-hee!
 
-Every morning, Pippa swooped out of his nest and played all day. He raced the butterflies. He splashed in the puddles. He nibbled sweet, sweet mangoes.
+Every morning, Pippa swooped out of his nest in the Old Apple Tree and played all day. He raced the butterflies. He splashed in the puddles. He nibbled sweet, sweet mangoes.
 
 But one morning, Pippa woke up to a strange sound.
 
@@ -38,7 +38,7 @@ Then, Pippa remembered the mango muffins his mama had baked — warm, yummy, swe
 
 They munched and crunched. Yum, yum, yum!
 
-When the rain finally stopped, the sun peeked out — peep! — and the whole forest sparkled.
+When the rain finally stopped, the sun peeked out — peep! — and all of Willowmere Wood sparkled.
 
 "That was the best rainy day ever," said Tia.
 
@@ -46,12 +46,8 @@ Pippa grinned his biggest grin. "Rainy days are not so bad… when you share the
 
 And from that day on, whenever the rain came — pitter, patter, PLOP — Pippa smiled, because he knew just what to do.
 
-The end. 🌧️
+Sleep now, little Pippa.
 
----
-
-*Moral: Sharing and friendship can turn a gloomy day into a happy one.*
-
----
+The end. 🌙
 
 📥 [Download this story as an illustrated PDF](../book/stories/pippas-big-rainy-day.pdf)

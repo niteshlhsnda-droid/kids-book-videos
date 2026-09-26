@@ -6,7 +6,7 @@
 
 Tara was a little tiger cub who loved playing with her friends.
 
-One afternoon, the others started a game without calling her name — and ran off without her.
+One afternoon in Willowmere Wood, the others started a game without calling her name — and ran off without her.
 
 Tara felt left out. Her heart shrank small, and her eyes began to sting. "They do not want me," she thought, sinking down behind the big rock. She wanted to cry.
 
@@ -36,18 +36,12 @@ That night, Tara told Mama everything. "I told them how I felt," she said proudl
 
 Mama smiled. "You were brave with your feelings," she said.
 
-Tara snuggled into her warm den. The left-out feeling of the afternoon had melted into something warm and loved. The jungle sang its night song — hush, hush, little one. Tara closed her eyes.
+Tara snuggled into her warm den. The left-out feeling of the afternoon had melted into something warm and loved. The Whispering Pines sang their night song — hush, hush, little one. Tara closed her eyes.
 
 She belonged. She was loved.
 
-Goodnight, Tara.
+Sleep now, little Tara.
 
 The end. 🌙
-
----
-
-*Moral: When you feel left out, telling someone kindly can open the circle right back up.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/tara-feels-left-out.pdf)

@@ -4,7 +4,7 @@
 
 ---
 
-Pip was a small fluffy penguin who lived where the snow sparkled. Every day, his friends slid down Snowberry Hill. Whee! They zoomed on their tummies. Swoosh! They spun in circles.
+Pip was a small fluffy penguin who lived where the snow sparkled. Every day, his friends slid down Snowberry Hill at the edge of Willowmere Wood. Whee! They zoomed on their tummies. Swoosh! They spun in circles.
 
 Pip watched from the top. He wanted to slide too — but the hill looked very tall, and very steep, and very slippery.
 
@@ -54,12 +54,8 @@ Pip closed his eyes. He dreamed of gliding down soft snowy hills. Whoosh, whoosh
 
 And he slept warm and cozy.
 
+Sleep now, little Pip.
+
 The end. 🌙
-
----
-
-*Moral: Holding a friend's flipper makes scary things feel safe.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/pip-the-penguin-and-the-slippery-hill.pdf)

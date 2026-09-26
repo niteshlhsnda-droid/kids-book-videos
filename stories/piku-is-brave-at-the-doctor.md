@@ -50,20 +50,14 @@ Piku felt brave. Her flippers stopped trembling. Her tummy felt calm.
 
 On the way home, it started to snow — soft, fluffy snowflakes. Piku caught one on her beak. She laughed.
 
-That night, Piku snuggled in her nest. Her cough was already better. She had felt scared earlier. Now she felt brave and cozy.
+That night, Piku snuggled in her nest at the edge of Willowmere Wood. Her cough was already better. She had felt scared earlier. Now she felt brave and cozy.
 
 Mama sang a soft lullaby. The snow fell quietly outside.
 
 Piku closed her eyes. She was brave. She was loved.
 
-Goodnight, Piku.
+Sleep now, little Piku.
 
 The end. 🌙
-
----
-
-*Moral: Doctors are helpers — and being brave means feeling scared and going anyway.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/piku-is-brave-at-the-doctor.pdf)

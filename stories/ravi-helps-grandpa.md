@@ -4,7 +4,7 @@
 
 ---
 
-Ravi was a small boy, five years old, who lived next door to his grandpa. Grandpa had a little garden where he grew tomatoes, beans, and one big mango tree.
+Ravi was a small boy, five years old, who lived next door to his grandpa at the edge of Willowmere Wood. Grandpa had a little garden where he grew tomatoes, beans, and one big mango tree.
 
 One hot afternoon, Grandpa carried a heavy basket full of ripe mangoes. His back felt achy. His steps felt slow.
 
@@ -40,14 +40,8 @@ At bedtime, Ravi snuggled under his blanket, thinking about Grandpa's smile. He 
 
 The night was soft and quiet. Ravi closed his eyes. He was kind. He was loved.
 
-Goodnight, Ravi.
+Sleep now, little Ravi.
 
 The end. 🌙
-
----
-
-*Moral: Helping someone we love makes our own heart happy too.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/ravi-helps-grandpa.pdf)

@@ -4,7 +4,7 @@
 
 ---
 
-Hazel was a chubby golden hamster who lived in a burrow under the sunflower patch. She loved sunflower seeds and stuffed them in her cheeks — left cheek full, right cheek full — until she looked like a fluffy balloon.
+Hazel was a chubby golden hamster who lived in a burrow under the sunflower patch in the Dream Garden, at the edge of Willowmere Wood. She loved sunflower seeds and stuffed them in her cheeks — left cheek full, right cheek full — until she looked like a fluffy balloon.
 
 One morning, Hazel found the biggest seed head ever, full of plump seeds. Crack, munch, stuff! She filled both cheeks to bursting and could barely close her mouth. "All mine," she squeaked proudly.
 
@@ -24,12 +24,8 @@ Nico shared his dewdrop drink with Hazel. Slurp! They sat under the sunflowers t
 
 That evening, the sunflowers nodded in the breeze. Hazel curled in her soft burrow while Nico slept in the moss nearby. "Thank you for sharing," whispered Nico. "You are welcome," yawned Hazel, patting her happy tummy. Pat pat pat. The burrow was warm and dark, the night was quiet and still, and Hazel slept with the sweetest dreams.
 
+Sleep now, little Hazel.
+
 The end. 🌙
-
----
-
-*Moral: A shared nibble always tastes twice as sweet.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/hazel-the-hamster-shares-a-nibble.pdf)

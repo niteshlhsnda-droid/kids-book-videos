@@ -22,16 +22,10 @@ Chug's whistle wobbled. Then Emi had an idea. She stacked more books, curving th
 
 That night, Emi tucked Chug into her toy box. "Best train ever," she whispered. Chug nestled in, cozy and warm. He was not lonely anymore — he had a friend, and tracks and tunnels and mountains all his own.
 
-Outside, a real train whistled far away. Toot, toot. Chug answered softly. Toot.
+Outside, a real train whistled far away. Toot, toot. Chug answered softly. Toot — and drifted off dreaming of tunnels and bridges and cushion mountains.
 
-Sleep now, little train. Dream of tunnels and bridges and cushion mountains.
+Sleep now, little Chug.
 
 The end. 🌙
-
----
-
-*Moral: With a good friend, every journey is an adventure.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-little-blue-train.pdf)

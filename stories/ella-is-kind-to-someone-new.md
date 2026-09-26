@@ -4,7 +4,7 @@
 
 ---
 
-Ella was a young elephant calf who lived by the big waterhole, where she had many friends. One morning, a new family arrived — and with them a small foal named Zip, standing alone at the edge. He looked shy. He did not know anyone.
+Ella was a young elephant calf who lived by the big waterhole in Willowmere Wood, where she had many friends. One morning, a new family arrived — and with them a small foal named Zip, standing alone at the edge. He looked shy. He did not know anyone.
 
 Ella felt curious and walked over slowly. "Hello! I am Ella," she said.
 
@@ -22,12 +22,8 @@ At sunset, Zip's mama came over. "Thank you, Ella," she said. "You made our firs
 
 That night, Ella lay beside her mama thinking about Zip's smile. She had been kind, and she felt happy. The stars reflected in the waterhole as she closed her eyes. She was kind. She was loved. Goodnight, Ella.
 
+Sleep now, little Ella.
+
 The end. 🌙
-
----
-
-*Moral: A little kindness can make a brand-new friend feel right at home.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/ella-is-kind-to-someone-new.pdf)

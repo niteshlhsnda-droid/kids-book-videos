@@ -1,6 +1,6 @@
 # Tilly the Tortoise and the Racing Hare
 
-In a green meadow, where the buttercups danced in the breeze, lived a little tortoise named Tilly. Tilly was small and round, and she carried her cozy shell on her back wherever she went.
+In Firefly Meadow in Willowmere Wood, where the buttercups danced in the breeze, lived a little tortoise named Tilly. Tilly was small and round, and she carried her cozy shell on her back wherever she went.
 
 Now, Tilly was not fast. Her four short legs went *plip… plop… plip… plop…* across the grass, slow and steady, slow and steady.
 
@@ -12,7 +12,7 @@ Tilly just smiled a soft tortoise smile. "I may be slow," she said kindly, "but 
 
 Hare laughed so hard he almost tumbled over. "A race? With you? Ha! Of course!" And so the friends agreed: the race would start at the buttercup patch and finish at the old oak tree.
 
-Early the next morning, the friends gathered to watch. Mouse squeaked, "On your marks…" Squirrel twitched his tail. "Get set…" And Robin sang out, "GO!"
+Early the next morning, the friends gathered to watch. Mimi the mouse squeaked, "On your marks…" Suri the squirrel twitched her tail. "Get set…" And Robin sang out, "GO!"
 
 *Zoom!* Hare shot off like a furry arrow. *Plip… plop… plip… plop…* went Tilly, one little step at a time.
 
@@ -34,4 +34,6 @@ That evening, as the sun painted the sky pink and gold, Hare sat beside Tilly un
 
 And from that day on, Hare never laughed at slow walkers again. Sometimes he even walked beside Tilly, *plip… plop… plip… plop…*, and discovered that a slow walk through the meadow is a lovely thing indeed.
 
-**The moral:** Slow and steady, step by step, finishes the race. 🌱
+Sleep now, little Tilly.
+
+The end. 🌙

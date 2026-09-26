@@ -4,9 +4,9 @@
 
 ---
 
-Bounce was a golden puppy, and he loved to bounce. He bounced in the morning, he bounced at noon, he bounced all afternoon. Boing! Boing! Boing!
+Bounce was a golden puppy who lived in a cozy cottage at the edge of Willowmere Wood, and he loved to bounce. He bounced in the morning, he bounced at noon, he bounced all afternoon. Boing! Boing! Boing!
 
-Bounce loved his friends — Nina the newt and Sammy the sparrow. But when Bounce got excited, he bounced too hard. He once bounced right over Nina's sandcastle. SPLAT! He once bounced Sammy's twig nest. Oh no!
+Bounce loved his friends — Nina the newt and Sammy the sparrow. But when Bounce got excited, he bounced too hard. He once bounced right over Nina's sandcastle on the shore of Bluebell Pond. SPLAT! He once bounced Sammy's twig nest. Oh no!
 
 Bounce felt terrible. "I am too bouncy," he said. "I hurt my friends' things." His ears drooped low with shame.
 
@@ -51,12 +51,8 @@ Bounce wagged his tail once, slowly. "Soft paws, kind paws," he yawned.
 
 The house grew quiet. The stars twinkled through the window. And Bounce slept without one single bounce.
 
+Sleep now, little Bounce.
+
 The end. 🌙
-
----
-
-*Moral: Gentle paws show friends how much you care.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/bounce-the-puppys-gentle-paws.pdf)

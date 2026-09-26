@@ -4,7 +4,7 @@
 
 ---
 
-Milo was a little mole who lived under the big oak tree. One spring morning, he planted a seed — a sunflower seed. He patted the soil, watered it, and then he waited.
+Milo was a little mole who lived under the Old Apple Tree in Willowmere Wood. One spring morning, he planted a seed — a sunflower seed. He patted the soil, watered it, and then he waited.
 
 One hour passed. Nothing happened.
 
@@ -46,14 +46,8 @@ Milo yawned. He felt calm. He felt patient.
 
 He closed his eyes. He was loved. He was cozy.
 
-Goodnight, Milo.
+Sleep now, little Milo.
 
 The end. 🌙
-
----
-
-*Moral: Patience means waiting kindly — good things grow slow, like love.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/milo-the-mole-learns-patience.pdf)

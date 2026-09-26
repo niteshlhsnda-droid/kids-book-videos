@@ -14,7 +14,7 @@ One afternoon, the rain stopped all at once, and little Rafi raced to the window
 
 They walked to the park, where the rainbow seemed to touch the big hill. "There!" Rafi cried. "The end of the rainbow!" Excitement quickened his steps.
 
-They climbed the hill — but the rainbow had moved. Now it touched the tall trees. "Come back!" Rafi laughed, giggles dancing through him.
+They climbed the hill — but the rainbow had moved. Now it touched the Whispering Pines. "Come back!" Rafi laughed, giggles dancing through him.
 
 They walked to the trees, but the rainbow moved again. Now it touched the clouds. "Why can't we reach it, Dad?" Rafi asked, his brow wrinkling in puzzlement.
 
@@ -28,16 +28,10 @@ Slowly, the rainbow began to fade. The colors grew paler. And paler. And paler.
 
 "Goodbye, rainbow," said Rafi. "Thank you for the promise." Peace filled his heart.
 
-That night, Rafi drew a rainbow in his notebook — six colors in a perfect arch — and set it beside his bed.
+That night, Rafi drew a rainbow in his notebook — six colors in a perfect arch — and set it beside his bed. He fell asleep dreaming of rainbows arched over green hills.
 
-Sleep now, little color-counter. Dream of rainbows arched over green hills.
+Sleep now, little Rafi.
 
 The end. 🌙
-
----
-
-*Moral: The most beautiful things are meant to be watched, not caught.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-rainbows-promise.pdf)

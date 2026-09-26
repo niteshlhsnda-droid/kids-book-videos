@@ -16,7 +16,7 @@ One little cloud named Puff was very slow, and she lagged behind the others.
 
 Nimbus had an idea. He tied an invisible string to Puff — not a real string, but a shepherd's string, made of care. "Now you can drift at your own pace," he said, "and you will never get lost."
 
-Relief washed over Puff. She drifted slowly behind the flock, watching the world below — green fields, a winding river, and tiny houses with tiny gardens.
+Relief washed over Puff. She drifted slowly behind the flock, watching the world below — green fields, a winding river, and tiny houses with tiny gardens, all tucked into Willowmere Wood.
 
 "So pretty, so pretty, so pretty," she whispered. That was three times she whispered it, and she felt happy.
 
@@ -30,16 +30,10 @@ As evening came, Nimbus led his flock home while the sun painted them pink and g
 
 One by one, the clouds settled into the night sky. Puff found a soft spot near the moon. She yawned a fluffy yawn.
 
-Sleep now, little cloud.
-
 Dream of drifting slow over quiet fields.
 
+Sleep now, little Puff.
+
 The end. 🌙
-
----
-
-*Moral: Going slowly is just fine when someone cares about you.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-cloud-shepherd.pdf)

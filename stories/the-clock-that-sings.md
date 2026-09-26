@@ -30,18 +30,12 @@ They went back to bed, and Father tucked her in. Through the wall, she could hea
 
 "Tick-tock, soft and low, time for little mice to go," sang Father one last time.
 
-Mimi closed her eyes. She imagined the clock singing to the whole house. To the sleepy spoons in the kitchen. To the drowsy books on the shelf. To every little mouse in every little bed.
+Mimi closed her eyes. She imagined the clock singing to the whole house. To the sleepy spoons in the kitchen. To the drowsy books on the shelf. To every little mouse in every little bed, all across Willowmere Wood.
 
-Her breathing grew slow and her tail curled softly. The clock kept its gentle beat, singing all night, watching over her dreams.
+Her breathing grew slow and her tail curled softly. The clock kept its gentle beat, singing all night, watching over her dreams. It sang her to sleep, and its song would keep time with her dreams until morning.
 
-Sleep now, little mouse. The clock is singing you to sleep. Its song will keep time with your dreams until morning.
+Sleep now, little Mimi.
 
 The end. 🌙
-
----
-
-*Moral: Loud things feel less scary once you understand their gentle purpose.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/the-clock-that-sings.pdf)

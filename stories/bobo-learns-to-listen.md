@@ -4,7 +4,7 @@
 
 ---
 
-Bobo was a baby bat with very big ears — but he did not use them well. He talked and talked, and hardly ever listened.
+Bobo was a baby bat with very big ears who lived in a cozy cave beneath the Whispering Pines in Willowmere Wood — but he did not use them well. He talked and talked, and hardly ever listened.
 
 One evening, Mama said, "Listen, Bobo," and told him about the night sounds. But Bobo was too busy chattering. He missed the owl's soft hoot. He missed the stream's gentle song.
 
@@ -40,14 +40,8 @@ Back in the cave, Bobo snuggled upside down and listened to Mama's lullaby, soft
 
 Bobo closed his eyes. He was a good listener. He was loved.
 
-Goodnight, Bobo.
+Sleep now, little Bobo.
 
 The end. 🌙
-
----
-
-*Moral: Listening carefully helps us hear the whole world — and shows we care.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/bobo-learns-to-listen.pdf)

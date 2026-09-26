@@ -36,4 +36,6 @@ And from that day on, Hoofy carried bundles of grain, fetched cool water, and he
 
 And that is why, to this very day, every camel carries a hump upon its back — to remind us that helping others makes every journey lighter.
 
-**Moral:** When everyone helps, no one's load is heavy.
+Sleep now, little Hoofy.
+
+The end. 🌙

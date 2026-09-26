@@ -4,7 +4,7 @@
 
 ---
 
-Suki was a tiny garden snail who lived under a cabbage leaf. She had a shiny spiral shell, and she carried it everywhere — slowly. Very, very slowly.
+Suki was a tiny garden snail who lived under a cabbage leaf in the Dream Garden of Willowmere Wood. She had a shiny spiral shell, and she carried it everywhere — slowly. Very, very slowly.
 
 One morning, Suki found a letter. It was an invitation to the Summer Picnic! "Dear friends, come to the meadow at noon!"
 
@@ -40,14 +40,10 @@ When the sun set, Suki rode home on Buster's fuzzy back and curled up under her 
 
 "Thank you for teaching me slow," buzzed Buster.
 
-Suki closed her eyes and dreamed of flying over rainbow flowers. Buzz, glide, sleep. The garden grew quiet, and Suki slept — slow and cozy.
+Suki closed her eyes and dreamed of flying over rainbow flowers. Buzz, glide, sleep. The Dream Garden grew quiet.
+
+Sleep now, little Suki.
 
 The end. 🌙
-
----
-
-*Moral: Going slowly is just fine — especially when friends help you along the way.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/suki-the-snail-delivers-the-invitation.pdf)

@@ -4,7 +4,7 @@
 
 ---
 
-Cleo was a fluffy gray kitten who lived in a cozy barn. She had a favorite toy — a red button on a string. She batted it every morning, chased it every afternoon, and slept with it every night. Cleo loved her button.
+Cleo was a fluffy gray kitten who lived in a cozy barn at the edge of Willowmere Wood. She had a favorite toy — a red button on a string. She batted it every morning, chased it every afternoon, and slept with it every night. Cleo loved her button.
 
 One windy morning, Cleo woke up, and her button was gone! She looked under her blanket. No button. She looked behind the hay bales. No button.
 
@@ -46,12 +46,8 @@ That night, the barn was warm and quiet. Cleo curled up in her blanket with her 
 
 Cleo purred a soft lullaby. Purr, purr, purr. The moon shone through the barn window, and Cleo fell fast asleep.
 
+Sleep now, little Cleo.
+
 The end. 🌙
-
----
-
-*Moral: Looking with love and patience helps you find what matters.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/cleo-the-kitten-and-the-lost-button.pdf)

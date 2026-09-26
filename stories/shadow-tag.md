@@ -4,7 +4,7 @@
 
 ---
 
-One sunny afternoon, Noor noticed her shadow — and once she noticed it, she couldn't stop watching it. Step, step, went Noor across the yard. Step, step, went her shadow, right behind her.
+One sunny afternoon in Willowmere Wood, Noor noticed her shadow — and once she noticed it, she couldn't stop watching it. Step, step, went Noor across the yard. Step, step, went her shadow, right behind her.
 
 Noor's eyes went wide with curiosity. "Hello, shadow," she said.
 
@@ -38,16 +38,8 @@ Noor liked the sound of that. "Goodnight, shadow," she whispered. "Goodnight, go
 
 That night, Noor dreamed of long, stretchy shadows.
 
-Sleep now, little runner.
-
-Dream of shadows that play tag in the sun.
+Sleep now, little Noor.
 
 The end. 🌙
-
----
-
-*Moral: Some friends stay with you even when you can't see them — like your shadow, waiting for the morning sun.*
-
----
 
 📥 [Download this story as an illustrated PDF](../book/stories/shadow-tag.pdf)
