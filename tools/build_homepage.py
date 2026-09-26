@@ -11,6 +11,9 @@ import argparse
 import html
 import json
 import os
+from urllib.parse import quote
+
+GH_ROOT = "https://niteshlhsnda-droid.github.io"
 
 NIGHT_SLUGS = [
     "2026-09-21-willa-the-bunny-and-the-moonflower", "a-blanket-of-stars",
@@ -46,6 +49,7 @@ STRINGS = {
     "en": {
         "html_lang": "en",
         "site_title": "The Big Bedtime Storybook",
+        "site_url": GH_ROOT + "/kids-book-videos",
         "tagline": "109 bedtime stories for ages 4–7 — 103 original tales plus 6 timeless classics.",
         "search_ph": "🔍 Search stories…",
         "stats": "📚 109 stories &nbsp;·&nbsp; 📕 free illustrated PDFs &nbsp;·&nbsp; 🌙 new stories daily",
@@ -70,6 +74,7 @@ STRINGS = {
     "hi": {
         "html_lang": "hi",
         "site_title": "मीठे सपनों की कहानियाँ",
+        "site_url": GH_ROOT + "/kids-book-videos-hindi",
         "tagline": "4–7 साल के बच्चों के लिए 109 हिंदी सुलाने वाली कहानियाँ — 103 मूल कहानियाँ और 6 कालजयी क्लासिक कहानियाँ।",
         "search_ph": "🔍 कहानी खोजें…",
         "stats": "📚 109 कहानियाँ &nbsp;·&nbsp; 📕 मुफ़्त सचित्र PDF &nbsp;·&nbsp; 🌙 रोज़ नई कहानियाँ",
@@ -109,6 +114,9 @@ def card_html(slug, title, s):
     em = card_emoji(slug)
     search = html.escape((title + " " + slug).lower())
     art = f"book/colorful-illustrations/{slug}/scene-01-cover.webp"
+    page_url = f"{s['site_url']}/stories/{slug}.html"
+    wa = "https://wa.me/?text=" + quote(f"{title} — {s['site_title']}\n{page_url}", safe="")
+    share_tip = "WhatsApp पर भेजें" if s["html_lang"] == "hi" else "Share on WhatsApp"
     return f"""<article class="story-card" data-search="{search}">
   <a class="card-art" href="stories/{slug}.html" aria-label="{t}">
     <span class="fallback" aria-hidden="true">{em}</span>
@@ -119,6 +127,7 @@ def card_html(slug, title, s):
     <div class="card-actions">
       <a class="btn btn-read" href="stories/{slug}.html">{s['read']}</a>
       <a class="btn btn-pdf" href="book/stories/{slug}.pdf">{s['pdf']}</a>
+      <a class="btn btn-share" href="{wa}" target="_blank" rel="noopener" title="{share_tip}" aria-label="{share_tip}">📲</a>
     </div>
   </div>
 </article>"""

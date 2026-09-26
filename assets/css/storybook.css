@@ -192,6 +192,10 @@ section.category > p.desc { margin: 0 0 20px; color: #6b5f8f; }
 .btn:hover { transform: scale(1.04); filter: brightness(1.05); }
 .btn-read { background: var(--sky); color: #fff; }
 .btn-pdf { background: var(--brand-red); color: #fff; }
+.btn-share { background: #25D366; color: #fff; flex: 0 0 auto; padding: 9px 12px; }
+.story-share { margin: 20px 0 4px; text-align: center; font-size: 15px; }
+.story-share .btn-share { display: inline-block; padding: 11px 26px; font-size: 15px; }
+.screenfree { margin: 10px 0 0; font-size: 13px; opacity: .75; }
 
 .no-results {
   display: none;

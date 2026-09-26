@@ -11,6 +11,9 @@ import argparse
 import html
 import json
 import os
+from urllib.parse import quote
+
+GH_ROOT = "https://niteshlhsnda-droid.github.io"
 
 SITE = {
     "en": {
@@ -22,6 +25,10 @@ SITE = {
         "back": "← Back to all stories",
         "foot": "The Big Bedtime Storybook — cozy tales for ages 4–7.",
         "desc": "a cozy bedtime story",
+        "share_label": "Share this story with family",
+        "screenfree": "🎧 Screen-free — a story to listen to, not watch.",
+        "seo_desc": "{title} — a cozy bedtime moral story for kids ages 4\u20137. "
+                    "Read online free or download the illustrated PDF.",
     },
     "hi": {
         "base": "/kids-book-videos-hindi",
@@ -32,6 +39,10 @@ SITE = {
         "back": "← सभी कहानियों पर वापस जाएँ",
         "foot": "मीठे सपनों की कहानियाँ — 4–7 साल के बच्चों के लिए।",
         "desc": "एक प्यारी सुलाने वाली कहानी",
+        "share_label": "यह कहानी परिवार को भेजें",
+        "screenfree": "🎧 बिना स्क्रीन — सिर्फ़ सुनने की कहानी।",
+        "seo_desc": "{title} — बच्चों की हिंदी कहानी। 4\u20137 साल के बच्चों के लिए "
+                    "सुलाने वाली नैतिक कहानी — मुफ़्त पढ़ें या सचित्र PDF डाउनलोड करें।",
     },
 }
 
@@ -41,7 +52,11 @@ PAGE = """<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} — {site}</title>
-<meta name="description" content="{title} — {desc}.">
+<meta name="description" content="{seo_desc}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{title} — {site}">
+<meta property="og:description" content="{seo_desc}">
+{og_image_tag}
 <script src="{base}/auth.js"></script>
 <link rel="stylesheet" href="../assets/css/storybook.css">
 </head>
@@ -58,6 +73,11 @@ PAGE = """<!DOCTYPE html>
   <p class="moral">💛 <strong>{moral_label}:</strong> {moral}</p>
   <div class="story-pdf-cta">
     <a href="../book/stories/{slug}.pdf">📕 {pdf_cta}</a>
+  </div>
+  <div class="story-share">
+    <span>{share_label}: </span>
+    <a class="btn btn-share" href="{wa_url}" target="_blank" rel="noopener">📲 WhatsApp</a>
+    <p class="screenfree">{screenfree}</p>
   </div>
 </article>
 <footer class="site-foot">
@@ -83,12 +103,27 @@ def build(lang, repo):
             "  <p>" + html.escape(x) + "</p>"
             for sc in p["scenes"] for x in sc["paragraphs"]
         )
+        title_esc = html.escape(p["title"])
+        page_url = f"{GH_ROOT}{s['base']}/stories/{slug}.html"
+        wa_url = "https://wa.me/?text=" + quote(
+            f"{p['title']} — {s['title']}\n{page_url}", safe="")
+        cover = os.path.join(repo, "book", "colorful-illustrations",
+                             slug, "scene-01-cover.webp")
+        if os.path.exists(cover):
+            og_image_tag = (
+                f'<meta property="og:image" content="{GH_ROOT}{s["base"]}/'
+                f'book/colorful-illustrations/{slug}/scene-01-cover.webp">')
+        else:
+            og_image_tag = ""
         page = PAGE.format(
             lang=lang, base=s["base"], emoji=s["home_emoji"], site=html.escape(s["title"]),
-            title=html.escape(p["title"]), age=html.escape(p.get("age", "")),
+            title=title_esc, age=html.escape(p.get("age", "")),
             paras=paras, moral_label=s["moral_label"], moral=html.escape(p["moral"]),
             slug=slug, pdf_cta=s["pdf_cta"], back=s["back"], foot=s["foot"],
             desc=s["desc"],
+            seo_desc=html.escape(s["seo_desc"].format(title=p["title"]), quote=True),
+            og_image_tag=og_image_tag, wa_url=wa_url,
+            share_label=s["share_label"], screenfree=s["screenfree"],
         )
         with open(os.path.join(stories_dir, slug + ".html"), "w", encoding="utf-8") as f:
             f.write(page)
