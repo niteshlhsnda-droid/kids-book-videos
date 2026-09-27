@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Willow the Whale and the Moonlit Song](stories/2026-09-26-willow-the-whale-and-the-moonlit-song.md)** — An original tale: tiny whale Willow thinks her little hum is too small to matter — until it guides lost baby turtle Taro home through the dark sea, with a twinkling trail of silver fish to light the way. *Moral: Even the smallest voice can light the way home.*
+**[Prince Milo and the Little White Cat](stories/2026-09-27-prince-milo-and-the-little-white-cat.md)** — An adapted classic from *The Blue Fairy Book* (public domain): kind Prince Milo follows a golden light into a glowing palace, befriends Snowdrop — the tiniest white cat — and with her magical help finds the littlest puppy in the land. His kindness then breaks her ancient spell. *Moral: Be kind to everyone you meet — even the smallest friend can work the biggest magic.*
 
-🎬 [Watch the narrated video](videos/2026-09-26-willow-the-whale-and-the-moonlit-song.mp4) · 📜 [Narration script](narration-scripts/2026-09-26-willow-the-whale-and-the-moonlit-song-script.md) · 🎵 [Lullaby](assets/music/2026-09-26-willow-the-whale-and-the-moonlit-song.mp3)
+🎬 [Watch the narrated video](videos/2026-09-27-prince-milo-and-the-little-white-cat.mp4) · 📜 [Narration script](narration-scripts/2026-09-27-prince-milo-and-the-little-white-cat-script.md) · 🎵 [Lullaby](assets/music/2026-09-27-prince-milo-and-the-little-white-cat.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-09-27 | [Prince Milo and the Little White Cat](stories/2026-09-27-prince-milo-and-the-little-white-cat.md) (adapted — The Blue Fairy Book, public domain) | Be kind to everyone you meet — even the smallest friend can work the biggest magic. |
 | 2026-09-26 | [Willow the Whale and the Moonlit Song](stories/2026-09-26-willow-the-whale-and-the-moonlit-song.md) (original) | Even the smallest voice can light the way home. |
 | 2026-09-25 | [Hoofy the Camel and the Helpful Hump](stories/2026-09-25-hoofy-the-camel-and-the-helpful-hump.md) (adapted — Kipling's *Just So Stories*, public domain) | When everyone helps, no one's load is heavy. |
 | 2026-09-24 | [Bram the Badger and the Whispering Woods](stories/2026-09-24-bram-the-badger-and-the-whispering-woods.md) (original) | Saying your fear out loud makes it smaller — and walking beside a friend makes it disappear. |
