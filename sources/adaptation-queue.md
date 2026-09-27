@@ -49,6 +49,7 @@ badge on the book's own page before adapting.
 |------|-------|--------|
 | 2026-09-23 | Tilly the Tortoise and the Racing Hare | Aesop's Fables (The Tortoise and the Hare) — public domain |
 | 2026-09-25 | Hoofy the Camel and the Helpful Hump | Rudyard Kipling, *Just So Stories* ("How the Camel Got His Hump", 1902) — public domain |
+| 2026-09-27 | Prince Milo and the Little White Cat | *The Blue Fairy Book* ("The White Cat" by Marie-Catherine d'Aulnoy), ed. Andrew Lang, 1889 — public domain |
 
 > Contributors: suggest new queue entries via pull request — include the source
 > URL and its license. See [CONTRIBUTING.md](../CONTRIBUTING.md).
