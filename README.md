@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Poppy the Porcupine and the Patchwork Quilt](stories/2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt.md)** — An original bedtime tale: young Poppy grumbles that her old patchwork quilt is shabby and hunts the forest for a perfect new one — until a cold night, a wren's soft feathers, and a field mouse's warm red cloth show her that every patch was a gift from someone who loves her. *Sleep now, little Poppy.*
+**[Willie Winkie and the Sleepy Town](stories/2026-09-29-willie-winkie-and-the-sleepy-town.md)** — An adapted bedtime tale from the traditional nursery rhyme "Wee Willie Winkie": one autumn evening Willie can't fall asleep, so he tiptoes through his dreaming town with his little brass lantern — guiding lost ducklings home, thanking the moon — until the whole town, and one small boy, drift off at last. *Sleep now, little Willie.*
 
-🎬 [Watch the narrated video](videos/2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt.mp4) · 📜 [Narration script](narration-scripts/2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt-script.md) · 🎵 [Lullaby](assets/music/2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt.mp3)
+🎬 [Watch the narrated video](videos/2026-09-29-willie-winkie-and-the-sleepy-town.mp4) · 📜 [Narration script](narration-scripts/2026-09-29-willie-winkie-and-the-sleepy-town-script.md) · 🎵 [Lullaby](assets/music/2026-09-29-willie-winkie-and-the-sleepy-town.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-09-29 | [Willie Winkie and the Sleepy Town](stories/2026-09-29-willie-winkie-and-the-sleepy-town.md) (adapted — "Wee Willie Winkie," traditional nursery rhyme, public domain) | A calm, kind nighttime round settles the heart into sleep. |
 | 2026-09-28 | [Poppy the Porcupine and the Patchwork Quilt](stories/2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt.md) (original) | Gratitude — treasuring the love stitched into what we already have. |
 | 2026-09-27 | [Prince Milo and the Little White Cat](stories/2026-09-27-prince-milo-and-the-little-white-cat.md) (adapted — The Blue Fairy Book, public domain) | Be kind to everyone you meet — even the smallest friend can work the biggest magic. |
 | 2026-09-26 | [Willow the Whale and the Moonlit Song](stories/2026-09-26-willow-the-whale-and-the-moonlit-song.md) (original) | Even the smallest voice can light the way home. |
