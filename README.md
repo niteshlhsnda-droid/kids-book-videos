@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Willie Winkie and the Sleepy Town](stories/2026-09-29-willie-winkie-and-the-sleepy-town.md)** — An adapted bedtime tale from the traditional nursery rhyme "Wee Willie Winkie": one autumn evening Willie can't fall asleep, so he tiptoes through his dreaming town with his little brass lantern — guiding lost ducklings home, thanking the moon — until the whole town, and one small boy, drift off at last. *Sleep now, little Willie.*
+**[Oona the Owl and the Night Song](stories/2026-09-30-oona-the-owl-and-the-night-song.md)** — An original bedtime tale: little Oona is too shy to hoot, so she sits very still and listens to the night instead — the river's hum, the whispering leaves, the frog's wobbly song — and discovers that every voice, even a tiny one, belongs. *Sleep now, little Oona.*
 
-🎬 [Watch the narrated video](videos/2026-09-29-willie-winkie-and-the-sleepy-town.mp4) · 📜 [Narration script](narration-scripts/2026-09-29-willie-winkie-and-the-sleepy-town-script.md) · 🎵 [Lullaby](assets/music/2026-09-29-willie-winkie-and-the-sleepy-town.mp3)
+🎬 [Watch the narrated video](videos/2026-09-30-oona-the-owl-and-the-night-song.mp4) · 📜 [Narration script](narration-scripts/2026-09-30-oona-the-owl-and-the-night-song-script.md) · 🎵 [Lullaby](assets/music/2026-09-30-oona-the-owl-and-the-night-song.mp3) · 📕 [Illustrated PDF](book/stories/oona-the-owl-and-the-night-song.pdf)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-09-30 | [Oona the Owl and the Night Song](stories/2026-09-30-oona-the-owl-and-the-night-song.md) (original) | A tiny owl finds her voice by listening to the night — every voice belongs. |
 | 2026-09-29 | [Willie Winkie and the Sleepy Town](stories/2026-09-29-willie-winkie-and-the-sleepy-town.md) (adapted — "Wee Willie Winkie," traditional nursery rhyme, public domain) | A calm, kind nighttime round settles the heart into sleep. |
 | 2026-09-28 | [Poppy the Porcupine and the Patchwork Quilt](stories/2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt.md) (original) | Gratitude — treasuring the love stitched into what we already have. |
 | 2026-09-27 | [Prince Milo and the Little White Cat](stories/2026-09-27-prince-milo-and-the-little-white-cat.md) (adapted — The Blue Fairy Book, public domain) | Be kind to everyone you meet — even the smallest friend can work the biggest magic. |
