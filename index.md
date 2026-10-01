@@ -6,12 +6,12 @@ title: The Big Bedtime Storybook
 <div class="hero">
   <span class="moon">🌙</span>
   <h1>The Big Bedtime Storybook</h1>
-  <p class="tagline">149 bedtime stories for ages 4–7 — 113 original tales plus 36 timeless classics.</p>
+  <p class="tagline">150 bedtime stories for ages 4–7 — 114 original tales plus 36 timeless classics.</p>
   <div class="search-wrap">
     <input id="story-search" type="search" placeholder="🔍 Search stories…" aria-label="search">
     <span class="mag">🔍</span>
   </div>
-  <p class="stats">📚 149 stories &nbsp;·&nbsp; 📕 free illustrated PDFs &nbsp;·&nbsp; 🌙 new stories daily<span id="result-count"></span></p>
+  <p class="stats">📚 150 stories &nbsp;·&nbsp; 📕 free illustrated PDFs &nbsp;·&nbsp; 🌙 new stories daily<span id="result-count"></span></p>
   <p style="margin-top:22px"><a class="btn btn-read" style="flex:none;padding:13px 34px" href="book/bedtime-storybook.html">📖 Read the whole book in one page</a></p>
 </div>
 
@@ -34,6 +34,19 @@ title: The Big Bedtime Storybook
   <h2>✨ New Bedtime Stories</h2>
   <p class="desc">Fresh tales, newest first — posted daily.</p>
   <div class="cards">
+<article class="story-card" data-search="mira and the starlit coins 2026-10-01-mira-and-the-starlit-coins">
+  <a class="card-art" href="stories/2026-10-01-mira-and-the-starlit-coins.html" aria-label="Mira and the Starlit Coins">
+    <span class="fallback" aria-hidden="true">⭐</span>
+    <img src="assets/thumbnails/2026-10-01-mira-and-the-starlit-coins.jpg" alt="Mira and the Starlit Coins — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-10-01-mira-and-the-starlit-coins.html">Mira and the Starlit Coins</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-10-01-mira-and-the-starlit-coins.html">📖 Read</a>
+      <a class="btn btn-share" href="https://wa.me/?text=Mira%20and%20the%20Starlit%20Coins%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2F2026-10-01-mira-and-the-starlit-coins.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
+    </div>
+  </div>
+</article>
 <article class="story-card" data-search="oona the owl and the night song 2026-09-30-oona-the-owl-and-the-night-song">
   <a class="card-art" href="stories/2026-09-30-oona-the-owl-and-the-night-song.html" aria-label="Oona the Owl and the Night Song">
     <span class="fallback" aria-hidden="true">🦉</span>
