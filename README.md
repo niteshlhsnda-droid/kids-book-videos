@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Oona the Owl and the Night Song](stories/2026-09-30-oona-the-owl-and-the-night-song.md)** — An original bedtime tale: little Oona is too shy to hoot, so she sits very still and listens to the night instead — the river's hum, the whispering leaves, the frog's wobbly song — and discovers that every voice, even a tiny one, belongs. *Sleep now, little Oona.*
+**[Mira and the Starlit Coins](stories/2026-10-01-mira-and-the-starlit-coins.md)** — A lovingly adapted Grimm classic: little Mira gives away her bread, her cap, and every stitch of her clothing to those who need them more — and the night sky answers her giving heart with falling stars that turn to golden coins. *Sleep now, little Mira.*
 
-🎬 [Watch the narrated video](videos/2026-09-30-oona-the-owl-and-the-night-song.mp4) · 📜 [Narration script](narration-scripts/2026-09-30-oona-the-owl-and-the-night-song-script.md) · 🎵 [Lullaby](assets/music/2026-09-30-oona-the-owl-and-the-night-song.mp3) · 📕 [Illustrated PDF](book/stories/oona-the-owl-and-the-night-song.pdf)
+🎬 [Watch the narrated video](videos/2026-10-01-mira-and-the-starlit-coins.mp4) · 📜 [Narration script](narration-scripts/2026-10-01-mira-and-the-starlit-coins-script.md) · 🎵 [Lullaby](assets/music/2026-10-01-mira-and-the-starlit-coins.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,8 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
-| 2026-09-30 | [Oona the Owl and the Night Song](stories/2026-09-30-oona-the-owl-and-the-night-song.md) (original) | A tiny owl finds her voice by listening to the night — every voice belongs. |
-| 2026-09-29 | [Willie Winkie and the Sleepy Town](stories/2026-09-29-willie-winkie-and-the-sleepy-town.md) (adapted — "Wee Willie Winkie," traditional nursery rhyme, public domain) | A calm, kind nighttime round settles the heart into sleep. |
+| 2026-10-01 | [Mira and the Starlit Coins](stories/2026-10-01-mira-and-the-starlit-coins.md) (adapted — Grimm's "The Star Money", public domain) | A gentle tale of giving from the heart, answered by falling stars. |
 | 2026-09-28 | [Poppy the Porcupine and the Patchwork Quilt](stories/2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt.md) (original) | Gratitude — treasuring the love stitched into what we already have. |
 | 2026-09-27 | [Prince Milo and the Little White Cat](stories/2026-09-27-prince-milo-and-the-little-white-cat.md) (adapted — The Blue Fairy Book, public domain) | Be kind to everyone you meet — even the smallest friend can work the biggest magic. |
 | 2026-09-26 | [Willow the Whale and the Moonlit Song](stories/2026-09-26-willow-the-whale-and-the-moonlit-song.md) (original) | Even the smallest voice can light the way home. |
