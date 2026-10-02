@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Mira and the Starlit Coins](stories/2026-10-01-mira-and-the-starlit-coins.md)** — A lovingly adapted Grimm classic: little Mira gives away her bread, her cap, and every stitch of her clothing to those who need them more — and the night sky answers her giving heart with falling stars that turn to golden coins. *Sleep now, little Mira.*
+**[Peri the Puffin and the Painted Sunrise](stories/2026-10-02-peri-the-puffin-and-the-painted-sunrise.md)** — An original tale: little Peri worries the sun might forget to rise, so she keeps watch all night on the highest rock — until the sunrise paints the sky rose, peach and violet just for her, and she learns that morning knows the way. *Sleep now, little Peri.*
 
-🎬 [Watch the narrated video](videos/2026-10-01-mira-and-the-starlit-coins.mp4) · 📜 [Narration script](narration-scripts/2026-10-01-mira-and-the-starlit-coins-script.md) · 🎵 [Lullaby](assets/music/2026-10-01-mira-and-the-starlit-coins.mp3)
+🎬 [Watch the narrated video](videos/2026-10-02-peri-the-puffin-and-the-painted-sunrise.mp4) · 📜 [Narration script](narration-scripts/2026-10-02-peri-the-puffin-and-the-painted-sunrise-script.md) · 🎵 [Lullaby](assets/music/2026-10-02-peri-the-puffin-and-the-painted-sunrise.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-10-02 | [Peri the Puffin and the Painted Sunrise](stories/2026-10-02-peri-the-puffin-and-the-painted-sunrise.md) (original) | A worried little puffin keeps watch all night — and learns that morning knows the way. |
 | 2026-10-01 | [Mira and the Starlit Coins](stories/2026-10-01-mira-and-the-starlit-coins.md) (adapted — Grimm's "The Star Money", public domain) | A gentle tale of giving from the heart, answered by falling stars. |
 | 2026-09-28 | [Poppy the Porcupine and the Patchwork Quilt](stories/2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt.md) (original) | Gratitude — treasuring the love stitched into what we already have. |
 | 2026-09-27 | [Prince Milo and the Little White Cat](stories/2026-09-27-prince-milo-and-the-little-white-cat.md) (adapted — The Blue Fairy Book, public domain) | Be kind to everyone you meet — even the smallest friend can work the biggest magic. |
