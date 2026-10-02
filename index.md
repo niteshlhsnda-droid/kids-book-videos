@@ -6,12 +6,12 @@ title: The Big Bedtime Storybook
 <div class="hero">
   <span class="moon">🌙</span>
   <h1>The Big Bedtime Storybook</h1>
-  <p class="tagline">170 bedtime stories for ages 4–7 — 127 original tales plus 43 timeless classics.</p>
+  <p class="tagline">171 bedtime stories for ages 4–7 — 128 original tales plus 43 timeless classics.</p>
   <div class="search-wrap">
     <input id="story-search" type="search" placeholder="🔍 Search stories…" aria-label="search">
     <span class="mag">🔍</span>
   </div>
-  <p class="stats">📚 170 stories &nbsp;·&nbsp; 📕 free illustrated PDFs &nbsp;·&nbsp; 🌙 new stories daily<span id="result-count"></span></p>
+  <p class="stats">📚 171 stories &nbsp;·&nbsp; 📕 free illustrated PDFs &nbsp;·&nbsp; 🌙 new stories daily<span id="result-count"></span></p>
   <p style="margin-top:22px"><a class="btn btn-read" style="flex:none;padding:13px 34px" href="book/bedtime-storybook.html">📖 Read the whole book in one page</a></p>
 </div>
 
@@ -34,6 +34,19 @@ title: The Big Bedtime Storybook
   <h2>✨ New Bedtime Stories</h2>
   <p class="desc">Fresh tales, newest first — posted daily.</p>
   <div class="cards">
+<article class="story-card" data-search="peri the puffin and the painted sunrise 2026-10-02-peri-the-puffin-and-the-painted-sunrise">
+  <a class="card-art" href="stories/2026-10-02-peri-the-puffin-and-the-painted-sunrise.html" aria-label="Peri the Puffin and the Painted Sunrise">
+    <span class="fallback" aria-hidden="true">🌙</span>
+    <img src="assets/thumbnails/2026-10-02-peri-the-puffin-and-the-painted-sunrise.jpg" alt="Peri the Puffin and the Painted Sunrise — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-10-02-peri-the-puffin-and-the-painted-sunrise.html">Peri the Puffin and the Painted Sunrise</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-10-02-peri-the-puffin-and-the-painted-sunrise.html">📖 Read</a>
+      <a class="btn btn-share" href="https://wa.me/?text=Peri%20the%20Puffin%20and%20the%20Painted%20Sunrise%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2F2026-10-02-peri-the-puffin-and-the-painted-sunrise.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
+    </div>
+  </div>
+</article>
 <article class="story-card" data-search="mira and the starlit coins 2026-10-01-mira-and-the-starlit-coins">
   <a class="card-art" href="stories/2026-10-01-mira-and-the-starlit-coins.html" aria-label="Mira and the Starlit Coins">
     <span class="fallback" aria-hidden="true">⭐</span>
