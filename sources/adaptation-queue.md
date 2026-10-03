@@ -52,6 +52,7 @@ badge on the book's own page before adapting.
 | 2026-09-27 | Prince Milo and the Little White Cat | *The Blue Fairy Book* ("The White Cat" by Marie-Catherine d'Aulnoy), ed. Andrew Lang, 1889 — public domain |
 | 2026-09-29 | Willie Winkie and the Sleepy Town | "Wee Willie Winkie" (traditional nursery rhyme, William Miller, 1841) — public domain |
 | 2026-10-01 | Mira and the Starlit Coins | Grimms' Fairy Tales ("The Star Money", 1812) — public domain |
+| 2026-10-03 | Fern the Fox Cub and the Twinkling Star | Mother Goose's Nursery Rhymes ("Twinkle, Twinkle, Little Star" by Jane Taylor, 1806) — public domain |
 
 > Contributors: suggest new queue entries via pull request — include the source
 > URL and its license. See [CONTRIBUTING.md](../CONTRIBUTING.md).
