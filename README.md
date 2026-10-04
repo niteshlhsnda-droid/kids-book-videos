@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Fern the Fox Cub and the Twinkling Star](stories/2026-10-03-fern-the-fox-cub-and-the-twinkling-star.md)** — An adaptation of the Mother Goose nursery rhyme "Twinkle, Twinkle, Little Star": little Fern is afraid of the dark meadow, until her mama walks her out by starlight — and the first star, the fireflies, and the moon keep her company all the way to Grandma's burrow. *Sleep now, little Fern.*
+**[Dara the Fawn and the Moon-Moth Dance](stories/2026-10-04-dara-the-fawn-and-the-moon-moth-dance.md)** — An original tale: a speedy little fawn tries to join the silver moon moths' dusk dance — first by running, then by tiptoeing — until an old toad's gentle advice shows him that the loveliest things come to those who sit still and quiet. *Sleep now, little Dara.*
 
-🎬 [Watch the narrated video](videos/2026-10-03-fern-the-fox-cub-and-the-twinkling-star.mp4) · 📜 [Narration script](narration-scripts/2026-10-03-fern-the-fox-cub-and-the-twinkling-star-script.md) · 🎵 [Lullaby](assets/music/2026-10-03-fern-the-fox-cub-and-the-twinkling-star.mp3)
+🎬 [Watch the narrated video](videos/2026-10-04-dara-the-fawn-and-the-moon-moth-dance.mp4) · 📜 [Narration script](narration-scripts/2026-10-04-dara-the-fawn-and-the-moon-moth-dance-script.md) · 🎵 [Lullaby](assets/music/2026-10-04-dara-the-fawn-and-the-moon-moth-dance.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-10-04 | [Dara the Fawn and the Moon-Moth Dance](stories/2026-10-04-dara-the-fawn-and-the-moon-moth-dance.md) (original) | A speedy fawn learns the moon moths' dance comes to stillness, not chasing. |
 | 2026-10-03 | [Fern the Fox Cub and the Twinkling Star](stories/2026-10-03-fern-the-fox-cub-and-the-twinkling-star.md) (adapted — Mother Goose's "Twinkle, Twinkle, Little Star" (Jane Taylor, 1806), public domain) | A little fox cub walks the dark meadow by starlight and finds it full of quiet friends. |
 | 2026-10-02 | [Peri the Puffin and the Painted Sunrise](stories/2026-10-02-peri-the-puffin-and-the-painted-sunrise.md) (original) | A worried little puffin keeps watch all night — and learns that morning knows the way. |
 | 2026-10-01 | [Mira and the Starlit Coins](stories/2026-10-01-mira-and-the-starlit-coins.md) (adapted — Grimm's "The Star Money", public domain) | A gentle tale of giving from the heart, answered by falling stars. |
