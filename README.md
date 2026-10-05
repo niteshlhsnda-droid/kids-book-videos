@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Dara the Fawn and the Moon-Moth Dance](stories/2026-10-04-dara-the-fawn-and-the-moon-moth-dance.md)** — An original tale: a speedy little fawn tries to join the silver moon moths' dusk dance — first by running, then by tiptoeing — until an old toad's gentle advice shows him that the loveliest things come to those who sit still and quiet. *Sleep now, little Dara.*
+**[Alice and the Sleepy Dormouse](stories/2026-10-05-alice-and-the-sleepy-dormouse.md)** — A lovingly adapted Carroll classic: at the mad tea party, Alice meets the Dormouse, who naps through everything. While the Hatter and the March Hare try shouting and tickling, Alice chooses the gentlest thing of all — a quiet voice, a soft story, and patience. *Sleep now, little Alice.*
 
-🎬 [Watch the narrated video](videos/2026-10-04-dara-the-fawn-and-the-moon-moth-dance.mp4) · 📜 [Narration script](narration-scripts/2026-10-04-dara-the-fawn-and-the-moon-moth-dance-script.md) · 🎵 [Lullaby](assets/music/2026-10-04-dara-the-fawn-and-the-moon-moth-dance.mp3)
+🎬 [Watch the narrated video](videos/2026-10-05-alice-and-the-sleepy-dormouse.mp4) · 📜 [Narration script](narration-scripts/2026-10-05-alice-and-the-sleepy-dormouse-script.md) · 🎵 [Lullaby](assets/music/2026-10-05-alice-and-the-sleepy-dormouse.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-10-05 | [Alice and the Sleepy Dormouse](stories/2026-10-05-alice-and-the-sleepy-dormouse.md) (adapted — Carroll's *Alice's Adventures in Wonderland* (1865), public domain) | A sleepy little dormouse finds the quietest kind of kindness at the mad tea party. |
 | 2026-10-04 | [Dara the Fawn and the Moon-Moth Dance](stories/2026-10-04-dara-the-fawn-and-the-moon-moth-dance.md) (original) | A speedy fawn learns the moon moths' dance comes to stillness, not chasing. |
 | 2026-10-03 | [Fern the Fox Cub and the Twinkling Star](stories/2026-10-03-fern-the-fox-cub-and-the-twinkling-star.md) (adapted — Mother Goose's "Twinkle, Twinkle, Little Star" (Jane Taylor, 1806), public domain) | A little fox cub walks the dark meadow by starlight and finds it full of quiet friends. |
 | 2026-10-02 | [Peri the Puffin and the Painted Sunrise](stories/2026-10-02-peri-the-puffin-and-the-painted-sunrise.md) (original) | A worried little puffin keeps watch all night — and learns that morning knows the way. |
