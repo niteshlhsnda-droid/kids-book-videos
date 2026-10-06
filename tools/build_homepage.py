@@ -58,6 +58,7 @@ STRINGS = {
         "banner_title": "🌙 The Night-Time Storybook",
         "banner_text": "26 dreamy bedtime stories in one beautiful book — perfect for lights-out reading.",
         "banner_pdf": "book/night-time-stories.pdf",
+        "banner_alt": "Night-Time Stories — 26 dreamy bedtime stories in one beautiful book",
         "no_results": "😴 No stories found — try another word!",
         "read": "📖 Read",
         "pdf": "📕 PDF",
@@ -83,6 +84,7 @@ STRINGS = {
         "banner_title": "🌙 रात की कहानियों की किताब",
         "banner_text": "एक ही खूबसूरत किताब में 26 सपनीली सुलाने वाली कहानियाँ — बत्ती बुझाकर पढ़ने के लिए बिल्कुल सही।",
         "banner_pdf": "book/night-time-stories.pdf",
+        "banner_alt": "रात की कहानियों की किताब — एक ही किताब में 26 सपनीली सुलाने वाली कहानियाँ",
         "no_results": "😴 कोई कहानी नहीं मिली — कोई और शब्द आज़माएँ!",
         "read": "📖 पढ़ें",
         "pdf": "📕 PDF",
@@ -201,14 +203,8 @@ title: {s['site_title']}
 </div>
 
 <div class="book-banner">
-  <a href="{s['banner_pdf']}">
-    <span class="cover-emoji">🌙</span>
-    <span>
-      <span class="flag">{s['banner_flag']}</span>
-      <h2>{s['banner_title']}</h2>
-      <p>{s['banner_text']}</p>
-    </span>
-    <span class="go">→</span>
+  <a href="{s['banner_pdf']}" aria-label="{html.escape(s['banner_alt'])}" style="display:block;padding:0;background:none;border:none;">
+    <img src="assets/night-time-stories-banner.jpg" alt="{html.escape(s['banner_alt'])}" style="width:100%;height:auto;display:block;border-radius:26px;box-shadow:0 12px 30px rgba(25,26,77,.18);" loading="eager" fetchpriority="high">
   </a>
 </div>
 
