@@ -273,3 +273,43 @@ footer.site-foot .hearts { font-size: 20px; }
 /* Whole-book page niceties */
 article.story ul { font-size: 18px; }
 article.story h2 { color: var(--night-2); margin-top: 1.6em; }
+
+/* ---------- Cookie consent banner (cozy storybook card) ---------- */
+#cc-banner {
+  position: fixed;
+  left: 50%;
+  bottom: 16px;
+  transform: translateX(-50%);
+  width: calc(100% - 32px);
+  max-width: 540px;
+  background: var(--cream, #fff9f0);
+  color: var(--ink, #3a2e5c);
+  border: 2px solid var(--gold, #ffc93c);
+  border-radius: var(--card-radius, 22px);
+  box-shadow: 0 12px 32px rgba(25, 26, 77, 0.28);
+  padding: 14px 18px 16px;
+  font-size: 14px;
+  line-height: 1.5;
+  text-align: center;
+  z-index: 9999;
+}
+#cc-banner p { margin: 0 0 10px; }
+#cc-banner .cc-buttons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+#cc-banner button {
+  font: inherit;
+  cursor: pointer;
+  border: 2px solid var(--gold, #ffc93c);
+  border-radius: 999px;
+  padding: 8px 22px;
+  background: #fff;
+  color: var(--ink, #3a2e5c);
+}
+#cc-banner #cc-accept {
+  background: var(--gold, #ffc93c);
+  font-weight: bold;
+}
+#cc-banner button:hover { filter: brightness(0.96); }
