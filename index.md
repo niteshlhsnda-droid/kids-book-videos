@@ -16,14 +16,8 @@ title: The Big Bedtime Storybook
 </div>
 
 <div class="book-banner">
-  <a href="book/night-time-stories.pdf">
-    <span class="cover-emoji">🌙</span>
-    <span>
-      <span class="flag">✨ FEATURED BOOK</span>
-      <h2>🌙 The Night-Time Storybook</h2>
-      <p>26 dreamy bedtime stories in one beautiful book — perfect for lights-out reading.</p>
-    </span>
-    <span class="go">→</span>
+  <a href="book/night-time-stories.pdf" aria-label="Night-Time Stories — 26 dreamy bedtime stories in one beautiful book" style="display:block;padding:0;background:none;border:none;">
+    <img src="assets/night-time-stories-banner.jpg" alt="Night-Time Stories — 26 dreamy bedtime stories in one beautiful book" style="width:100%;height:auto;display:block;border-radius:26px;box-shadow:0 12px 30px rgba(25,26,77,.18);" loading="eager" fetchpriority="high">
   </a>
 </div>
 
