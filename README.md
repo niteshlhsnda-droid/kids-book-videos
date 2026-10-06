@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Alice and the Sleepy Dormouse](stories/2026-10-05-alice-and-the-sleepy-dormouse.md)** — A lovingly adapted Carroll classic: at the mad tea party, Alice meets the Dormouse, who naps through everything. While the Hatter and the March Hare try shouting and tickling, Alice chooses the gentlest thing of all — a quiet voice, a soft story, and patience. *Sleep now, little Alice.*
+**[Hazel the Hedgehog and the Lantern of Little Wonders](stories/2026-10-06-hazel-the-hedgehog-and-the-lantern-of-little-wonders.md)** — An original tale: a small hedgehog who looks at everything twice turns an ordinary meadow into a lantern-lit adventure. *Sleep now, little Hazel.*
 
-🎬 [Watch the narrated video](videos/2026-10-05-alice-and-the-sleepy-dormouse.mp4) · 📜 [Narration script](narration-scripts/2026-10-05-alice-and-the-sleepy-dormouse-script.md) · 🎵 [Lullaby](assets/music/2026-10-05-alice-and-the-sleepy-dormouse.mp3)
+🎬 [Watch the narrated video](videos/2026-10-06-hazel-the-hedgehog-and-the-lantern-of-little-wonders.mp4) · 📜 [Narration script](narration-scripts/2026-10-06-hazel-the-hedgehog-and-the-lantern-of-little-wonders-script.md) · 🎵 [Lullaby](assets/music/2026-10-06-hazel-the-hedgehog-and-the-lantern-of-little-wonders.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-10-06 | [Hazel the Hedgehog and the Lantern of Little Wonders](stories/2026-10-06-hazel-the-hedgehog-and-the-lantern-of-little-wonders.md) (original) | A hedgehog who looks twice at ordinary things finds a meadow full of tiny wonders. |
 | 2026-10-05 | [Alice and the Sleepy Dormouse](stories/2026-10-05-alice-and-the-sleepy-dormouse.md) (adapted — Carroll's *Alice's Adventures in Wonderland* (1865), public domain) | A sleepy little dormouse finds the quietest kind of kindness at the mad tea party. |
 | 2026-10-04 | [Dara the Fawn and the Moon-Moth Dance](stories/2026-10-04-dara-the-fawn-and-the-moon-moth-dance.md) (original) | A speedy fawn learns the moon moths' dance comes to stillness, not chasing. |
 | 2026-10-03 | [Fern the Fox Cub and the Twinkling Star](stories/2026-10-03-fern-the-fox-cub-and-the-twinkling-star.md) (adapted — Mother Goose's "Twinkle, Twinkle, Little Star" (Jane Taylor, 1806), public domain) | A little fox cub walks the dark meadow by starlight and finds it full of quiet friends. |
