@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Hazel the Hedgehog and the Lantern of Little Wonders](stories/2026-10-06-hazel-the-hedgehog-and-the-lantern-of-little-wonders.md)** — An original tale: a small hedgehog who looks at everything twice turns an ordinary meadow into a lantern-lit adventure. *Sleep now, little Hazel.*
+**[Puck and the Moonlit Forest](stories/2026-10-07-puck-and-the-moonlit-forest.md)** — Tiny Puck the fairy sneezes and scatters the moonflowers' silver petals across the forest — then gently mends his own moonlit mess, petal by petal, and curls up asleep inside the tallest moonflower. *Sleep now, little Puck.*
 
-🎬 [Watch the narrated video](videos/2026-10-06-hazel-the-hedgehog-and-the-lantern-of-little-wonders.mp4) · 📜 [Narration script](narration-scripts/2026-10-06-hazel-the-hedgehog-and-the-lantern-of-little-wonders-script.md) · 🎵 [Lullaby](assets/music/2026-10-06-hazel-the-hedgehog-and-the-lantern-of-little-wonders.mp3)
+🎬 [Watch the narrated video](videos/2026-10-07-puck-and-the-moonlit-forest.mp4) · 📜 [Narration script](narration-scripts/2026-10-07-puck-and-the-moonlit-forest-script.md) · 🎵 [Lullaby](assets/music/2026-10-07-puck-and-the-moonlit-forest.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,11 +22,10 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
-| 2026-10-06 | [Hazel the Hedgehog and the Lantern of Little Wonders](stories/2026-10-06-hazel-the-hedgehog-and-the-lantern-of-little-wonders.md) (original) | A hedgehog who looks twice at ordinary things finds a meadow full of tiny wonders. |
-| 2026-10-05 | [Alice and the Sleepy Dormouse](stories/2026-10-05-alice-and-the-sleepy-dormouse.md) (adapted — Carroll's *Alice's Adventures in Wonderland* (1865), public domain) | A sleepy little dormouse finds the quietest kind of kindness at the mad tea party. |
-| 2026-10-04 | [Dara the Fawn and the Moon-Moth Dance](stories/2026-10-04-dara-the-fawn-and-the-moon-moth-dance.md) (original) | A speedy fawn learns the moon moths' dance comes to stillness, not chasing. |
-| 2026-10-03 | [Fern the Fox Cub and the Twinkling Star](stories/2026-10-03-fern-the-fox-cub-and-the-twinkling-star.md) (adapted — Mother Goose's "Twinkle, Twinkle, Little Star" (Jane Taylor, 1806), public domain) | A little fox cub walks the dark meadow by starlight and finds it full of quiet friends. |
-| 2026-10-02 | [Peri the Puffin and the Painted Sunrise](stories/2026-10-02-peri-the-puffin-and-the-painted-sunrise.md) (original) | A worried little puffin keeps watch all night — and learns that morning knows the way. |
+| 2026-10-07 | [Puck and the Moonlit Forest](stories/2026-10-07-puck-and-the-moonlit-forest.md) (adapted — Lamb's *Tales from Shakespeare*, "A Midsummer Night's Dream", public domain) | A tiny fairy's sneeze scatters the moonflowers' silver petals — and he gently mends his own moonlit mess. |
+| 2026-10-06 | [Hazel the Hedgehog and the Lantern of Little Wonders](stories/2026-10-06-hazel-the-hedgehog-and-the-lantern-of-little-wonders.md) (original) | Hazel's jam-jar lantern reveals the little wonders hiding in the ordinary meadow. |
+| 2026-10-05 | [Alice and the Sleepy Dormouse](stories/2026-10-05-alice-and-the-sleepy-dormouse.md) (adapted — Carroll's *Alice's Adventures in Wonderland*, public domain) | At the maddest tea party, Alice keeps gentle, patient company with the sleepiest little Dormouse. |
+| 2026-10-03 | [Fern the Fox Cub and the Twinkling Star](stories/2026-10-03-fern-the-fox-cub-and-the-twinkling-star.md) (adapted — Mother Goose's "Twinkle, Twinkle, Little Star", public domain) | A fox cub wishes on the twinkling star and finds the night is full of friends. |
 | 2026-10-01 | [Mira and the Starlit Coins](stories/2026-10-01-mira-and-the-starlit-coins.md) (adapted — Grimm's "The Star Money", public domain) | A gentle tale of giving from the heart, answered by falling stars. |
 | 2026-09-28 | [Poppy the Porcupine and the Patchwork Quilt](stories/2026-09-28-poppy-the-porcupine-and-the-patchwork-quilt.md) (original) | Gratitude — treasuring the love stitched into what we already have. |
 | 2026-09-27 | [Prince Milo and the Little White Cat](stories/2026-09-27-prince-milo-and-the-little-white-cat.md) (adapted — The Blue Fairy Book, public domain) | Be kind to everyone you meet — even the smallest friend can work the biggest magic. |
