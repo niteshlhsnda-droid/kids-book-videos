@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Puck and the Moonlit Forest](stories/2026-10-07-puck-and-the-moonlit-forest.md)** — Tiny Puck the fairy sneezes and scatters the moonflowers' silver petals across the forest — then gently mends his own moonlit mess, petal by petal, and curls up asleep inside the tallest moonflower. *Sleep now, little Puck.*
+**[Kavi the Kingfisher and the First Dive](stories/2026-10-08-kavi-the-kingfisher-and-the-first-dive.md)** — Kavi the young kingfisher can't dive like the grown-ups — until a dragonfly friend shows him that one tiny brave step at a time leads to his very own first splash. *Sleep now, little Kavi.*
 
-🎬 [Watch the narrated video](videos/2026-10-07-puck-and-the-moonlit-forest.mp4) · 📜 [Narration script](narration-scripts/2026-10-07-puck-and-the-moonlit-forest-script.md) · 🎵 [Lullaby](assets/music/2026-10-07-puck-and-the-moonlit-forest.mp3)
+🎬 [Watch the narrated video](videos/2026-10-08-kavi-the-kingfisher-and-the-first-dive.mp4) · 📜 [Narration script](narration-scripts/2026-10-08-kavi-the-kingfisher-and-the-first-dive-script.md) · 🎵 [Lullaby](assets/music/2026-10-08-kavi-the-kingfisher-and-the-first-dive.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-10-08 | [Kavi the Kingfisher and the First Dive](stories/2026-10-08-kavi-the-kingfisher-and-the-first-dive.md) (original) | A young kingfisher who can't dive learns that brave little steps lead to the biggest splashes. |
 | 2026-10-07 | [Puck and the Moonlit Forest](stories/2026-10-07-puck-and-the-moonlit-forest.md) (adapted — Lamb's *Tales from Shakespeare*, "A Midsummer Night's Dream", public domain) | A tiny fairy's sneeze scatters the moonflowers' silver petals — and he gently mends his own moonlit mess. |
 | 2026-10-06 | [Hazel the Hedgehog and the Lantern of Little Wonders](stories/2026-10-06-hazel-the-hedgehog-and-the-lantern-of-little-wonders.md) (original) | Hazel's jam-jar lantern reveals the little wonders hiding in the ordinary meadow. |
 | 2026-10-05 | [Alice and the Sleepy Dormouse](stories/2026-10-05-alice-and-the-sleepy-dormouse.md) (adapted — Carroll's *Alice's Adventures in Wonderland*, public domain) | At the maddest tea party, Alice keeps gentle, patient company with the sleepiest little Dormouse. |
