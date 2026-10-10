@@ -55,6 +55,7 @@ badge on the book's own page before adapting.
 | 2026-10-03 | Fern the Fox Cub and the Twinkling Star | Mother Goose's Nursery Rhymes ("Twinkle, Twinkle, Little Star" by Jane Taylor, 1806) — public domain |
 | 2026-10-05 | Alice and the Sleepy Dormouse | Lewis Carroll, *Alice's Adventures in Wonderland* ("A Mad Tea-Party", 1865) — public domain |
 | 2026-10-07 | Puck and the Moonlit Forest | Charles & Mary Lamb, *Tales from Shakespeare* ("A Midsummer Night's Dream", 1807) — public domain |
+| 2026-10-10 | Peter Rabbit and the Big Garden Gate | *The Tale of Peter Rabbit* by Beatrix Potter (1902) — public domain |
 
 > Contributors: suggest new queue entries via pull request — include the source
 > URL and its license. See [CONTRIBUTING.md](../CONTRIBUTING.md).
