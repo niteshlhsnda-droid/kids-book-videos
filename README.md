@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Peter Rabbit and the Big Garden Gate](stories/2026-10-10-peter-rabbit-and-the-big-garden-gate.md)** — Peter the littlest bunny squeezes under Mr. McGregor's garden gate for a feast of lettuces and radishes — and learns that home, and Mama's gentle warnings, are the safest place of all. *Sleep now, little Peter.*
+**[Edda the Egret and the Dawn Song](stories/2026-10-11-edda-the-egret-and-the-dawn-song.md)** — A young egret's croaky voice doesn't fit the marsh song circle — until dawn reveals the one song only she can sing. *Sleep now, little Edda.*
 
-🎬 [Watch the narrated video](videos/2026-10-10-peter-rabbit-and-the-big-garden-gate.mp4) · 📜 [Narration script](narration-scripts/2026-10-10-peter-rabbit-and-the-big-garden-gate-script.md) · 🎵 [Lullaby](assets/music/2026-10-10-peter-rabbit-and-the-big-garden-gate.mp3)
+🎬 [Watch the narrated video](videos/2026-10-11-edda-the-egret-and-the-dawn-song.mp4) · 📜 [Narration script](narration-scripts/2026-10-11-edda-the-egret-and-the-dawn-song-script.md) · 🎵 [Lullaby](assets/music/2026-10-11-edda-the-egret-and-the-dawn-song.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,8 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
-| 2026-10-10 | [Peter Rabbit and the Big Garden Gate](stories/2026-10-10-peter-rabbit-and-the-big-garden-gate.md) (adapted) | A curious little rabbit sneaks into Mr. McGregor's garden and finds that home — and Mama's gentle warnings — is the safest place of all. |
-| 2026-10-08 | [Kavi the Kingfisher and the First Dive](stories/2026-10-08-kavi-the-kingfisher-and-the-first-dive.md) (original) | A young kingfisher who can't dive learns that brave little steps lead to the biggest splashes. |
+| 2026-10-11 | [Edda the Egret and the Dawn Song](stories/2026-10-11-edda-the-egret-and-the-dawn-song.md) (original) | A young egret's croaky voice doesn't fit the marsh song circle — until dawn reveals the one song only she can sing. |
 | 2026-10-07 | [Puck and the Moonlit Forest](stories/2026-10-07-puck-and-the-moonlit-forest.md) (adapted — Lamb's *Tales from Shakespeare*, "A Midsummer Night's Dream", public domain) | A tiny fairy's sneeze scatters the moonflowers' silver petals — and he gently mends his own moonlit mess. |
 | 2026-10-06 | [Hazel the Hedgehog and the Lantern of Little Wonders](stories/2026-10-06-hazel-the-hedgehog-and-the-lantern-of-little-wonders.md) (original) | Hazel's jam-jar lantern reveals the little wonders hiding in the ordinary meadow. |
 | 2026-10-05 | [Alice and the Sleepy Dormouse](stories/2026-10-05-alice-and-the-sleepy-dormouse.md) (adapted — Carroll's *Alice's Adventures in Wonderland*, public domain) | At the maddest tea party, Alice keeps gentle, patient company with the sleepiest little Dormouse. |
