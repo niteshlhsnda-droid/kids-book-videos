@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Pooh Bear and the Very Tight Place](stories/2026-10-12-pooh-bear-and-the-very-tight-place.md)** — Pooh eats three whole pots of honey at Rabbit's house — and gets wedged fast in the round front door, until his friends' patient company sets him free. *Sleep now, Pooh Bear.*
+**[Didi the Duckling and the Silver Bell](stories/2026-10-13-didi-the-duckling-and-the-silver-bell.md)** — Didi the duckling finds a shiny silver bell in the reeds and keeps it — but its sad, dull ring tells her where it truly belongs. *Sleep now, little Didi.*
 
-🎬 [Watch the narrated video](videos/2026-10-12-pooh-bear-and-the-very-tight-place.mp4) · 📜 [Narration script](narration-scripts/2026-10-12-pooh-bear-and-the-very-tight-place-script.md) · 🎵 [Lullaby](assets/music/2026-10-12-pooh-bear-and-the-very-tight-place.mp3)
+🎬 [Watch the narrated video](videos/2026-10-13-didi-the-duckling-and-the-silver-bell.mp4) · 📜 [Narration script](narration-scripts/2026-10-13-didi-the-duckling-and-the-silver-bell-script.md) · 🎵 [Lullaby](assets/music/2026-10-13-didi-the-duckling-and-the-silver-bell.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-10-13 | [Didi the Duckling and the Silver Bell](stories/2026-10-13-didi-the-duckling-and-the-silver-bell.md) (original) | Didi the duckling finds a shiny silver bell in the reeds — but its sad, dull ring tells her where it truly belongs. |
 | 2026-10-12 | [Pooh Bear and the Very Tight Place](stories/2026-10-12-pooh-bear-and-the-very-tight-place.md) (adapted — A. A. Milne's *Winnie-the-Pooh*, Chapter 2, public domain) | Pooh eats three whole pots of honey at Rabbit's house — and gets wedged fast in the round front door, until his friends' patient company sets him free. |
 | 2026-10-11 | [Edda the Egret and the Dawn Song](stories/2026-10-11-edda-the-egret-and-the-dawn-song.md) (original) | A young egret's croaky voice doesn't fit the marsh song circle — until dawn reveals the one song only she can sing. |
 | 2026-10-07 | [Puck and the Moonlit Forest](stories/2026-10-07-puck-and-the-moonlit-forest.md) (adapted — Lamb's *Tales from Shakespeare*, "A Midsummer Night's Dream", public domain) | A tiny fairy's sneeze scatters the moonflowers' silver petals — and he gently mends his own moonlit mess. |
