@@ -56,6 +56,7 @@ badge on the book's own page before adapting.
 | 2026-10-05 | Alice and the Sleepy Dormouse | Lewis Carroll, *Alice's Adventures in Wonderland* ("A Mad Tea-Party", 1865) — public domain |
 | 2026-10-07 | Puck and the Moonlit Forest | Charles & Mary Lamb, *Tales from Shakespeare* ("A Midsummer Night's Dream", 1807) — public domain |
 | 2026-10-12 | Pooh Bear and the Very Tight Place | A. A. Milne, *Winnie-the-Pooh* (Chapter 2 — "In Which Pooh Goes Visiting and Gets Into a Tight Place", 1926) — public domain |
+| 2026-10-14 | Alfred and the Burnt Cakes | James Baldwin, *Fifty Famous Stories Retold* ("King Alfred and the Cakes", 1896) — public domain |
 
 > Contributors: suggest new queue entries via pull request — include the source
 > URL and its license. See [CONTRIBUTING.md](../CONTRIBUTING.md).
