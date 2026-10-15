@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Alfred and the Burnt Cakes](stories/2026-10-14-alfred-and-the-burnt-cakes.md)** — A disguised king burns a kind stranger's supper — and learns that even kings must own their mistakes. *Sleep now, King Alfred, keeper of cakes and keeper of a kind heart.*
+**[Mabel the Mole and the Moon Garden](stories/2026-10-15-mabel-the-mole-and-the-moon-garden.md)** — A shy little mole finds a lost seed — and makes room for new friends in her moonlit garden. *Sleep now, little Mabel, keeper of the moon garden.*
 
-🎬 [Watch the narrated video](videos/2026-10-14-alfred-and-the-burnt-cakes.mp4) · 📜 [Narration script](narration-scripts/2026-10-14-alfred-and-the-burnt-cakes-script.md) · 🎵 [Lullaby](assets/music/2026-10-14-alfred-and-the-burnt-cakes.mp3)
+🎬 [Watch the narrated video](videos/2026-10-15-mabel-the-mole-and-the-moon-garden.mp4) · 📜 [Narration script](narration-scripts/2026-10-15-mabel-the-mole-and-the-moon-garden-script.md) · 🎵 [Lullaby](assets/music/2026-10-15-mabel-the-mole-and-the-moon-garden.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-10-15 | [Mabel the Mole and the Moon Garden](stories/2026-10-15-mabel-the-mole-and-the-moon-garden.md) (original) | A shy little mole finds a lost seed — and makes room for new friends in her moonlit garden. |
 | 2026-10-14 | [Alfred and the Burnt Cakes](stories/2026-10-14-alfred-and-the-burnt-cakes.md) (adapted — Baldwin's *Fifty Famous Stories Retold*, "King Alfred and the Cakes", public domain) | A disguised king burns a kind stranger's supper — and learns that even kings must own their mistakes. |
 | 2026-10-13 | [Didi the Duckling and the Silver Bell](stories/2026-10-13-didi-the-duckling-and-the-silver-bell.md) (original) | A tiny duckling finds a lost silver bell among the reeds — and its ring carries a surprise of her own. |
 | 2026-10-12 | [Pooh Bear and the Very Tight Place](stories/2026-10-12-pooh-bear-and-the-very-tight-place.md) (adapted — A. A. Milne's *Winnie-the-Pooh*, public domain) | Pooh visits Rabbit for a little something to eat — and discovers he has grown rather too round for the front door. |
