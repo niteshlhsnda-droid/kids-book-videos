@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Mabel the Mole and the Moon Garden](stories/2026-10-15-mabel-the-mole-and-the-moon-garden.md)** — A shy little mole finds a lost seed — and makes room for new friends in her moonlit garden. *Sleep now, little Mabel, keeper of the moon garden.*
+**[Bheema the Donkey and the Little Morning Fly](stories/2026-10-16-bheema-the-donkey-and-the-little-morning-fly.md)** — A sleepy donkey tries every loud wake-up call in the village — until the tiniest friend of all finds the one that works. *Sleep now, little Bheema, and wake to a brand-new day.*
 
-🎬 [Watch the narrated video](videos/2026-10-15-mabel-the-mole-and-the-moon-garden.mp4) · 📜 [Narration script](narration-scripts/2026-10-15-mabel-the-mole-and-the-moon-garden-script.md) · 🎵 [Lullaby](assets/music/2026-10-15-mabel-the-mole-and-the-moon-garden.mp3)
+🎬 [Watch the narrated video](videos/2026-10-16-bheema-the-donkey-and-the-little-morning-fly.mp4) · 📜 [Narration script](narration-scripts/2026-10-16-bheema-the-donkey-and-the-little-morning-fly-script.md) · 🎵 [Lullaby](assets/music/2026-10-16-bheema-the-donkey-and-the-little-morning-fly.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,11 +22,14 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-10-16 | [Bheema the Donkey and the Little Morning Fly](stories/2026-10-16-bheema-the-donkey-and-the-little-morning-fly.md) (adapted — Kiran Kasturia's *Bheema, the Sleepyhead*, CC BY 4.0) | A sleepy donkey tries every loud wake-up call in the village — until the tiniest friend of all finds the one that works. |
 | 2026-10-15 | [Mabel the Mole and the Moon Garden](stories/2026-10-15-mabel-the-mole-and-the-moon-garden.md) (original) | A shy little mole finds a lost seed — and makes room for new friends in her moonlit garden. |
 | 2026-10-14 | [Alfred and the Burnt Cakes](stories/2026-10-14-alfred-and-the-burnt-cakes.md) (adapted — Baldwin's *Fifty Famous Stories Retold*, "King Alfred and the Cakes", public domain) | A disguised king burns a kind stranger's supper — and learns that even kings must own their mistakes. |
 | 2026-10-13 | [Didi the Duckling and the Silver Bell](stories/2026-10-13-didi-the-duckling-and-the-silver-bell.md) (original) | A tiny duckling finds a lost silver bell among the reeds — and its ring carries a surprise of her own. |
 | 2026-10-12 | [Pooh Bear and the Very Tight Place](stories/2026-10-12-pooh-bear-and-the-very-tight-place.md) (adapted — A. A. Milne's *Winnie-the-Pooh*, public domain) | Pooh visits Rabbit for a little something to eat — and discovers he has grown rather too round for the front door. |
 | 2026-10-11 | [Edda the Egret and the Dawn Song](stories/2026-10-11-edda-the-egret-and-the-dawn-song.md) (original) | A young egret's croaky voice doesn't fit the marsh song circle — until dawn reveals the one song only she can sing. |
+| 2026-10-10 | [Peter Rabbit and the Big Garden Gate](stories/2026-10-10-peter-rabbit-and-the-big-garden-gate.md) (adapted — Beatrix Potter's *The Tale of Peter Rabbit*, public domain) | A curious little bunny sneaks into Mr. McGregor's garden — and is very glad to get safely home again. |
+| 2026-10-08 | [Kavi the Kingfisher and the First Dive](stories/2026-10-08-kavi-the-kingfisher-and-the-first-dive.md) (original) | A young kingfisher who cannot dive finds courage with a little help from a dragonfly friend. |
 | 2026-10-07 | [Puck and the Moonlit Forest](stories/2026-10-07-puck-and-the-moonlit-forest.md) (adapted — Lamb's *Tales from Shakespeare*, "A Midsummer Night's Dream", public domain) | A tiny fairy's sneeze scatters the moonflowers' silver petals — and he gently mends his own moonlit mess. |
 | 2026-10-06 | [Hazel the Hedgehog and the Lantern of Little Wonders](stories/2026-10-06-hazel-the-hedgehog-and-the-lantern-of-little-wonders.md) (original) | Hazel's jam-jar lantern reveals the little wonders hiding in the ordinary meadow. |
 | 2026-10-05 | [Alice and the Sleepy Dormouse](stories/2026-10-05-alice-and-the-sleepy-dormouse.md) (adapted — Carroll's *Alice's Adventures in Wonderland*, public domain) | At the maddest tea party, Alice keeps gentle, patient company with the sleepiest little Dormouse. |
