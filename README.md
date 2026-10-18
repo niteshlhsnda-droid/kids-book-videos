@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Runa the Red Panda and the Lantern Promise](stories/2026-10-17-runa-the-red-panda-and-the-lantern-promise.md)** — A little red panda promises to keep the hill lantern burning for her toad friend — and when a storm blows it out, she finds a way to light it again. *Sleep now, little Runa, keeper of the lantern light.*
+**[Chiku the Monkey and the Jamun Tree](stories/2026-10-18-chiku-the-monkey-and-the-jamun-tree.md)** — A clever little monkey shares his sweet jamuns with a friendly crocodile — until a greedy wish sends them both on a risky river ride, and quick thinking saves the day. *Sleep now, little Chiku.*
 
-🎬 [Watch the narrated video](videos/2026-10-17-runa-the-red-panda-and-the-lantern-promise.mp4) · 📜 [Narration script](narration-scripts/2026-10-17-runa-the-red-panda-and-the-lantern-promise-script.md) · 🎵 [Lullaby](assets/music/2026-10-17-runa-the-red-panda-and-the-lantern-promise.mp3)
+🎬 [Watch the narrated video](videos/2026-10-18-chiku-the-monkey-and-the-jamun-tree.mp4) · 📜 [Narration script](narration-scripts/2026-10-18-chiku-the-monkey-and-the-jamun-tree-script.md) · 🎵 [Lullaby](assets/music/2026-10-18-chiku-the-monkey-and-the-jamun-tree.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-10-18 | [Chiku the Monkey and the Jamun Tree](stories/2026-10-18-chiku-the-monkey-and-the-jamun-tree.md) (adapted — The Panchatantra, "The Monkey and the Crocodile", public domain) | A clever little monkey shares his sweet jamuns with a friendly crocodile — until a greedy wish sends them both on a risky river ride, and quick thinking saves the day. |
 | 2026-10-17 | [Runa the Red Panda and the Lantern Promise](stories/2026-10-17-runa-the-red-panda-and-the-lantern-promise.md) (original) | A little red panda promises to keep the hill lantern burning for her toad friend — and when a storm blows it out, she finds a way to light it again. |
 | 2026-10-16 | [Bheema the Donkey and the Little Morning Fly](stories/2026-10-16-bheema-the-donkey-and-the-little-morning-fly.md) (adapted — Kiran Kasturia's *Bheema, the Sleepyhead*, CC BY 4.0) | A sleepy donkey tries every loud wake-up call in the village — until the tiniest friend of all finds the one that works. |
 | 2026-10-15 | [Mabel the Mole and the Moon Garden](stories/2026-10-15-mabel-the-mole-and-the-moon-garden.md) (original) | A shy little mole finds a lost seed — and makes room for new friends in her moonlit garden. |
