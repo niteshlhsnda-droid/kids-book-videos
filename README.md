@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Kubo the Koala and the Sleepy Tree](stories/2026-10-19-kubo-the-koala-and-the-sleepy-tree.md)** — A sleepy little koala doesn't want to miss the evening game — until his friends show him that rest can be part of the fun. *Sleep now, little Kubo.*
+**[Jojo the Jackal and the Thumping Drum](stories/2026-10-20-jojo-the-jackal-and-the-thumping-drum.md)** — A young jackal hears a scary thumping in the night — and one brave little peek turns the monster-sound into a giggle. *Sleep now, little Jojo.*
 
-🎬 [Watch the narrated video](videos/2026-10-19-kubo-the-koala-and-the-sleepy-tree.mp4) · 📜 [Narration script](narration-scripts/2026-10-19-kubo-the-koala-and-the-sleepy-tree-script.md) · 🎵 [Lullaby](assets/music/2026-10-19-kubo-the-koala-and-the-sleepy-tree.mp3)
+🎬 [Watch the narrated video](videos/2026-10-20-jojo-the-jackal-and-the-thumping-drum.mp4) · 📜 [Narration script](narration-scripts/2026-10-20-jojo-the-jackal-and-the-thumping-drum-script.md) · 🎵 [Lullaby](assets/music/2026-10-20-jojo-the-jackal-and-the-thumping-drum.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-10-20 | [Jojo the Jackal and the Thumping Drum](stories/2026-10-20-jojo-the-jackal-and-the-thumping-drum.md) (adapted — The Panchatantra, "The Jackal and the War Drum", public domain) | A young jackal hears a scary thumping in the night — and one brave little peek turns the monster-sound into a giggle. |
 | 2026-10-19 | [Kubo the Koala and the Sleepy Tree](stories/2026-10-19-kubo-the-koala-and-the-sleepy-tree.md) (original) | A sleepy little koala doesn't want to miss the evening game — until his friends show him that rest can be part of the fun. |
 | 2026-10-18 | [Chiku the Monkey and the Jamun Tree](stories/2026-10-18-chiku-the-monkey-and-the-jamun-tree.md) (adapted — The Panchatantra, "The Monkey and the Crocodile", public domain) | A clever little monkey shares his sweet jamuns with a friendly crocodile — until a greedy wish sends them both on a risky river ride, and quick thinking saves the day. |
 | 2026-10-17 | [Runa the Red Panda and the Lantern Promise](stories/2026-10-17-runa-the-red-panda-and-the-lantern-promise.md) (original) | A little red panda promises to keep the hill lantern burning for her toad friend — and when a storm blows it out, she finds a way to light it again. |
