@@ -34,16 +34,16 @@ title: The Big Bedtime Storybook
   <h2>✨ New Bedtime Stories</h2>
   <p class="desc">Fresh tales, newest first — posted daily.</p>
   <div class="cards">
-<article class="story-card" data-search="in a little blue house at the edge of a garden lived a kitten named tink. tink had soft silver fur, round curious eyes, and a very small worry. 2026-10-21-tink-the-kitten-and-the-worry-box">
-  <a class="card-art" href="stories/2026-10-21-tink-the-kitten-and-the-worry-box.html" aria-label="In a little blue house at the edge of a garden lived a kitten named Tink. Tink had soft silver fur, round curious eyes, and a very small worry.">
+<article class="story-card" data-search="tink the kitten and the worry box 2026-10-21-tink-the-kitten-and-the-worry-box">
+  <a class="card-art" href="stories/2026-10-21-tink-the-kitten-and-the-worry-box.html" aria-label="Tink the Kitten and the Worry Box">
     <span class="fallback" aria-hidden="true">🐱</span>
-    <img src="assets/thumbnails/2026-10-21-tink-the-kitten-and-the-worry-box.jpg" alt="In a little blue house at the edge of a garden lived a kitten named Tink. Tink had soft silver fur, round curious eyes, and a very small worry. — cover art" loading="lazy" onerror="this.style.display='none'">
+    <img src="assets/thumbnails/2026-10-21-tink-the-kitten-and-the-worry-box.jpg" alt="Tink the Kitten and the Worry Box — cover art" loading="lazy" onerror="this.style.display='none'">
   </a>
   <div class="card-body">
-    <h3><a href="stories/2026-10-21-tink-the-kitten-and-the-worry-box.html">In a little blue house at the edge of a garden lived a kitten named Tink. Tink had soft silver fur, round curious eyes, and a very small worry.</a></h3>
+    <h3><a href="stories/2026-10-21-tink-the-kitten-and-the-worry-box.html">Tink the Kitten and the Worry Box</a></h3>
     <div class="card-actions">
       <a class="btn btn-read" href="stories/2026-10-21-tink-the-kitten-and-the-worry-box.html">📖 Read</a>
-      <a class="btn btn-share" href="https://wa.me/?text=In%20a%20little%20blue%20house%20at%20the%20edge%20of%20a%20garden%20lived%20a%20kitten%20named%20Tink.%20Tink%20had%20soft%20silver%20fur%2C%20round%20curious%20eyes%2C%20and%20a%20very%20small%20worry.%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2F2026-10-21-tink-the-kitten-and-the-worry-box.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
+      <a class="btn btn-share" href="https://wa.me/?text=Tink%20the%20Kitten%20and%20the%20Worry%20Box%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2F2026-10-21-tink-the-kitten-and-the-worry-box.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
     </div>
   </div>
 </article>
