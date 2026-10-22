@@ -58,7 +58,7 @@ badge on the book's own page before adapting.
 | 2026-10-12 | Pooh Bear and the Very Tight Place | A. A. Milne, *Winnie-the-Pooh* (Chapter 2 — "In Which Pooh Goes Visiting and Gets Into a Tight Place", 1926) — public domain |
 | 2026-10-14 | Alfred and the Burnt Cakes | James Baldwin, *Fifty Famous Stories Retold* ("King Alfred and the Cakes", 1896) — public domain |
 | 2026-10-18 | Chiku the Monkey and the Jamun Tree | The Panchatantra ("The Monkey and the Crocodile", Book IV), attr. Vishnu Sharma, c. 3rd century CE — public domain |
-| 2026-10-20 | Jojo the Jackal and the Thumping Drum | The Panchatantra ("The Jackal and the War Drum", Book I), attr. Vishnu Sharma, c. 3rd century CE — public domain |
+| 2026-10-22 | Misu the Velvet Rabbit and the Nursery Magic | Margery Williams, *The Velveteen Rabbit* (1922), Project Gutenberg eBook #11757 — public domain |
 
 > Contributors: suggest new queue entries via pull request — include the source
 > URL and its license. See [CONTRIBUTING.md](../CONTRIBUTING.md).
