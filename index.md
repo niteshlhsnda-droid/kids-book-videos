@@ -6,12 +6,12 @@ title: The Big Bedtime Storybook
 <div class="hero">
   <span class="moon">🌙</span>
   <h1>The Big Bedtime Storybook</h1>
-  <p class="tagline">389 bedtime stories for ages 4–7 — 264 original tales plus 125 timeless classics.</p>
+  <p class="tagline">390 bedtime stories for ages 4–7 — 265 original tales plus 125 timeless classics.</p>
   <div class="search-wrap">
     <input id="story-search" type="search" placeholder="🔍 Search stories…" aria-label="search">
     <span class="mag">🔍</span>
   </div>
-  <p class="stats">📚 389 stories &nbsp;·&nbsp; 📕 free illustrated PDFs &nbsp;·&nbsp; 🌙 new stories daily<span id="result-count"></span></p>
+  <p class="stats">📚 390 stories &nbsp;·&nbsp; 📕 free illustrated PDFs &nbsp;·&nbsp; 🌙 new stories daily<span id="result-count"></span></p>
   <p style="margin-top:22px"><a class="btn btn-read" style="flex:none;padding:13px 34px" href="book/bedtime-storybook.html">📖 Read the whole book in one page</a></p>
 </div>
 
@@ -34,6 +34,19 @@ title: The Big Bedtime Storybook
   <h2>✨ New Bedtime Stories</h2>
   <p class="desc">Fresh tales, newest first — posted daily.</p>
   <div class="cards">
+<article class="story-card" data-search="misu the velvet rabbit and the nursery magic 2026-10-22-misu-the-velvet-rabbit-and-the-nursery-magic">
+  <a class="card-art" href="stories/2026-10-22-misu-the-velvet-rabbit-and-the-nursery-magic.html" aria-label="Misu the Velvet Rabbit and the Nursery Magic">
+    <span class="fallback" aria-hidden="true">🐰</span>
+    <img src="assets/thumbnails/2026-10-22-misu-the-velvet-rabbit-and-the-nursery-magic.jpg" alt="Misu the Velvet Rabbit and the Nursery Magic — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-10-22-misu-the-velvet-rabbit-and-the-nursery-magic.html">Misu the Velvet Rabbit and the Nursery Magic</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-10-22-misu-the-velvet-rabbit-and-the-nursery-magic.html">📖 Read</a>
+      <a class="btn btn-share" href="https://wa.me/?text=Misu%20the%20Velvet%20Rabbit%20and%20the%20Nursery%20Magic%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2F2026-10-22-misu-the-velvet-rabbit-and-the-nursery-magic.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
+    </div>
+  </div>
+</article>
 <article class="story-card" data-search="tink the kitten and the worry box 2026-10-21-tink-the-kitten-and-the-worry-box">
   <a class="card-art" href="stories/2026-10-21-tink-the-kitten-and-the-worry-box.html" aria-label="Tink the Kitten and the Worry Box">
     <span class="fallback" aria-hidden="true">🐱</span>
