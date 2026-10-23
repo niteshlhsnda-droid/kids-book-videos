@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Misu the Velvet Rabbit and the Nursery Magic](stories/2026-10-22-misu-the-velvet-rabbit-and-the-nursery-magic.md)** — A little velvet rabbit is loved until he is shabby, then forgotten in the toy box — until one real tear and a nursery fairy's kiss make him Real at last. *Sleep now, little Misu, real and loved, under the kind spring moon.*
+**[Pippa the Pangolin and the Lantern Walk](stories/2026-10-23-pippa-the-pangolin-and-the-lantern-walk.md)** — A shy little pangolin who always curls into a ball when anyone looks at her carries a lantern to the forest's Lantern Walk — and discovers what it feels like to be seen with kindness. *Sleep now, little Pippa.*
 
-🎬 [Watch the narrated video](videos/2026-10-22-misu-the-velvet-rabbit-and-the-nursery-magic.mp4) · 📜 [Narration script](narration-scripts/2026-10-22-misu-the-velvet-rabbit-and-the-nursery-magic-script.md) · 🎵 [Lullaby](assets/music/2026-10-22-misu-the-velvet-rabbit-and-the-nursery-magic.mp3)
+🎬 [Watch the narrated video](videos/2026-10-23-pippa-the-pangolin-and-the-lantern-walk.mp4) · 📜 [Narration script](narration-scripts/2026-10-23-pippa-the-pangolin-and-the-lantern-walk-script.md) · 🎵 [Lullaby](assets/music/2026-10-23-pippa-the-pangolin-and-the-lantern-walk.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-10-23 | [Pippa the Pangolin and the Lantern Walk](stories/2026-10-23-pippa-the-pangolin-and-the-lantern-walk.md) (original) | A shy little pangolin who always curls into a ball when anyone looks at her carries a lantern to the forest's Lantern Walk — and discovers what it feels like to be seen with kindness. |
 | 2026-10-22 | [Misu the Velvet Rabbit and the Nursery Magic](stories/2026-10-22-misu-the-velvet-rabbit-and-the-nursery-magic.md) (adapted — Margery Williams, *The Velveteen Rabbit*, 1922, public domain) | A little velvet rabbit is loved until he is shabby, then forgotten in the toy box — until one real tear and a nursery fairy's kiss make him Real at last. |
 | 2026-10-21 | [Tink the Kitten and the Worry Box](stories/2026-10-21-tink-the-kitten-and-the-worry-box.md) (original) | A little kitten keeps her worries in a heavy wooden box under her bed — until she discovers what happens when she shares them out loud. |
 | 2026-10-20 | [Jojo the Jackal and the Thumping Drum](stories/2026-10-20-jojo-the-jackal-and-the-thumping-drum.md) (adapted — The Panchatantra, "The Jackal and the War Drum", public domain) | A young jackal trembles at a mysterious thumping in the bushes — until he finds out what is really making the sound. |
