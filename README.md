@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Pippa the Pangolin and the Lantern Walk](stories/2026-10-23-pippa-the-pangolin-and-the-lantern-walk.md)** — A shy little pangolin who always curls into a ball when anyone looks at her carries a lantern to the forest's Lantern Walk — and discovers what it feels like to be seen with kindness. *Sleep now, little Pippa.*
+**[Zola and the Moon's Night Visit](stories/2026-10-24-zola-and-the-moons-night-visit.md)** — A shy little girl hums so softly her voice hides like a seed in a pod — until the silver moon herself comes down from the sky to hear it, and the whole lakeside village joins in her song. *Sleep now, little Zola.*
 
-🎬 [Watch the narrated video](videos/2026-10-23-pippa-the-pangolin-and-the-lantern-walk.mp4) · 📜 [Narration script](narration-scripts/2026-10-23-pippa-the-pangolin-and-the-lantern-walk-script.md) · 🎵 [Lullaby](assets/music/2026-10-23-pippa-the-pangolin-and-the-lantern-walk.mp3)
+🎬 [Watch the narrated video](videos/2026-10-24-zola-and-the-moons-night-visit.mp4) · 📜 [Narration script](narration-scripts/2026-10-24-zola-and-the-moons-night-visit-script.md) · 🎵 [Lullaby](assets/music/2026-10-24-zola-and-the-moons-night-visit.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-10-24 | [Zola and the Moon's Night Visit](stories/2026-10-24-zola-and-the-moons-night-visit.md) (adapted — Eric Ouma, "The Moon and the Villagers", African Storybook, CC BY 4.0) | A shy little girl's soft hum becomes the village's happiest song when the silver moon comes down from the sky to visit. |
 | 2026-10-23 | [Pippa the Pangolin and the Lantern Walk](stories/2026-10-23-pippa-the-pangolin-and-the-lantern-walk.md) (original) | A shy little pangolin who always curls into a ball when anyone looks at her carries a lantern to the forest's Lantern Walk — and discovers what it feels like to be seen with kindness. |
 | 2026-10-22 | [Misu the Velvet Rabbit and the Nursery Magic](stories/2026-10-22-misu-the-velvet-rabbit-and-the-nursery-magic.md) (adapted — Margery Williams, *The Velveteen Rabbit*, 1922, public domain) | A little velvet rabbit is loved until he is shabby, then forgotten in the toy box — until one real tear and a nursery fairy's kiss make him Real at last. |
 | 2026-10-21 | [Tink the Kitten and the Worry Box](stories/2026-10-21-tink-the-kitten-and-the-worry-box.md) (original) | A little kitten keeps her worries in a heavy wooden box under her bed — until she discovers what happens when she shares them out loud. |
