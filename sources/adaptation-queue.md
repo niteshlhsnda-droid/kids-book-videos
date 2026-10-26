@@ -59,6 +59,7 @@ badge on the book's own page before adapting.
 | 2026-10-14 | Alfred and the Burnt Cakes | James Baldwin, *Fifty Famous Stories Retold* ("King Alfred and the Cakes", 1896) — public domain |
 | 2026-10-18 | Chiku the Monkey and the Jamun Tree | The Panchatantra ("The Monkey and the Crocodile", Book IV), attr. Vishnu Sharma, c. 3rd century CE — public domain |
 | 2026-10-22 | Misu the Velvet Rabbit and the Nursery Magic | Margery Williams, *The Velveteen Rabbit* (1922), Project Gutenberg eBook #11757 — public domain |
+| 2026-10-26 | Sammy the Sloth and the Sleepy Branch | Paul Kennedy, *Sleepy Mr Sloth* (Book Dash, 2014) — CC BY 4.0 |
 | 2026-10-24 | Zola and the Moon's Night Visit | Eric Ouma, "The Moon and the Villagers" (African Storybook) — CC BY 4.0 |
 
 > Contributors: suggest new queue entries via pull request — include the source
