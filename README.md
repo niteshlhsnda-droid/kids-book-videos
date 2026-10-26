@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Barnaby the Beaver and the Half-Finished Dam](stories/2026-10-25-barnaby-the-beaver-and-the-half-finished-dam.md)** — A little beaver wants his dam finished before bedtime, but his sleepy paws, a dropped stick and a quiet river teach him that rest can wait for morning. *Sleep now, little Barnaby.*
+**[Sammy the Sloth and the Sleepy Branch](stories/2026-10-26-sammy-the-sloth-and-the-sleepy-branch.md)** — A sleepy little sloth tries branch after branch for a good night's rest — a giraffe's dinner branch, a noisy parrot branch, a splashy waterfall branch, a shaky elephant-path branch — until a tiny hummingbird leads him to a quiet branch of his own. *Sleep now, little Sammy.*
 
-🎬 [Watch the narrated video](videos/2026-10-25-barnaby-the-beaver-and-the-half-finished-dam.mp4) · 📜 [Narration script](narration-scripts/2026-10-25-barnaby-the-beaver-and-the-half-finished-dam-script.md) · 🎵 [Lullaby](assets/music/2026-10-25-barnaby-the-beaver-and-the-half-finished-dam.mp3)
+🎬 [Watch the narrated video](videos/2026-10-26-sammy-the-sloth-and-the-sleepy-branch.mp4) · 📜 [Narration script](narration-scripts/2026-10-26-sammy-the-sloth-and-the-sleepy-branch-script.md) · 🎵 [Lullaby](assets/music/2026-10-26-sammy-the-sloth-and-the-sleepy-branch.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-10-26 | [Sammy the Sloth and the Sleepy Branch](stories/2026-10-26-sammy-the-sloth-and-the-sleepy-branch.md) (adapted — Paul Kennedy, *Sleepy Mr Sloth*, Book Dash, 2014, CC BY 4.0) | A sleepy little sloth tries branch after branch for a good night's rest — until a tiny hummingbird leads him to a quiet branch of his own. |
 | 2026-10-25 | [Barnaby the Beaver and the Half-Finished Dam](stories/2026-10-25-barnaby-the-beaver-and-the-half-finished-dam.md) (original) | A little beaver wants his dam finished before bedtime — until his sleepy paws, a dropped stick and a quiet river show him that rest is part of finishing. |
 | 2026-10-24 | [Zola and the Moon's Night Visit](stories/2026-10-24-zola-and-the-moons-night-visit.md) (adapted — Eric Ouma, "The Moon and the Villagers", African Storybook, CC BY 4.0) | A shy little girl's soft hum becomes the village's happiest song when the silver moon comes down from the sky to visit. |
 | 2026-10-23 | [Pippa the Pangolin and the Lantern Walk](stories/2026-10-23-pippa-the-pangolin-and-the-lantern-walk.md) (original) | A shy little pangolin who always curls into a ball when anyone looks at her carries a lantern to the forest's Lantern Walk — and discovers what it feels like to be seen with kindness. |
