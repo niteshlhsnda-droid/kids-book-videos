@@ -61,6 +61,7 @@ badge on the book's own page before adapting.
 | 2026-10-22 | Misu the Velvet Rabbit and the Nursery Magic | Margery Williams, *The Velveteen Rabbit* (1922), Project Gutenberg eBook #11757 — public domain |
 | 2026-10-26 | Sammy the Sloth and the Sleepy Branch | Paul Kennedy, *Sleepy Mr Sloth* (Book Dash, 2014) — CC BY 4.0 |
 | 2026-10-24 | Zola and the Moon's Night Visit | Eric Ouma, "The Moon and the Villagers" (African Storybook) — CC BY 4.0 |
+| 2026-10-28 | The Little Grey Duckling and the Moonlit Lake | Hans Christian Andersen, "The Ugly Duckling" (1843), Project Gutenberg *Andersen's Fairy Tales* (eBook #1597) — public domain |
 
 > Contributors: suggest new queue entries via pull request — include the source
 > URL and its license. See [CONTRIBUTING.md](../CONTRIBUTING.md).
