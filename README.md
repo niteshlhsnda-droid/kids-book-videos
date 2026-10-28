@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Ollie the Otter and the Moonlit Pebbles](stories/2026-10-27-ollie-the-otter-and-the-moonlit-pebbles.md)** — A little otter tries to carry all his pebbles home at once — until a kind frog and a sleepy dragonfly help him gather them one by one into a glowing moonlit path. *Sleep now, little Ollie.*
+**[The Little Grey Duckling and the Moonlit Lake](stories/2026-10-28-the-little-grey-duckling-and-the-moonlit-lake.md)** — A big grey duckling who feels different slips away from the farmyard, braves a frozen winter alone, and follows the spring sun to a moonlit lake where the swans welcome him home. *Sleep now, little grey duckling.*
 
-🎬 [Watch the narrated video](videos/2026-10-27-ollie-the-otter-and-the-moonlit-pebbles.mp4) · 📜 [Narration script](narration-scripts/2026-10-27-ollie-the-otter-and-the-moonlit-pebbles-script.md) · 🎵 [Lullaby](assets/music/2026-10-27-ollie-the-otter-and-the-moonlit-pebbles.mp3)
+🎬 [Watch the narrated video](videos/2026-10-28-the-little-grey-duckling-and-the-moonlit-lake.mp4) · 📜 [Narration script](narration-scripts/2026-10-28-the-little-grey-duckling-and-the-moonlit-lake-script.md) · 🎵 [Lullaby](assets/music/2026-10-28-the-little-grey-duckling-and-the-moonlit-lake.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-10-28 | [The Little Grey Duckling and the Moonlit Lake](stories/2026-10-28-the-little-grey-duckling-and-the-moonlit-lake.md) (adapted — Hans Christian Andersen, "The Ugly Duckling", 1843, public domain) | A big grey duckling who feels different slips away from the farmyard, braves a frozen winter alone, and follows the spring sun to a moonlit lake where the swans welcome him home. |
 | 2026-10-27 | [Ollie the Otter and the Moonlit Pebbles](stories/2026-10-27-ollie-the-otter-and-the-moonlit-pebbles.md) (original) | A little otter tries to carry all his pebbles home at once — until a kind frog and a sleepy dragonfly help him gather them one by one into a glowing moonlit path. |
 | 2026-10-26 | [Sammy the Sloth and the Sleepy Branch](stories/2026-10-26-sammy-the-sloth-and-the-sleepy-branch.md) (adapted — Paul Kennedy, *Sleepy Mr Sloth*, Book Dash, 2014, CC BY 4.0) | A sleepy little sloth tries branch after branch for a good night's rest — until a tiny hummingbird leads him to a quiet branch of his own. |
 | 2026-10-25 | [Barnaby the Beaver and the Half-Finished Dam](stories/2026-10-25-barnaby-the-beaver-and-the-half-finished-dam.md) (original) | A little beaver wants his dam finished before bedtime — until his sleepy paws, a dropped stick and a quiet river show him that rest is part of finishing. |
