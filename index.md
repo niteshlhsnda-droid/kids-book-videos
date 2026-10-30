@@ -817,7 +817,19 @@ title: The Big Bedtime Storybook
     </div>
   </div>
 </article>
-<article class="story-card" data-search="anansi and the moss-covered rock classic-anansi-and-the-moss-covered-rock">
+<article class="story-card" data-search="amara the armadillo and the rolling star amara-the-armadillo-and-the-rolling-star">
+  <a class="card-art" href="stories/amara-the-armadillo-and-the-rolling-star.html" aria-label="Amara the Armadillo and the Rolling Star">
+    <span class="fallback" aria-hidden="true">⭐</span>
+    <img src="book/colorful-illustrations/amara-the-armadillo-and-the-rolling-star/scene-01-cover.webp" alt="Amara the Armadillo and the Rolling Star — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/amara-the-armadillo-and-the-rolling-star.html">Amara the Armadillo and the Rolling Star</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/amara-the-armadillo-and-the-rolling-star.html">📖 Read</a>
+      <a class="btn btn-share" href="https://wa.me/?text=Amara%20the%20Armadillo%20and%20the%20Rolling%20Star%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Famara-the-armadillo-and-the-rolling-star.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
+    </div>
+  </div>
+</article><article class="story-card" data-search="anansi and the moss-covered rock classic-anansi-and-the-moss-covered-rock">
   <a class="card-art" href="stories/classic-anansi-and-the-moss-covered-rock.html" aria-label="Anansi and the Moss-Covered Rock">
     <span class="fallback" aria-hidden="true">🌙</span>
     <img src="book/colorful-illustrations/classic-anansi-and-the-moss-covered-rock/scene-01-cover.webp" alt="Anansi and the Moss-Covered Rock — cover art" loading="lazy" onerror="this.style.display='none'">
@@ -1786,19 +1798,7 @@ title: The Big Bedtime Storybook
     </div>
   </div>
 </article>
-<article class="story-card" data-search="lena the capybara and the calm river lena-the-capybara-and-the-calm-river">
-  <a class="card-art" href="stories/lena-the-capybara-and-the-calm-river.html" aria-label="Lena the Capybara and the Calm River">
-    <span class="fallback" aria-hidden="true">🌊</span>
-    <img src="book/colorful-illustrations/lena-the-capybara-and-the-calm-river/scene-01-cover.webp" alt="Lena the Capybara and the Calm River — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/lena-the-capybara-and-the-calm-river.html">Lena the Capybara and the Calm River</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/lena-the-capybara-and-the-calm-river.html">📖 Read</a>
-      <a class="btn btn-share" href="https://wa.me/?text=Lena%20the%20Capybara%20and%20the%20Calm%20River%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Flena-the-capybara-and-the-calm-river.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
-    </div>
-  </div>
-</article><article class="story-card" data-search="leo tells the truth leo-tells-the-truth">
+<article class="story-card" data-search="leo tells the truth leo-tells-the-truth">
   <a class="card-art" href="stories/leo-tells-the-truth.html" aria-label="Leo Tells the Truth">
     <span class="fallback" aria-hidden="true">🌙</span>
     <img src="book/colorful-illustrations/leo-tells-the-truth/scene-01-cover.webp" alt="Leo Tells the Truth — cover art" loading="lazy" onerror="this.style.display='none'">
