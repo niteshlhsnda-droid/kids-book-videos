@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Clover the Chipmunk and the Quiet Leaf Blanket](stories/2026-10-31-clover-the-chipmunk-and-the-quiet-leaf-blanket.md)** — A little chipmunk gathers the softest autumn leaves for a warm winter blanket, quietly gives her best leaves to a shivering baby mouse, and finds her kindness returned. *Sleep now, little Clover.*
+**[Goldie and the Three Bears](stories/2026-11-01-goldie-and-the-three-bears.md)** — A little girl with golden curls wanders into the bears' cottage, tries their porridge, chairs and beds, and is welcomed back when she says sorry and asks first. *Sleep now, little Goldie.*
 
-🎬 [Watch the narrated video](videos/2026-10-31-clover-the-chipmunk-and-the-quiet-leaf-blanket.mp4) · 📜 [Narration script](narration-scripts/2026-10-31-clover-the-chipmunk-and-the-quiet-leaf-blanket-script.md) · 🎵 [Lullaby](assets/music/2026-10-31-clover-the-chipmunk-and-the-quiet-leaf-blanket.mp3)
+🎬 [Watch the narrated video](videos/2026-11-01-goldie-and-the-three-bears.mp4) · 📜 [Narration script](narration-scripts/2026-11-01-goldie-and-the-three-bears-script.md) · 🎵 [Lullaby](assets/music/2026-11-01-goldie-and-the-three-bears.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-11-01 | [Goldie and the Three Bears](stories/2026-11-01-goldie-and-the-three-bears.md) (adapted — Robert Southey, "The Story of the Three Bears", 1837, public domain) | A little girl with golden curls wanders into the bears' cottage, tries their porridge, chairs and beds, and is welcomed back when she says sorry and asks first. |
 | 2026-10-31 | [Clover the Chipmunk and the Quiet Leaf Blanket](stories/2026-10-31-clover-the-chipmunk-and-the-quiet-leaf-blanket.md) (original) | A little chipmunk gathers the softest autumn leaves for a warm winter blanket, quietly gives her best leaves to a shivering baby mouse, and finds her kindness returned. |
 | 2026-10-30 | [Dusty the Donkey and the Bremen Band](stories/2026-10-30-dusty-the-donkey-and-the-bremen-band.md) (adapted — Jacob and Wilhelm Grimm, "The Town Musicians of Bremen", 1819, public domain) | An old donkey who loves music gathers a dog, a cat and a rooster on the road to Bremen, and the four friends' joyful song finds them a home. |
 | 2026-10-29 | [Eli the Little Elephant and the Sleepy River](stories/2026-10-29-eli-the-little-elephant-and-the-sleepy-river.md) (original) | A little elephant who worries he is too big and clumsy carries his friends' picnic baskets across a slippery river, one slow, careful step at a time. |
