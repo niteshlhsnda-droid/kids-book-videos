@@ -1093,19 +1093,6 @@ title: The Big Bedtime Storybook
     </div>
   </div>
 </article>
-<article class="story-card" data-search="birbal and the talking tree classic-birbal-and-the-talking-tree">
-  <a class="card-art" href="stories/classic-birbal-and-the-talking-tree.html" aria-label="Birbal and the Talking Tree">
-    <span class="fallback" aria-hidden="true">🌳</span>
-    <img src="book/colorful-illustrations/classic-birbal-and-the-talking-tree/scene-01-cover.webp" alt="Birbal and the Talking Tree — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/classic-birbal-and-the-talking-tree.html">Birbal and the Talking Tree</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/classic-birbal-and-the-talking-tree.html">📖 Read</a>
-      <a class="btn btn-share" href="https://wa.me/?text=Birbal%20and%20the%20Talking%20Tree%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-birbal-and-the-talking-tree.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
-    </div>
-  </div>
-</article>
 <article class="story-card" data-search="birbal and the two brothers classic-birbal-and-the-two-brothers">
   <a class="card-art" href="stories/classic-birbal-and-the-two-brothers.html" aria-label="Birbal and the Two Brothers">
     <span class="fallback" aria-hidden="true">🌙</span>
@@ -1346,6 +1333,19 @@ title: The Big Bedtime Storybook
     <div class="card-actions">
       <a class="btn btn-read" href="stories/chloe-the-chameleon-and-the-calm-colours.html">📖 Read</a>
       <a class="btn btn-share" href="https://wa.me/?text=Chloe%20the%20Chameleon%20and%20the%20Calm%20Colours%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fchloe-the-chameleon-and-the-calm-colours.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
+    </div>
+  </div>
+</article>
+<article class="story-card" data-search="classic birbal and the talking tree classic-birbal-and-the-talking-tree">
+  <a class="card-art" href="stories/classic-birbal-and-the-talking-tree.html" aria-label="Classic Birbal And The Talking Tree">
+    <span class="fallback" aria-hidden="true">🌳</span>
+    <img src="book/colorful-illustrations/classic-birbal-and-the-talking-tree/scene-01-cover.webp" alt="Classic Birbal And The Talking Tree — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/classic-birbal-and-the-talking-tree.html">Classic Birbal And The Talking Tree</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/classic-birbal-and-the-talking-tree.html">📖 Read</a>
+      <a class="btn btn-share" href="https://wa.me/?text=Classic%20Birbal%20And%20The%20Talking%20Tree%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-birbal-and-the-talking-tree.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
     </div>
   </div>
 </article>
