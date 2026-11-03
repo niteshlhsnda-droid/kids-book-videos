@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Noor and the Waiting Garden](stories/2026-11-02-noor-and-the-waiting-garden.md)** — A little girl plants a sunflower seed, tends it with water and songs through the quiet waiting days instead of digging it up, and watches it grow tall and golden. *Sleep now, little Noor.*
+**[Teju and the Friendly Shadow](stories/2026-11-03-teju-and-the-friendly-shadow.md)** — A little boy thinks a "super secret spy" is following him everywhere, until Mama shows him it is his very own shadow — and a golden night light turns the dark friendly. *Sleep now, little Teju.*
 
-🎬 [Watch the narrated video](videos/2026-11-02-noor-and-the-waiting-garden.mp4) · 📜 [Narration script](narration-scripts/2026-11-02-noor-and-the-waiting-garden-script.md) · 🎵 [Lullaby](assets/music/2026-11-02-noor-and-the-waiting-garden.mp3)
+🎬 [Watch the narrated video](videos/2026-11-03-teju-and-the-friendly-shadow.mp4) · 📜 [Narration script](narration-scripts/2026-11-03-teju-and-the-friendly-shadow-script.md) · 🎵 [Lullaby](assets/music/2026-11-03-teju-and-the-friendly-shadow.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-11-03 | [Teju and the Friendly Shadow](stories/2026-11-03-teju-and-the-friendly-shadow.md) (adapted — Sope Martins, "Teju's Shadow", Book Dash, CC BY 4.0) | A little boy thinks a "super secret spy" is following him, until Mama shows him it is his very own shadow — and a golden night light turns the dark friendly. |
 | 2026-11-02 | [Noor and the Waiting Garden](stories/2026-11-02-noor-and-the-waiting-garden.md) (original) | A little girl plants a sunflower seed, tends it with water and songs through the quiet waiting days instead of digging it up, and watches it grow tall and golden. |
 | 2026-11-01 | [Goldie and the Three Bears](stories/2026-11-01-goldie-and-the-three-bears.md) (adapted — Robert Southey, "The Story of the Three Bears", 1837, public domain) | A little girl with golden curls wanders into the bears' cottage, tries their porridge, chairs and beds, and is welcomed back when she says sorry and asks first. |
 | 2026-10-31 | [Clover the Chipmunk and the Quiet Leaf Blanket](stories/2026-10-31-clover-the-chipmunk-and-the-quiet-leaf-blanket.md) (original) | A little chipmunk gathers the softest autumn leaves for a warm winter blanket, quietly gives her best leaves to a shivering baby mouse, and finds her kindness returned. |
