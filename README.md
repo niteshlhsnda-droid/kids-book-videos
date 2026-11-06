@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Thumbelina and the Swallow's Song](stories/2026-11-05-thumbelina-and-the-swallows-song.md)** — A tiny girl born from a tulip drifts down a pond, winters with a kind field mouse, nurses a hurt swallow in secret, and flies with him to a land of white flowers. *Sleep now, little Thumbelina.*
+**[Lulu the Ladybug and the Dewdrop Moon](stories/2026-11-06-lulu-the-ladybug-and-the-dewdrop-moon.md)** — A little ladybug finds a tiny moon shining inside a dewdrop, and discovers that sharing the light makes it glow brighter for everyone. *Sleep now, little Lulu.*
 
-🎬 [Watch the narrated video](videos/2026-11-05-thumbelina-and-the-swallows-song.mp4) · 📜 [Narration script](narration-scripts/2026-11-05-thumbelina-and-the-swallows-song-script.md) · 🎵 [Lullaby](assets/music/2026-11-05-thumbelina-and-the-swallows-song.mp3)
+🎬 [Watch the narrated video](videos/2026-11-06-lulu-the-ladybug-and-the-dewdrop-moon.mp4) · 📜 [Narration script](narration-scripts/2026-11-06-lulu-the-ladybug-and-the-dewdrop-moon-script.md) · 🎵 [Lullaby](assets/music/2026-11-06-lulu-the-ladybug-and-the-dewdrop-moon.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-11-06 | [Lulu the Ladybug and the Dewdrop Moon](stories/2026-11-06-lulu-the-ladybug-and-the-dewdrop-moon.md) (original) | A little ladybug finds a tiny moon shining inside a dewdrop — and discovers that sharing the light makes it glow brighter for everyone. |
 | 2026-11-05 | [Thumbelina and the Swallow's Song](stories/2026-11-05-thumbelina-and-the-swallows-song.md) (adapted — Hans Christian Andersen, "Thumbelina", 1835, public domain) | A tiny girl born from a tulip drifts down a pond, winters with a kind field mouse, nurses a hurt swallow in secret, and flies with him to a land of white flowers. |
 | 2026-11-04 | [Sana the Snail and the Starlight Trail](stories/2026-11-04-sana-the-snail-and-the-starlight-trail.md) (original) | A tiny snail sets off slowly for the Pond Party — and her slow, careful way helps a tangled firefly and lights her friends home across a dark crossing. |
 | 2026-11-03 | [Teju and the Friendly Shadow](stories/2026-11-03-teju-and-the-friendly-shadow.md) (adapted — Sope Martins, "Teju's Shadow", Book Dash, CC BY 4.0) | A little boy thinks a "super secret spy" is following him, until Mama shows him it is his very own shadow — and a golden night light turns the dark friendly. |
