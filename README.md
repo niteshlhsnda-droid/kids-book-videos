@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Lulu the Ladybug and the Dewdrop Moon](stories/2026-11-06-lulu-the-ladybug-and-the-dewdrop-moon.md)** — A little ladybug finds a tiny moon shining inside a dewdrop, and discovers that sharing the light makes it glow brighter for everyone. *Sleep now, little Lulu.*
+**[Princess Amara and the Little Pea](stories/2026-11-07-princess-amara-and-the-little-pea.md)** — On a wild, stormy night a princess knocks at the castle door, and one tiny green pea hidden under twenty mattresses tells the queen the truth about her. *Sleep now, little Amara.*
 
-🎬 [Watch the narrated video](videos/2026-11-06-lulu-the-ladybug-and-the-dewdrop-moon.mp4) · 📜 [Narration script](narration-scripts/2026-11-06-lulu-the-ladybug-and-the-dewdrop-moon-script.md) · 🎵 [Lullaby](assets/music/2026-11-06-lulu-the-ladybug-and-the-dewdrop-moon.mp3)
+🎬 [Watch the narrated video](videos/2026-11-07-princess-amara-and-the-little-pea.mp4) · 📜 [Narration script](narration-scripts/2026-11-07-princess-amara-and-the-little-pea-script.md) · 🎵 [Lullaby](assets/music/2026-11-07-princess-amara-and-the-little-pea.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-11-07 | [Princess Amara and the Little Pea](stories/2026-11-07-princess-amara-and-the-little-pea.md) (adapted — Hans Christian Andersen, "The Princess and the Pea", 1835, public domain) | On a wild, stormy night a princess knocks at the castle door — and one tiny green pea hidden under twenty mattresses tells the queen the truth about her. |
 | 2026-11-06 | [Lulu the Ladybug and the Dewdrop Moon](stories/2026-11-06-lulu-the-ladybug-and-the-dewdrop-moon.md) (original) | A little ladybug finds a tiny moon shining inside a dewdrop — and discovers that sharing the light makes it glow brighter for everyone. |
 | 2026-11-05 | [Thumbelina and the Swallow's Song](stories/2026-11-05-thumbelina-and-the-swallows-song.md) (adapted — Hans Christian Andersen, "Thumbelina", 1835, public domain) | A tiny girl born from a tulip drifts down a pond, winters with a kind field mouse, nurses a hurt swallow in secret, and flies with him to a land of white flowers. |
 | 2026-11-04 | [Sana the Snail and the Starlight Trail](stories/2026-11-04-sana-the-snail-and-the-starlight-trail.md) (original) | A tiny snail sets off slowly for the Pond Party — and her slow, careful way helps a tangled firefly and lights her friends home across a dark crossing. |
