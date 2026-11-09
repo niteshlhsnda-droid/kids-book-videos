@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Gigi the Giraffe and the Starlit Waterhole](stories/2026-11-08-gigi-the-giraffe-and-the-starlit-waterhole.md)** — A young giraffe who is too short to reach the stars discovers the whole night sky shining in the waterhole below. *Sleep now, little Gigi.*
+**[Nina the Nightingale and the Emperor's Song](stories/2026-11-09-nina-the-nightingale-and-the-emperors-song.md)** — A little brown nightingale sings for a lonely Emperor — until a glittering golden bird takes her place, and only her true song can bring him peaceful sleep. *Sleep now, little Nina.*
 
-🎬 [Watch the narrated video](videos/2026-11-08-gigi-the-giraffe-and-the-starlit-waterhole.mp4) · 📜 [Narration script](narration-scripts/2026-11-08-gigi-the-giraffe-and-the-starlit-waterhole-script.md) · 🎵 [Lullaby](assets/music/2026-11-08-gigi-the-giraffe-and-the-starlit-waterhole.mp3)
+🎬 [Watch the narrated video](videos/2026-11-09-nina-the-nightingale-and-the-emperors-song.mp4) · 📜 [Narration script](narration-scripts/2026-11-09-nina-the-nightingale-and-the-emperors-song-script.md) · 🎵 [Lullaby](assets/music/2026-11-09-nina-the-nightingale-and-the-emperors-song.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-11-09 | [Nina the Nightingale and the Emperor's Song](stories/2026-11-09-nina-the-nightingale-and-the-emperors-song.md) (adapted — Hans Christian Andersen, "The Nightingale", 1843, public domain) | A little brown nightingale sings for a lonely Emperor — until a glittering golden bird takes her place, and only her true song can bring him peaceful sleep. |
 | 2026-11-08 | [Gigi the Giraffe and the Starlit Waterhole](stories/2026-11-08-gigi-the-giraffe-and-the-starlit-waterhole.md) (original) | A young giraffe who is too short to reach the stars discovers the whole night sky shining in the waterhole below. |
 | 2026-11-07 | [Princess Amara and the Little Pea](stories/2026-11-07-princess-amara-and-the-little-pea.md) (adapted — Hans Christian Andersen, "The Princess and the Pea", 1835, public domain) | On a wild, stormy night a princess knocks at the castle door — and one tiny green pea hidden under twenty mattresses tells the queen the truth about her. |
 | 2026-11-06 | [Lulu the Ladybug and the Dewdrop Moon](stories/2026-11-06-lulu-the-ladybug-and-the-dewdrop-moon.md) (original) | A little ladybug finds a tiny moon shining inside a dewdrop — and discovers that sharing the light makes it glow brighter for everyone. |
