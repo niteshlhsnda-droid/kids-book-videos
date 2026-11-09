@@ -2118,7 +2118,7 @@ title: The Big Bedtime Storybook
 </article>
 <article class="story-card" data-search="mimi the mouse and the moonlight picnic mimi-the-mouse-and-the-moonlight-picnic">
   <a class="card-art" href="stories/mimi-the-mouse-and-the-moonlight-picnic.html" aria-label="Mimi the Mouse and the Moonlight Picnic">
-    <span class="fallback" aria-hidden="true">🌙</span>
+    <span class="fallback" aria-hidden="true">🐭</span>
     <img src="book/colorful-illustrations/mimi-the-mouse-and-the-moonlight-picnic/scene-01-cover.webp" alt="Mimi the Mouse and the Moonlight Picnic — cover art" loading="lazy" onerror="this.style.display='none'">
   </a>
   <div class="card-body">
@@ -4965,7 +4965,7 @@ title: The Big Bedtime Storybook
 </article>
 <article class="story-card" data-search="theo the turtle and the tiny garden theo-the-turtle-and-the-tiny-garden">
   <a class="card-art" href="stories/theo-the-turtle-and-the-tiny-garden.html" aria-label="Theo the Turtle and the Tiny Garden">
-    <span class="fallback" aria-hidden="true">🌸</span>
+    <span class="fallback" aria-hidden="true">🐢</span>
     <img src="book/colorful-illustrations/theo-the-turtle-and-the-tiny-garden/scene-01-cover.webp" alt="Theo the Turtle and the Tiny Garden — cover art" loading="lazy" onerror="this.style.display='none'">
   </a>
   <div class="card-body">
@@ -5543,7 +5543,7 @@ title: The Big Bedtime Storybook
 </article>
 <article class="story-card" data-search="tenali rama and the elephant classic-tenali-rama-and-the-elephant">
   <a class="card-art" href="stories/classic-tenali-rama-and-the-elephant.html" aria-label="Tenali Rama and the Elephant">
-    <span class="fallback" aria-hidden="true">🐜</span>
+    <span class="fallback" aria-hidden="true">🐘</span>
     <img src="book/colorful-illustrations/classic-tenali-rama-and-the-elephant/scene-01-cover.webp" alt="Tenali Rama and the Elephant — cover art" loading="lazy" onerror="this.style.display='none'">
   </a>
   <div class="card-body">
