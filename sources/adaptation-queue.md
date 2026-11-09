@@ -64,8 +64,10 @@ badge on the book's own page before adapting.
 | 2026-10-28 | The Little Grey Duckling and the Moonlit Lake | Hans Christian Andersen, "The Ugly Duckling" (1843), Project Gutenberg *Andersen's Fairy Tales* (eBook #1597) — public domain |
 | 2026-10-30 | Dusty the Donkey and the Bremen Band | Jacob and Wilhelm Grimm, "The Town Musicians of Bremen" (1819), Project Gutenberg *Grimms' Fairy Tales* (eBook #2591) — public domain |
 | 2026-11-01 | Goldie and the Three Bears | Robert Southey, "The Story of the Three Bears" (1837), Wikisource — public domain |
+| 2026-11-03 | Teju and the Friendly Shadow | Sope Martins, "Teju's Shadow" (Book Dash, 2019) — CC BY 4.0 |
 | 2026-11-05 | Thumbelina and the Swallow's Song | Hans Christian Andersen, "Thumbelina" (1835), Project Gutenberg *Andersen's Fairy Tales* (eBook #1597) — public domain |
 | 2026-11-07 | Princess Amara and the Little Pea | Hans Christian Andersen, "The Princess and the Pea" (1835), Project Gutenberg *Andersen's Fairy Tales* (eBook #1597) — public domain |
+| 2026-11-09 | Nina the Nightingale and the Emperor's Song | Hans Christian Andersen, "The Nightingale" (1843), Project Gutenberg *Andersen's Fairy Tales* (eBook #1597) — public domain |
 
 > Contributors: suggest new queue entries via pull request — include the source
 > URL and its license. See [CONTRIBUTING.md](../CONTRIBUTING.md).
