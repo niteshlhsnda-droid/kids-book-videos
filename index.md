@@ -6,12 +6,12 @@ title: The Big Bedtime Storybook
 <div class="hero">
   <span class="moon">🌙</span>
   <h1>The Big Bedtime Storybook</h1>
-  <p class="tagline">599 bedtime stories for ages 4–7 — 449 original tales plus 150 timeless classics.</p>
+  <p class="tagline">600 bedtime stories for ages 4–7 — 449 original tales plus 151 timeless classics.</p>
   <div class="search-wrap">
     <input id="story-search" type="search" placeholder="🔍 Search stories…" aria-label="search">
     <span class="mag">🔍</span>
   </div>
-  <p class="stats">📚 599 stories &nbsp;·&nbsp; 📕 free illustrated PDFs &nbsp;·&nbsp; 🌙 new stories daily<span id="result-count"></span></p>
+  <p class="stats">📚 600 stories &nbsp;·&nbsp; 📕 free illustrated PDFs &nbsp;·&nbsp; 🌙 new stories daily<span id="result-count"></span></p>
   <p style="margin-top:22px"><a class="btn btn-read" style="flex:none;padding:13px 34px" href="book/bedtime-storybook.html">📖 Read the whole book in one page</a></p>
 </div>
 
@@ -6907,6 +6907,19 @@ title: The Big Bedtime Storybook
     <div class="card-actions">
       <a class="btn btn-read" href="stories/classic-teremok-the-little-house.html">📖 Read</a>
       <a class="btn btn-share" href="https://wa.me/?text=Teremok%3A%20The%20Little%20House%20in%20the%20Woods%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-teremok-the-little-house.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
+    </div>
+  </div>
+</article>
+<article class="story-card" data-search="the ant and the chrysalis classic-the-ant-and-the-chrysalis">
+  <a class="card-art" href="stories/classic-the-ant-and-the-chrysalis.html" aria-label="The Ant and the Chrysalis">
+    <span class="fallback" aria-hidden="true">🐜</span>
+    <img src="book/colorful-illustrations/classic-the-ant-and-the-chrysalis/scene-01-cover.webp" alt="The Ant and the Chrysalis — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/classic-the-ant-and-the-chrysalis.html">The Ant and the Chrysalis</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/classic-the-ant-and-the-chrysalis.html">📖 Read</a>
+      <a class="btn btn-share" href="https://wa.me/?text=The%20Ant%20and%20the%20Chrysalis%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-the-ant-and-the-chrysalis.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
     </div>
   </div>
 </article>
