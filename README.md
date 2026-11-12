@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Gerda and the Snow Queen](stories/2026-11-11-gerda-and-the-snow-queen.md)** — When Kai is carried away to a palace of ice, his best friend Gerda sets out through snow and forest to find him — and her warm hug melts the cold away. *Sleep now, little Gerda.*
+**[Koda the Capybara and the River of Lights](stories/2026-11-12-koda-the-capybara-and-the-river-of-lights.md)** — When a little duckling loses her mama on the dark river, Koda the capybara shares his lantern light — and the fireflies show them both the way home. *Sleep now, little Koda.*
 
-🎬 [Watch the narrated video](videos/2026-11-11-gerda-and-the-snow-queen.mp4) · 📜 [Narration script](narration-scripts/2026-11-11-gerda-and-the-snow-queen-script.md) · 🎵 [Lullaby](assets/music/2026-11-11-gerda-and-the-snow-queen.mp3)
+🎬 [Watch the narrated video](videos/2026-11-12-koda-the-capybara-and-the-river-of-lights.mp4) · 📜 [Narration script](narration-scripts/2026-11-12-koda-the-capybara-and-the-river-of-lights-script.md) · 🎵 [Lullaby](assets/music/2026-11-12-koda-the-capybara-and-the-river-of-lights.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-11-12 | [Koda the Capybara and the River of Lights](stories/2026-11-12-koda-the-capybara-and-the-river-of-lights.md) (original) | When a little duckling loses her mama on the dark river, Koda the capybara shares his lantern light — and the fireflies show them both the way home. |
 | 2026-11-11 | [Gerda and the Snow Queen](stories/2026-11-11-gerda-and-the-snow-queen.md) (adapted — Hans Christian Andersen, "The Snow Queen", 1844, public domain) | When Kai is carried away to a palace of ice, his best friend Gerda sets out through snow and forest to find him — and her warm hug melts the cold away. |
 | 2026-11-10 | [Wisp the Little Cloud and the Thirsty Garden](stories/2026-11-10-wisp-the-little-cloud-and-the-thirsty-garden.md) (original) | A small cloud named Wisp is afraid to let his rain fall — until a thirsty garden shows him that a gentle drizzle is exactly enough. |
 | 2026-11-09 | [Nina the Nightingale and the Emperor's Song](stories/2026-11-09-nina-the-nightingale-and-the-emperors-song.md) (adapted — Hans Christian Andersen, "The Nightingale", 1843, public domain) | A little brown nightingale sings for a lonely Emperor — until a glittering golden bird takes her place, and only her true song can bring him peaceful sleep. |
