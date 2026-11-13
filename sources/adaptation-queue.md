@@ -69,6 +69,7 @@ badge on the book's own page before adapting.
 | 2026-11-07 | Princess Amara and the Little Pea | Hans Christian Andersen, "The Princess and the Pea" (1835), Project Gutenberg *Andersen's Fairy Tales* (eBook #1597) — public domain |
 | 2026-11-09 | Nina the Nightingale and the Emperor's Song | Hans Christian Andersen, "The Nightingale" (1843), Project Gutenberg *Andersen's Fairy Tales* (eBook #1597) — public domain |
 | 2026-11-11 | Gerda and the Snow Queen | Hans Christian Andersen, "The Snow Queen" (1844), Project Gutenberg *Andersen's Fairy Tales* (eBook #1597) — public domain |
+| 2026-11-13 | Mole and Ratty and the River Picnic | Kenneth Grahame, *The Wind in the Willows* (Chapter 1, "The River Bank", 1908), Project Gutenberg eBook #289 — public domain |
 
 > Contributors: suggest new queue entries via pull request — include the source
 > URL and its license. See [CONTRIBUTING.md](../CONTRIBUTING.md).
