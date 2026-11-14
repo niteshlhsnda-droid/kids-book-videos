@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Mole and Ratty and the River Picnic](stories/2026-11-13-mole-and-ratty-and-the-river-picnic.md)** — When Mole pops up out of the ground on a spring morning, Ratty the Water Rat shows him the river — and a wobbly first row ends in a picnic and a brand-new friend. *Sleep now, little Mole.*
+**[Polo the Little Penguin and the First Swim](stories/2026-11-14-polo-the-little-penguin-and-the-first-swim.md)** — A little penguin chick who has never been swimming takes one small hop at the water's edge — and discovers the deep blue sea is full of twinkles, friends, and a song of his own. *Sleep now, little Polo.*
 
-🎬 [Watch the narrated video](videos/2026-11-13-mole-and-ratty-and-the-river-picnic.mp4) · 📜 [Narration script](narration-scripts/2026-11-13-mole-and-ratty-and-the-river-picnic-script.md) · 🎵 [Lullaby](assets/music/2026-11-13-mole-and-ratty-and-the-river-picnic.mp3)
+🎬 [Watch the narrated video](videos/2026-11-14-polo-the-little-penguin-and-the-first-swim.mp4) · 📜 [Narration script](narration-scripts/2026-11-14-polo-the-little-penguin-and-the-first-swim-script.md) · 🎵 [Lullaby](assets/music/2026-11-14-polo-the-little-penguin-and-the-first-swim.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-11-14 | [Polo the Little Penguin and the First Swim](stories/2026-11-14-polo-the-little-penguin-and-the-first-swim.md) (original) | A little penguin chick who has never been swimming takes one small hop at the water's edge — and discovers the deep blue sea is full of twinkles, friends, and a song of his own. |
 | 2026-11-13 | [Mole and Ratty and the River Picnic](stories/2026-11-13-mole-and-ratty-and-the-river-picnic.md) (adapted — Kenneth Grahame, "The Wind in the Willows", 1908, public domain) | When Mole pops up out of the ground on a spring morning, Ratty the Water Rat shows him the river — and a wobbly first row ends in a picnic and a brand-new friend. |
 | 2026-11-12 | [Koda the Capybara and the River of Lights](stories/2026-11-12-koda-the-capybara-and-the-river-of-lights.md) (original) | When a little duckling loses her mama on the dark river, Koda the capybara shares his lantern light — and the fireflies show them both the way home. |
 | 2026-11-11 | [Gerda and the Snow Queen](stories/2026-11-11-gerda-and-the-snow-queen.md) (adapted — Hans Christian Andersen, "The Snow Queen", 1844, public domain) | When Kai is carried away to a palace of ice, his best friend Gerda sets out through snow and forest to find him — and her warm hug melts the cold away. |
