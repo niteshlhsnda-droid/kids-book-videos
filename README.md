@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[The Three Little Pigs and the Brick House](stories/2026-11-15-the-three-little-pigs-and-the-brick-house.md)** — Three little pigs build houses of straw, sticks and brick — and when a grey wolf comes huffing and puffing, only the house built brick by brick stands strong. *Sleep now, little Plum.*
+**[Nori the Little Seahorse and the Gentle Current](stories/2026-11-16-nori-the-little-seahorse-and-the-gentle-current.md)** — A little seahorse who is the slowest swimmer in the sea is swept away by a strong current — and discovers that drifting gently and holding on tight can bring a lost little clownfish home. *Sleep now, little Nori.*
 
-🎬 [Watch the narrated video](videos/2026-11-15-the-three-little-pigs-and-the-brick-house.mp4) · 📜 [Narration script](narration-scripts/2026-11-15-the-three-little-pigs-and-the-brick-house-script.md) · 🎵 [Lullaby](assets/music/2026-11-15-the-three-little-pigs-and-the-brick-house.mp3)
+🎬 [Watch the narrated video](videos/2026-11-16-nori-the-little-seahorse-and-the-gentle-current.mp4) · 📜 [Narration script](narration-scripts/2026-11-16-nori-the-little-seahorse-and-the-gentle-current-script.md) · 🎵 [Lullaby](assets/music/2026-11-16-nori-the-little-seahorse-and-the-gentle-current.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-11-16 | [Nori the Little Seahorse and the Gentle Current](stories/2026-11-16-nori-the-little-seahorse-and-the-gentle-current.md) (original) | A little seahorse who is the slowest swimmer in the sea is swept away by a strong current — and discovers that drifting gently and holding on tight can bring a lost little clownfish home. |
 | 2026-11-15 | [The Three Little Pigs and the Brick House](stories/2026-11-15-the-three-little-pigs-and-the-brick-house.md) (adapted — Joseph Jacobs, "The Story of the Three Little Pigs", English Fairy Tales, 1890, public domain) | Three little pigs build houses of straw, sticks and brick — and when a grey wolf comes huffing and puffing, only the house built brick by brick stands strong. |
 | 2026-11-14 | [Polo the Little Penguin and the First Swim](stories/2026-11-14-polo-the-little-penguin-and-the-first-swim.md) (original) | A little penguin chick who has never been swimming takes one small hop at the water's edge — and discovers the deep blue sea is full of twinkles, friends, and a song of his own. |
 | 2026-11-13 | [Mole and Ratty and the River Picnic](stories/2026-11-13-mole-and-ratty-and-the-river-picnic.md) (adapted — Kenneth Grahame, "The Wind in the Willows", 1908, public domain) | When Mole pops up out of the ground on a spring morning, Ratty the Water Rat shows him the river — and a wobbly first row ends in a picnic and a brand-new friend. |
