@@ -2730,19 +2730,6 @@ title: The Big Bedtime Storybook
     </div>
   </div>
 </article>
-<article class="story-card" data-search="momotaro, the peach boy classic-momotaro">
-  <a class="card-art" href="stories/classic-momotaro.html" aria-label="Momotaro, the Peach Boy">
-    <span class="fallback" aria-hidden="true">🌙</span>
-    <img src="book/colorful-illustrations/classic-momotaro/scene-01-cover.webp" alt="Momotaro, the Peach Boy — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/classic-momotaro.html">Momotaro, the Peach Boy</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/classic-momotaro.html">📖 Read</a>
-      <a class="btn btn-share" href="https://wa.me/?text=Momotaro%2C%20the%20Peach%20Boy%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-momotaro.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
-    </div>
-  </div>
-</article>
 <article class="story-card" data-search="momotaro, the peach boy classic-momotaro-the-peach-boy">
   <a class="card-art" href="stories/classic-momotaro-the-peach-boy.html" aria-label="Momotaro, the Peach Boy">
     <span class="fallback" aria-hidden="true">🌙</span>
@@ -2753,6 +2740,19 @@ title: The Big Bedtime Storybook
     <div class="card-actions">
       <a class="btn btn-read" href="stories/classic-momotaro-the-peach-boy.html">📖 Read</a>
       <a class="btn btn-share" href="https://wa.me/?text=Momotaro%2C%20the%20Peach%20Boy%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-momotaro-the-peach-boy.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
+    </div>
+  </div>
+</article>
+<article class="story-card" data-search="momotaro, the peach boy classic-momotaro">
+  <a class="card-art" href="stories/classic-momotaro.html" aria-label="Momotaro, the Peach Boy">
+    <span class="fallback" aria-hidden="true">🌙</span>
+    <img src="book/colorful-illustrations/classic-momotaro/scene-01-cover.webp" alt="Momotaro, the Peach Boy — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/classic-momotaro.html">Momotaro, the Peach Boy</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/classic-momotaro.html">📖 Read</a>
+      <a class="btn btn-share" href="https://wa.me/?text=Momotaro%2C%20the%20Peach%20Boy%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-momotaro.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
     </div>
   </div>
 </article>
