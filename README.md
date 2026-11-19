@@ -12,11 +12,11 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Cora the Little Crab and the Gentle Wave](stories/2026-11-18-cora-the-little-crab-and-the-gentle-wave.md)** — A tiny crab who is afraid of the big waves finds a stranded starfish on the sand — and the gentle wave carries them both home. *Sleep now, little Cora.*
+**[Dorothy and the Scarecrow in the Cornfield](stories/2026-11-19-dorothy-and-the-scarecrow-in-the-cornfield.md)** — A girl named Dorothy walks the yellow brick road and meets a scarecrow stuck on a pole — and when the road splits in two, his straw head finds the way. *Sleep now, little Dorothy.*
+
+🎬 [Watch the narrated video](videos/2026-11-19-dorothy-and-the-scarecrow-in-the-cornfield.mp4) · 📜 [Narration script](narration-scripts/2026-11-19-dorothy-and-the-scarecrow-in-the-cornfield-script.md) · 🎵 [Lullaby](assets/music/2026-11-19-dorothy-and-the-scarecrow-in-the-cornfield.mp3)
 
 🎬 [Watch the narrated video](videos/2026-11-18-cora-the-little-crab-and-the-gentle-wave.mp4) · 📜 [Narration script](narration-scripts/2026-11-18-cora-the-little-crab-and-the-gentle-wave-script.md) · 🎵 [Lullaby](assets/music/2026-11-18-cora-the-little-crab-and-the-gentle-wave.mp3)
-
-🎬 [Watch the narrated video](videos/2026-11-17-the-emperors-new-clothes.mp4) · 📜 [Narration script](narration-scripts/2026-11-17-the-emperors-new-clothes-script.md) · 🎵 [Lullaby](assets/music/2026-11-17-the-emperors-new-clothes.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -24,6 +24,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-11-19 | [Dorothy and the Scarecrow in the Cornfield](stories/2026-11-19-dorothy-and-the-scarecrow-in-the-cornfield.md) (adapted — L. Frank Baum, "The Wonderful Wizard of Oz", 1900, public domain) | A girl named Dorothy walks the yellow brick road and meets a scarecrow stuck on a pole — and when the road splits in two, his straw head finds the way. |
 | 2026-11-18 | [Cora the Little Crab and the Gentle Wave](stories/2026-11-18-cora-the-little-crab-and-the-gentle-wave.md) (original) | A tiny crab who is afraid of the big waves finds a stranded starfish on the sand — and the gentle wave carries them both home. |
 | 2026-11-17 | [The Emperor's New Clothes](stories/2026-11-17-the-emperors-new-clothes.md) (adapted — Hans Christian Andersen, "The Emperor's New Clothes", 1837, public domain) | An emperor who loves fine clothes commissions a suit of magic cloth that only wise people can see — until a little girl named Ivy speaks up, and the whole town laughs together. |
 | 2026-11-16 | [Nori the Little Seahorse and the Gentle Current](stories/2026-11-16-nori-the-little-seahorse-and-the-gentle-current.md) (original) | A little seahorse who is the slowest swimmer in the sea is swept away by a strong current — and discovers that drifting gently and holding on tight can bring a lost little clownfish home. |
