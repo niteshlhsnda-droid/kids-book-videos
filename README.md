@@ -12,11 +12,11 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Faye the Little Frog and the Firefly Dance](stories/2026-11-20-faye-the-little-frog-and-the-firefly-dance.md)** — A little green frog named Faye longs to join the fireflies' dance across the pond — and hop by hop, with a dragonfly's tip and a turtle's rest, she makes it to the far bank. *Sleep now, little Faye.*
+**[The Little Shepherdess and the Chimney Sweep](stories/2026-11-21-the-little-shepherdess-and-the-chimney-sweep.md)** — Two little porcelain friends — a shepherdess and a chimney sweep — climb to the rooftop at midnight to see the wide world, and discover that home is where they belong. *Sleep now, little shepherdess, safe beside your friend.*
+
+🎬 [Watch the narrated video](videos/2026-11-21-the-little-shepherdess-and-the-chimney-sweep.mp4) · 📜 [Narration script](narration-scripts/2026-11-21-the-little-shepherdess-and-the-chimney-sweep-script.md) · 🎵 [Lullaby](assets/music/2026-11-21-the-little-shepherdess-and-the-chimney-sweep.mp3)
 
 🎬 [Watch the narrated video](videos/2026-11-20-faye-the-little-frog-and-the-firefly-dance.mp4) · 📜 [Narration script](narration-scripts/2026-11-20-faye-the-little-frog-and-the-firefly-dance-script.md) · 🎵 [Lullaby](assets/music/2026-11-20-faye-the-little-frog-and-the-firefly-dance.mp3)
-
-🎬 [Watch the narrated video](videos/2026-11-19-dorothy-and-the-scarecrow-in-the-cornfield.mp4) · 📜 [Narration script](narration-scripts/2026-11-19-dorothy-and-the-scarecrow-in-the-cornfield-script.md) · 🎵 [Lullaby](assets/music/2026-11-19-dorothy-and-the-scarecrow-in-the-cornfield.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -24,6 +24,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-11-21 | [The Little Shepherdess and the Chimney Sweep](stories/2026-11-21-the-little-shepherdess-and-the-chimney-sweep.md) (adapted — Hans Christian Andersen, "The Shepherdess and the Chimney Sweep", 1845, public domain) | Two little porcelain friends climb to the rooftop at midnight to see the wide world — and discover that home is where they belong. |
 | 2026-11-20 | [Faye the Little Frog and the Firefly Dance](stories/2026-11-20-faye-the-little-frog-and-the-firefly-dance.md) (original) | A little green frog named Faye longs to join the fireflies' dance across the pond — and hop by hop, with a dragonfly's tip and a turtle's rest, she makes it to the far bank. |
 | 2026-11-19 | [Dorothy and the Scarecrow in the Cornfield](stories/2026-11-19-dorothy-and-the-scarecrow-in-the-cornfield.md) (adapted — L. Frank Baum, "The Wonderful Wizard of Oz", 1900, public domain) | A girl named Dorothy walks the yellow brick road and meets a scarecrow stuck on a pole — and when the road splits in two, his straw head finds the way. |
 | 2026-11-18 | [Cora the Little Crab and the Gentle Wave](stories/2026-11-18-cora-the-little-crab-and-the-gentle-wave.md) (original) | A tiny crab who is afraid of the big waves finds a stranded starfish on the sand — and the gentle wave carries them both home. |
