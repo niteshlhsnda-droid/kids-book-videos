@@ -73,6 +73,7 @@ badge on the book's own page before adapting.
 | 2026-11-15 | The Three Little Pigs and the Brick House | Joseph Jacobs, *English Fairy Tales* ("The Story of the Three Little Pigs", 1890), Project Gutenberg eBook #7439 — public domain |
 | 2026-11-17 | The Emperor's New Clothes | Hans Christian Andersen, "The Emperor's New Clothes" (1837), Project Gutenberg *Andersen's Fairy Tales* (eBook #1597) — public domain |
 | 2026-11-19 | Dorothy and the Scarecrow in the Cornfield | L. Frank Baum, *The Wonderful Wizard of Oz* (Chapter IV, 1900), Project Gutenberg eBook #55 — public domain |
+| 2026-11-21 | The Little Shepherdess and the Chimney Sweep | Hans Christian Andersen, "The Shepherdess and the Chimney Sweep" (1845), Project Gutenberg *Andersen's Fairy Tales* (eBook #1597) — public domain |
 
 > Contributors: suggest new queue entries via pull request — include the source
 > URL and its license. See [CONTRIBUTING.md](../CONTRIBUTING.md).
