@@ -12,11 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Dilly the Dandelion Seed and the Big Wide Wind](stories/2026-11-22-dilly-the-dandelion-seed-and-the-big-wide-wind.md)** — A tiny dandelion seed is afraid to let go of her stem — but a kind wind, a ladybug's courage, and a soft landing show her the wide world, and the warm earth waiting below. *Sleep now, little Dilly, tucked in the soft, dark earth.*
+**[Doctor Dolittle and the Talking Parrot](stories/2026-11-23-doctor-dolittle-and-the-talking-parrot.md)** — A kind doctor who loves animals learns to speak their language from a wise old parrot — and on a cold moonlit night, a tiny mouse shows him why listening matters. *Sleep now, Doctor Dolittle.*
 
-🎬 [Watch the narrated video](videos/2026-11-22-dilly-the-dandelion-seed-and-the-big-wide-wind.mp4) · 📜 [Narration script](narration-scripts/2026-11-22-dilly-the-dandelion-seed-and-the-big-wide-wind-script.md) · 🎵 [Lullaby](assets/music/2026-11-22-dilly-the-dandelion-seed-and-the-big-wide-wind.mp3)
-
-🎬 [Watch the narrated video](videos/2026-11-21-the-little-shepherdess-and-the-chimney-sweep.mp4) · 📜 [Narration script](narration-scripts/2026-11-21-the-little-shepherdess-and-the-chimney-sweep-script.md) · 🎵 [Lullaby](assets/music/2026-11-21-the-little-shepherdess-and-the-chimney-sweep.mp3)
+🎬 [Watch the narrated video](videos/2026-11-23-doctor-dolittle-and-the-talking-parrot.mp4) · 📜 [Narration script](narration-scripts/2026-11-23-doctor-dolittle-and-the-talking-parrot-script.md) · 🎵 [Lullaby](assets/music/2026-11-23-doctor-dolittle-and-the-talking-parrot.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -24,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-11-23 | [Doctor Dolittle and the Talking Parrot](stories/2026-11-23-doctor-dolittle-and-the-talking-parrot.md) (adapted — Hugh Lofting, "The Story of Doctor Dolittle", 1920, public domain) | A kind doctor who loves animals learns to speak their language from a wise old parrot — and on a cold moonlit night, a tiny mouse shows him why listening matters. |
 | 2026-11-22 | [Dilly the Dandelion Seed and the Big Wide Wind](stories/2026-11-22-dilly-the-dandelion-seed-and-the-big-wide-wind.md) (original) | A tiny dandelion seed is afraid to let go of her stem — but a kind wind, a ladybug's courage, and a soft landing show her the wide world, and the warm earth waiting below. |
 | 2026-11-21 | [The Little Shepherdess and the Chimney Sweep](stories/2026-11-21-the-little-shepherdess-and-the-chimney-sweep.md) (adapted — Hans Christian Andersen, "The Shepherdess and the Chimney Sweep", 1845, public domain) | Two little porcelain friends climb to the rooftop at midnight to see the wide world — and discover that home is where they belong. |
 | 2026-11-20 | [Faye the Little Frog and the Firefly Dance](stories/2026-11-20-faye-the-little-frog-and-the-firefly-dance.md) (original) | A little green frog named Faye longs to join the fireflies' dance across the pond — and hop by hop, with a dragonfly's tip and a turtle's rest, she makes it to the far bank. |
