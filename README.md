@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[Zuzu the Hummingbird and the Firefly Dance](stories/2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance.md)** — A speedy little hummingbird who never slows down stays beside a snail too slow to reach the fireflies' dance — and discovers the loveliest evening is the one she doesn't race through. *Sleep now, little Zuzu.*
+**[The Fisherman and the Jinni](stories/2026-11-25-the-fisherman-and-the-jinni.md)** — A kind old fisherman pulls a sealed brass jar from the sea — and out floats a grumpy jinni who has waited a hundred years to be free. *Sleep now, little fisherman.*
 
-🎬 [Watch the narrated video](videos/2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance.mp4) · 📜 [Narration script](narration-scripts/2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance-script.md) · 🎵 [Lullaby](assets/music/2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance.mp3)
+🎬 [Watch the narrated video](videos/2026-11-25-the-fisherman-and-the-jinni.mp4) · 📜 [Narration script](narration-scripts/2026-11-25-the-fisherman-and-the-jinni-script.md) · 🎵 [Lullaby](assets/music/2026-11-25-the-fisherman-and-the-jinni.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-11-25 | [The Fisherman and the Jinni](stories/2026-11-25-the-fisherman-and-the-jinni.md) (adapted — The Arabian Nights, "The Fisherman and the Jinni", trans. Richard F. Burton, 1885, public domain) | A kind old fisherman pulls a sealed brass jar from the sea — and out floats a grumpy jinni who has waited a hundred years to be free. |
 | 2026-11-24 | [Zuzu the Hummingbird and the Firefly Dance](stories/2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance.md) (original) | A speedy little hummingbird who never slows down stays beside a snail too slow to reach the fireflies' dance — and discovers the loveliest evening is the one she doesn't race through. |
 | 2026-11-23 | [Doctor Dolittle and the Talking Parrot](stories/2026-11-23-doctor-dolittle-and-the-talking-parrot.md) (adapted — Hugh Lofting, "The Story of Doctor Dolittle", 1920, public domain) | A kind doctor who loves animals learns to speak their language from a wise old parrot — and on a cold moonlit night, a tiny mouse shows him why listening matters. |
 | 2026-11-22 | [Dilly the Dandelion Seed and the Big Wide Wind](stories/2026-11-22-dilly-the-dandelion-seed-and-the-big-wide-wind.md) (original) | A tiny dandelion seed is afraid to let go of her stem — but a kind wind, a ladybug's courage, and a soft landing show her the wide world, and the warm earth waiting below. |
