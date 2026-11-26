@@ -12,9 +12,9 @@ A beginner-friendly project template for creating and publishing **original** ch
 
 ## ⭐ Featured story
 
-**[The Fisherman and the Jinni](stories/2026-11-25-the-fisherman-and-the-jinni.md)** — A kind old fisherman pulls a sealed brass jar from the sea — and out floats a grumpy jinni who has waited a hundred years to be free. *Sleep now, little fisherman.*
+**[Chami the Little Chameleon and the Garden of Colours](stories/2026-11-26-chami-the-little-chameleon-and-the-garden-of-colours.md)** — A little chameleon whose skin changes colour with her feelings hides from Garden Singing Day — until a blue butterfly and a wobbly sparrow show her that every colour of her belongs. *Sleep now, little Chami.*
 
-🎬 [Watch the narrated video](videos/2026-11-25-the-fisherman-and-the-jinni.mp4) · 📜 [Narration script](narration-scripts/2026-11-25-the-fisherman-and-the-jinni-script.md) · 🎵 [Lullaby](assets/music/2026-11-25-the-fisherman-and-the-jinni.mp3)
+🎬 [Watch the narrated video](videos/2026-11-26-chami-the-little-chameleon-and-the-garden-of-colours.mp4) · 📜 [Narration script](narration-scripts/2026-11-26-chami-the-little-chameleon-and-the-garden-of-colours-script.md) · 🎵 [Lullaby](assets/music/2026-11-26-chami-the-little-chameleon-and-the-garden-of-colours.mp3)
 
 A new story + narrated video is published here **every day** — alternating between original tales and lovingly adapted public-domain / Creative Commons classics (always credited). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -22,6 +22,7 @@ A new story + narrated video is published here **every day** — alternating bet
 
 | Date | Story | Moral |
 |------|-------|-------|
+| 2026-11-26 | [Chami the Little Chameleon and the Garden of Colours](stories/2026-11-26-chami-the-little-chameleon-and-the-garden-of-colours.md) (original) | A little chameleon whose skin changes colour with her feelings hides from Garden Singing Day — until a blue butterfly and a wobbly sparrow show her that every colour of her belongs. |
 | 2026-11-25 | [The Fisherman and the Jinni](stories/2026-11-25-the-fisherman-and-the-jinni.md) (adapted — The Arabian Nights, "The Fisherman and the Jinni", trans. Richard F. Burton, 1885, public domain) | A kind old fisherman pulls a sealed brass jar from the sea — and out floats a grumpy jinni who has waited a hundred years to be free. |
 | 2026-11-24 | [Zuzu the Hummingbird and the Firefly Dance](stories/2026-11-24-zuzu-the-hummingbird-and-the-firefly-dance.md) (original) | A speedy little hummingbird who never slows down stays beside a snail too slow to reach the fireflies' dance — and discovers the loveliest evening is the one she doesn't race through. |
 | 2026-11-23 | [Doctor Dolittle and the Talking Parrot](stories/2026-11-23-doctor-dolittle-and-the-talking-parrot.md) (adapted — Hugh Lofting, "The Story of Doctor Dolittle", 1920, public domain) | A kind doctor who loves animals learns to speak their language from a wise old parrot — and on a cold moonlit night, a tiny mouse shows him why listening matters. |
