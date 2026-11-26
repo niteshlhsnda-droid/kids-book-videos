@@ -6,12 +6,12 @@ title: The Big Bedtime Storybook
 <div class="hero">
   <span class="moon">🌙</span>
   <h1>The Big Bedtime Storybook</h1>
-  <p class="tagline">775 bedtime stories for ages 4–7 — 615 original tales plus 160 timeless classics.</p>
+  <p class="tagline">776 bedtime stories for ages 4–7 — 618 original tales plus 158 timeless classics.</p>
   <div class="search-wrap">
     <input id="story-search" type="search" placeholder="🔍 Search stories…" aria-label="search">
     <span class="mag">🔍</span>
   </div>
-  <p class="stats">📚 775 stories &nbsp;·&nbsp; 📕 free illustrated PDFs &nbsp;·&nbsp; 🌙 new stories daily<span id="result-count"></span></p>
+  <p class="stats">📚 776 stories &nbsp;·&nbsp; 📕 free illustrated PDFs &nbsp;·&nbsp; 🌙 new stories daily<span id="result-count"></span></p>
   <p style="margin-top:22px"><a class="btn btn-read" style="flex:none;padding:13px 34px" href="book/bedtime-storybook.html">📖 Read the whole book in one page</a></p>
 </div>
 
@@ -34,6 +34,19 @@ title: The Big Bedtime Storybook
   <h2>✨ New Bedtime Stories</h2>
   <p class="desc">Fresh tales, newest first — posted daily.</p>
   <div class="cards">
+<article class="story-card" data-search="chami the little chameleon and the garden of colours 2026-11-26-chami-the-little-chameleon-and-the-garden-of-colours">
+  <a class="card-art" href="stories/2026-11-26-chami-the-little-chameleon-and-the-garden-of-colours.html" aria-label="Chami the Little Chameleon and the Garden of Colours">
+    <span class="fallback" aria-hidden="true">🌸</span>
+    <img src="assets/thumbnails/2026-11-26-chami-the-little-chameleon-and-the-garden-of-colours.jpg" alt="Chami the Little Chameleon and the Garden of Colours — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/2026-11-26-chami-the-little-chameleon-and-the-garden-of-colours.html">Chami the Little Chameleon and the Garden of Colours</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/2026-11-26-chami-the-little-chameleon-and-the-garden-of-colours.html">📖 Read</a>
+      <a class="btn btn-share" href="https://wa.me/?text=Chami%20the%20Little%20Chameleon%20and%20the%20Garden%20of%20Colours%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2F2026-11-26-chami-the-little-chameleon-and-the-garden-of-colours.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
+    </div>
+  </div>
+</article>
 <article class="story-card" data-search="the fisherman and the jinni 2026-11-25-the-fisherman-and-the-jinni">
   <a class="card-art" href="stories/2026-11-25-the-fisherman-and-the-jinni.html" aria-label="The Fisherman and the Jinni">
     <span class="fallback" aria-hidden="true">🌙</span>
@@ -1337,7 +1350,8 @@ title: The Big Bedtime Storybook
       <a class="btn btn-share" href="https://wa.me/?text=Bella%20the%20Bunny%20and%20the%20Bedtime%20Garden%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fbella-the-bunny-and-the-bedtime-garden.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
     </div>
   </div>
-</article><article class="story-card" data-search="bella the butterfly and the big wind bella-the-butterfly-and-the-big-wind">
+</article>
+<article class="story-card" data-search="bella the butterfly and the big wind bella-the-butterfly-and-the-big-wind">
   <a class="card-art" href="stories/bella-the-butterfly-and-the-big-wind.html" aria-label="Bella the Butterfly and the Big Wind">
     <span class="fallback" aria-hidden="true">🦋</span>
     <img src="book/colorful-illustrations/bella-the-butterfly-and-the-big-wind/scene-01-cover.webp" alt="Bella the Butterfly and the Big Wind — cover art" loading="lazy" onerror="this.style.display='none'">
@@ -2136,7 +2150,7 @@ title: The Big Bedtime Storybook
 </article>
 <article class="story-card" data-search="dolly the dolphin and the deep-sea lullaby dolly-the-dolphin-and-the-deep-sea-lullaby">
   <a class="card-art" href="stories/dolly-the-dolphin-and-the-deep-sea-lullaby.html" aria-label="Dolly the Dolphin and the Deep-Sea Lullaby">
-    <span class="fallback" aria-hidden="true">🐬</span>
+    <span class="fallback" aria-hidden="true">🎵</span>
     <img src="book/colorful-illustrations/dolly-the-dolphin-and-the-deep-sea-lullaby/scene-01-cover.webp" alt="Dolly the Dolphin and the Deep-Sea Lullaby — cover art" loading="lazy" onerror="this.style.display='none'">
   </a>
   <div class="card-body">
@@ -2146,7 +2160,8 @@ title: The Big Bedtime Storybook
       <a class="btn btn-share" href="https://wa.me/?text=Dolly%20the%20Dolphin%20and%20the%20Deep-Sea%20Lullaby%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fdolly-the-dolphin-and-the-deep-sea-lullaby.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
     </div>
   </div>
-</article><article class="story-card" data-search="dottie the duckling and the dancing rain dottie-the-duckling-and-the-dancing-rain">
+</article>
+<article class="story-card" data-search="dottie the duckling and the dancing rain dottie-the-duckling-and-the-dancing-rain">
   <a class="card-art" href="stories/dottie-the-duckling-and-the-dancing-rain.html" aria-label="Dottie the Duckling and the Dancing Rain">
     <span class="fallback" aria-hidden="true">🦆</span>
     <img src="book/colorful-illustrations/dottie-the-duckling-and-the-dancing-rain/scene-01-cover.webp" alt="Dottie the Duckling and the Dancing Rain — cover art" loading="lazy" onerror="this.style.display='none'">
@@ -2229,7 +2244,7 @@ title: The Big Bedtime Storybook
 </article>
 <article class="story-card" data-search="felix the fox cub and the firefly lantern felix-the-fox-cub-and-the-firefly-lantern">
   <a class="card-art" href="stories/felix-the-fox-cub-and-the-firefly-lantern.html" aria-label="Felix the Fox Cub and the Firefly Lantern">
-    <span class="fallback" aria-hidden="true">🦊</span>
+    <span class="fallback" aria-hidden="true">✨</span>
     <img src="book/colorful-illustrations/felix-the-fox-cub-and-the-firefly-lantern/scene-01-cover.webp" alt="Felix the Fox Cub and the Firefly Lantern — cover art" loading="lazy" onerror="this.style.display='none'">
   </a>
   <div class="card-body">
@@ -2239,7 +2254,8 @@ title: The Big Bedtime Storybook
       <a class="btn btn-share" href="https://wa.me/?text=Felix%20the%20Fox%20Cub%20and%20the%20Firefly%20Lantern%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Ffelix-the-fox-cub-and-the-firefly-lantern.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
     </div>
   </div>
-</article><article class="story-card" data-search="fergus the frog finds his croak fergus-the-frog-finds-his-croak">
+</article>
+<article class="story-card" data-search="fergus the frog finds his croak fergus-the-frog-finds-his-croak">
   <a class="card-art" href="stories/fergus-the-frog-finds-his-croak.html" aria-label="Fergus the Frog Finds His Croak">
     <span class="fallback" aria-hidden="true">🐸</span>
     <img src="book/colorful-illustrations/fergus-the-frog-finds-his-croak/scene-01-cover.webp" alt="Fergus the Frog Finds His Croak — cover art" loading="lazy" onerror="this.style.display='none'">
@@ -3744,7 +3760,7 @@ title: The Big Bedtime Storybook
 </article>
 <article class="story-card" data-search="ollie the octopus and the underwater lullaby ollie-the-octopus-and-the-underwater-lullaby">
   <a class="card-art" href="stories/ollie-the-octopus-and-the-underwater-lullaby.html" aria-label="Ollie the Octopus and the Underwater Lullaby">
-    <span class="fallback" aria-hidden="true">🐙</span>
+    <span class="fallback" aria-hidden="true">🎵</span>
     <img src="book/colorful-illustrations/ollie-the-octopus-and-the-underwater-lullaby/scene-01-cover.webp" alt="Ollie the Octopus and the Underwater Lullaby — cover art" loading="lazy" onerror="this.style.display='none'">
   </a>
   <div class="card-body">
@@ -3754,7 +3770,8 @@ title: The Big Bedtime Storybook
       <a class="btn btn-share" href="https://wa.me/?text=Ollie%20the%20Octopus%20and%20the%20Underwater%20Lullaby%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Follie-the-octopus-and-the-underwater-lullaby.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
     </div>
   </div>
-</article><article class="story-card" data-search="ollie the otter feels angry ollie-the-otter-feels-angry">
+</article>
+<article class="story-card" data-search="ollie the otter feels angry ollie-the-otter-feels-angry">
   <a class="card-art" href="stories/ollie-the-otter-feels-angry.html" aria-label="Ollie the Otter Feels Angry">
     <span class="fallback" aria-hidden="true">🦦</span>
     <img src="book/colorful-illustrations/ollie-the-otter-feels-angry/scene-01-cover.webp" alt="Ollie the Otter Feels Angry — cover art" loading="lazy" onerror="this.style.display='none'">
@@ -3914,7 +3931,7 @@ title: The Big Bedtime Storybook
 </article>
 <article class="story-card" data-search="penny the penguin and the polar lullaby penny-the-penguin-and-the-polar-lullaby">
   <a class="card-art" href="stories/penny-the-penguin-and-the-polar-lullaby.html" aria-label="Penny the Penguin and the Polar Lullaby">
-    <span class="fallback" aria-hidden="true">🐧</span>
+    <span class="fallback" aria-hidden="true">🎵</span>
     <img src="book/colorful-illustrations/penny-the-penguin-and-the-polar-lullaby/scene-01-cover.webp" alt="Penny the Penguin and the Polar Lullaby — cover art" loading="lazy" onerror="this.style.display='none'">
   </a>
   <div class="card-body">
@@ -3924,7 +3941,8 @@ title: The Big Bedtime Storybook
       <a class="btn btn-share" href="https://wa.me/?text=Penny%20the%20Penguin%20and%20the%20Polar%20Lullaby%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fpenny-the-penguin-and-the-polar-lullaby.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
     </div>
   </div>
-</article><article class="story-card" data-search="perry the pika and the cosy mountain nests perry-the-pika-and-the-cosy-mountain-nests">
+</article>
+<article class="story-card" data-search="perry the pika and the cosy mountain nests perry-the-pika-and-the-cosy-mountain-nests">
   <a class="card-art" href="stories/perry-the-pika-and-the-cosy-mountain-nests.html" aria-label="Perry the Pika and the Cosy Mountain Nests">
     <span class="fallback" aria-hidden="true">🌙</span>
     <img src="book/colorful-illustrations/perry-the-pika-and-the-cosy-mountain-nests/scene-01-cover.webp" alt="Perry the Pika and the Cosy Mountain Nests — cover art" loading="lazy" onerror="this.style.display='none'">
@@ -4864,6 +4882,19 @@ title: The Big Bedtime Storybook
     </div>
   </div>
 </article>
+<article class="story-card" data-search="tenali rama and the well classic-tenali-rama-and-the-well">
+  <a class="card-art" href="stories/classic-tenali-rama-and-the-well.html" aria-label="Tenali Rama and the Well">
+    <span class="fallback" aria-hidden="true">🌙</span>
+    <img src="book/colorful-illustrations/classic-tenali-rama-and-the-well/scene-01-cover.webp" alt="Tenali Rama and the Well — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/classic-tenali-rama-and-the-well.html">Tenali Rama and the Well</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/classic-tenali-rama-and-the-well.html">📖 Read</a>
+      <a class="btn btn-share" href="https://wa.me/?text=Tenali%20Rama%20and%20the%20Well%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-tenali-rama-and-the-well.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
+    </div>
+  </div>
+</article>
 <article class="story-card" data-search="tenali rama counts the crows classic-tenali-rama-counts-the-crows">
   <a class="card-art" href="stories/classic-tenali-rama-counts-the-crows.html" aria-label="Tenali Rama Counts the Crows">
     <span class="fallback" aria-hidden="true">🐦</span>
@@ -5085,6 +5116,19 @@ title: The Big Bedtime Storybook
     <div class="card-actions">
       <a class="btn btn-read" href="stories/classic-the-brahmin-and-the-pot.html">📖 Read</a>
       <a class="btn btn-share" href="https://wa.me/?text=The%20Brahmin%20and%20the%20Pot%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-the-brahmin-and-the-pot.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
+    </div>
+  </div>
+</article>
+<article class="story-card" data-search="the brahmin and the three rogues classic-the-brahmin-and-the-three-rogues">
+  <a class="card-art" href="stories/classic-the-brahmin-and-the-three-rogues.html" aria-label="The Brahmin and the Three Rogues">
+    <span class="fallback" aria-hidden="true">🌙</span>
+    <img src="book/colorful-illustrations/classic-the-brahmin-and-the-three-rogues/scene-01-cover.webp" alt="The Brahmin and the Three Rogues — cover art" loading="lazy" onerror="this.style.display='none'">
+  </a>
+  <div class="card-body">
+    <h3><a href="stories/classic-the-brahmin-and-the-three-rogues.html">The Brahmin and the Three Rogues</a></h3>
+    <div class="card-actions">
+      <a class="btn btn-read" href="stories/classic-the-brahmin-and-the-three-rogues.html">📖 Read</a>
+      <a class="btn btn-share" href="https://wa.me/?text=The%20Brahmin%20and%20the%20Three%20Rogues%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-the-brahmin-and-the-three-rogues.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
     </div>
   </div>
 </article>
@@ -8843,7 +8887,7 @@ title: The Big Bedtime Storybook
 </article>
 <article class="story-card" data-search="nasruddin and the smell of soup classic-nasruddin-and-the-smell-of-soup">
   <a class="card-art" href="stories/classic-nasruddin-and-the-smell-of-soup.html" aria-label="Nasruddin and the Smell of Soup">
-    <span class="fallback" aria-hidden="true">🍲</span>
+    <span class="fallback" aria-hidden="true">🌙</span>
     <img src="book/colorful-illustrations/classic-nasruddin-and-the-smell-of-soup/scene-01-cover.webp" alt="Nasruddin and the Smell of Soup — cover art" loading="lazy" onerror="this.style.display='none'">
   </a>
   <div class="card-body">
@@ -8853,7 +8897,8 @@ title: The Big Bedtime Storybook
       <a class="btn btn-share" href="https://wa.me/?text=Nasruddin%20and%20the%20Smell%20of%20Soup%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-nasruddin-and-the-smell-of-soup.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
     </div>
   </div>
-</article><article class="story-card" data-search="nasruddin counts his donkeys classic-nasruddin-counts-his-donkeys">
+</article>
+<article class="story-card" data-search="nasruddin counts his donkeys classic-nasruddin-counts-his-donkeys">
   <a class="card-art" href="stories/classic-nasruddin-counts-his-donkeys.html" aria-label="Nasruddin Counts His Donkeys">
     <span class="fallback" aria-hidden="true">🌙</span>
     <img src="book/colorful-illustrations/classic-nasruddin-counts-his-donkeys/scene-01-cover.webp" alt="Nasruddin Counts His Donkeys — cover art" loading="lazy" onerror="this.style.display='none'">
@@ -8920,7 +8965,7 @@ title: The Big Bedtime Storybook
 </article>
 <article class="story-card" data-search="rapunzel classic-rapunzel">
   <a class="card-art" href="stories/classic-rapunzel.html" aria-label="Rapunzel">
-    <span class="fallback" aria-hidden="true">🏰</span>
+    <span class="fallback" aria-hidden="true">🌙</span>
     <img src="book/colorful-illustrations/classic-rapunzel/scene-01-cover.webp" alt="Rapunzel — cover art" loading="lazy" onerror="this.style.display='none'">
   </a>
   <div class="card-body">
@@ -8930,7 +8975,8 @@ title: The Big Bedtime Storybook
       <a class="btn btn-share" href="https://wa.me/?text=Rapunzel%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-rapunzel.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
     </div>
   </div>
-</article><article class="story-card" data-search="stone soup classic-stone-soup">
+</article>
+<article class="story-card" data-search="stone soup classic-stone-soup">
   <a class="card-art" href="stories/classic-stone-soup.html" aria-label="Stone Soup">
     <span class="fallback" aria-hidden="true">🌙</span>
     <img src="book/colorful-illustrations/classic-stone-soup/scene-01-cover.webp" alt="Stone Soup — cover art" loading="lazy" onerror="this.style.display='none'">
@@ -9075,19 +9121,7 @@ title: The Big Bedtime Storybook
     </div>
   </div>
 </article>
-<article class="story-card" data-search="tenali rama and the well classic-tenali-rama-and-the-well">
-  <a class="card-art" href="stories/classic-tenali-rama-and-the-well.html" aria-label="Tenali Rama and the Well">
-    <span class="fallback" aria-hidden="true">💧</span>
-    <img src="book/colorful-illustrations/classic-tenali-rama-and-the-well/scene-01-cover.webp" alt="Tenali Rama and the Well — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/classic-tenali-rama-and-the-well.html">Tenali Rama and the Well</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/classic-tenali-rama-and-the-well.html">📖 Read</a>
-      <a class="btn btn-share" href="https://wa.me/?text=Tenali%20Rama%20and%20the%20Well%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-tenali-rama-and-the-well.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
-    </div>
-  </div>
-</article><article class="story-card" data-search="tenali rama and the wrestler classic-tenali-rama-and-the-wrestler">
+<article class="story-card" data-search="tenali rama and the wrestler classic-tenali-rama-and-the-wrestler">
   <a class="card-art" href="stories/classic-tenali-rama-and-the-wrestler.html" aria-label="Tenali Rama and the Wrestler">
     <span class="fallback" aria-hidden="true">🌙</span>
     <img src="book/colorful-illustrations/classic-tenali-rama-and-the-wrestler/scene-01-cover.webp" alt="Tenali Rama and the Wrestler — cover art" loading="lazy" onerror="this.style.display='none'">
@@ -9220,19 +9254,7 @@ title: The Big Bedtime Storybook
     </div>
   </div>
 </article>
-<article class="story-card" data-search="the brahmin and the three rogues classic-the-brahmin-and-the-three-rogues">
-  <a class="card-art" href="stories/classic-the-brahmin-and-the-three-rogues.html" aria-label="The Brahmin and the Three Rogues">
-    <span class="fallback" aria-hidden="true">🐐</span>
-    <img src="book/colorful-illustrations/classic-the-brahmin-and-the-three-rogues/scene-01-cover.webp" alt="The Brahmin and the Three Rogues — cover art" loading="lazy" onerror="this.style.display='none'">
-  </a>
-  <div class="card-body">
-    <h3><a href="stories/classic-the-brahmin-and-the-three-rogues.html">The Brahmin and the Three Rogues</a></h3>
-    <div class="card-actions">
-      <a class="btn btn-read" href="stories/classic-the-brahmin-and-the-three-rogues.html">📖 Read</a>
-      <a class="btn btn-share" href="https://wa.me/?text=The%20Brahmin%20and%20the%20Three%20Rogues%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-the-brahmin-and-the-three-rogues.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
-    </div>
-  </div>
-</article><article class="story-card" data-search="the brave little parrot classic-the-brave-little-parrot">
+<article class="story-card" data-search="the brave little parrot classic-the-brave-little-parrot">
   <a class="card-art" href="stories/classic-the-brave-little-parrot.html" aria-label="The Brave Little Parrot">
     <span class="fallback" aria-hidden="true">🌙</span>
     <img src="book/colorful-illustrations/classic-the-brave-little-parrot/scene-01-cover.webp" alt="The Brave Little Parrot — cover art" loading="lazy" onerror="this.style.display='none'">
@@ -10241,7 +10263,7 @@ title: The Big Bedtime Storybook
 </article>
 <article class="story-card" data-search="the quarrelsome quails classic-the-quarrelsome-quails">
   <a class="card-art" href="stories/classic-the-quarrelsome-quails.html" aria-label="The Quarrelsome Quails">
-    <span class="fallback" aria-hidden="true">🐦</span>
+    <span class="fallback" aria-hidden="true">🌙</span>
     <img src="book/colorful-illustrations/classic-the-quarrelsome-quails/scene-01-cover.webp" alt="The Quarrelsome Quails — cover art" loading="lazy" onerror="this.style.display='none'">
   </a>
   <div class="card-body">
@@ -10251,7 +10273,8 @@ title: The Big Bedtime Storybook
       <a class="btn btn-share" href="https://wa.me/?text=The%20Quarrelsome%20Quails%20%E2%80%94%20The%20Big%20Bedtime%20Storybook%0Ahttps%3A%2F%2Fniteshlhsnda-droid.github.io%2Fkids-book-videos%2Fstories%2Fclassic-the-quarrelsome-quails.html" target="_blank" rel="noopener" title="Share on WhatsApp" aria-label="Share on WhatsApp">📲</a>
     </div>
   </div>
-</article><article class="story-card" data-search="the queen bee classic-the-queen-bee">
+</article>
+<article class="story-card" data-search="the queen bee classic-the-queen-bee">
   <a class="card-art" href="stories/classic-the-queen-bee.html" aria-label="The Queen Bee">
     <span class="fallback" aria-hidden="true">🐝</span>
     <img src="book/colorful-illustrations/classic-the-queen-bee/scene-01-cover.webp" alt="The Queen Bee — cover art" loading="lazy" onerror="this.style.display='none'">
