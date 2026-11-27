@@ -76,6 +76,7 @@ badge on the book's own page before adapting.
 | 2026-11-21 | The Little Shepherdess and the Chimney Sweep | Hans Christian Andersen, "The Shepherdess and the Chimney Sweep" (1845), Project Gutenberg *Andersen's Fairy Tales* (eBook #1597) — public domain |
 | 2026-11-23 | Doctor Dolittle and the Talking Parrot | Hugh Lofting, *The Story of Doctor Dolittle* (1920), Project Gutenberg eBook #501 — public domain |
 | 2026-11-25 | The Fisherman and the Jinni | The Arabian Nights ("The Fisherman and the Jinni"), trans. Richard F. Burton, 1885, Project Gutenberg eBook #51252 — public domain |
+| 2026-11-27 | Asha the Ant and the Singing Grasshopper | Aesop's Fables ("The Ant and the Grasshopper"), Æsop's Fables: A Version for Young Readers, Project Gutenberg eBook #49010 — public domain |
 
 > Contributors: suggest new queue entries via pull request — include the source
 > URL and its license. See [CONTRIBUTING.md](../CONTRIBUTING.md).
